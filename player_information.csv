@@ -1,0 +1,33 @@
+,pid,lname,fname,birthcity,birthcountry,coach,birthdate,age,nationality,height,weight,playhand,backhand,proyear,active
+0,d643,Djokovic,Novak,Belgrade, Serbia,Goran Ivanisevic,1987-05-22,36,Serbia,188,77,R,2,2003,A
+1,a0e2,Alcaraz,Carlos,El Palmar, Murcia,Juan Carlos Ferrero,2003-05-05,20,Spain,183,74,R,2,2018,A
+2,s0ag,Sinner,Jannik,San Candido, Italy,"Simone Vagnozzi, Darren Cahill",2001-08-16,22,Italy,188,76,R,2,2018,A
+3,mm58,Medvedev,Daniil,Moscow, Russia,Gilles Cervara,1996-02-11,28,Russia,198,83,R,2,2014,A
+4,re44,Rublev,Andrey,Moscow, Russia,"Fernando Vicente, Alberto Martin",1997-10-20,26,Russia,188,75,R,2,2014,A
+5,z355,Zverev,Alexander,Hamburg, Germany,Alexander Zverev Sr.,1997-04-20,26,Germany,198,90,R,2,2013,A
+6,r0dg,Rune,Holger,Gentofte, Denmark,"Patrick Mouratoglou, Kenneth Carlsen",2003-04-29,20,Denmark,188,77,R,2,2020,A
+7,hb71,Hurkacz,Hubert,Wroclaw, Poland,Craig Boynton,1997-02-11,27,Poland,196,81,R,2,2015,A
+8,dh58,de Minaur,Alex,Sydney, Australia,Adolfo Gutierrez,1999-02-17,25,Australia,183,69,R,2,2015,A
+9,fb98,Fritz,Taylor,Rancho Santa Fe, CA,"Michael Russell, Paul Annacone",1997-10-28,26,United States,196,86,R,2,2015,A
+10,fb98,Fritz,Taylor,Rancho Santa Fe, CA,"Michael Russell, Paul Annacone",1997-10-28,26,United States,196,86,R,2,2015,A
+11,rh16,Ruud,Casper,Oslo, Norway,"Christian Ruud , Pedro Clar",1998-12-22,25,Norway,183,81,R,2,2015,A
+12,te51,Tsitsipas,Stefanos,Athens, Greece,Apostolos Tsitsipas,1998-08-12,25,Greece,193,90,R,1,2016,A
+13,d875,Dimitrov,Grigor,Haskovo, Bulgaria,"Daniel Vallverdu, Jamie Delgado",1991-05-16,32,Bulgaria,191,81,R,1,2008,A
+14,pl56,Paul,Tommy,Voorhees, NJ,Brad Stine,1997-05-17,26,United States,185,82,R,2,2015,A
+15,ke29,Khachanov,Karen,Moscow, Russia,"Jose Clavet, Vedran Martic",1996-05-21,27,Russia,198,87,R,2,2013,A
+16,td51,Tiafoe,Frances,Hyattsville, MD,Diego Moyano,1998-01-20,26,United States,188,86,R,2,2015,A
+17,s0s1,Shelton,Ben,Atlanta, GA,"Father, Bryan Shelton",2002-10-09,21,United States,193,88,L,2,2022,A
+18,hh26,Humbert,Ugo,Metz, France,Jeremy Chardy,1998-06-26,25,France,188,73,L,2,2016,A
+19,me82,Mannarino,Adrian,Soisy-sous-Montmorency, France,Erwann Tortuyaux,1988-06-29,35,France,180,79,L,2,2004,A
+20,c0au,Cerundolo,Francisco,Buenos Aires, Argentina,Kevin Konfederak,1998-08-13,25,Argentina,185,80,R,2,2018,A
+21,b0bi,Baez,Sebastian,Buenos Aires, Argentina,Sebastian Gutierrez,2000-12-28,23,Argentina,170,70,R,2,2018,A
+22,j551,Jarry,Nicolas,Santiago, Chile,"Juan Ignacio Chela, Cesar Fabregas",1995-10-11,28,Chile,198,90,R,2,2014,A
+23,bk92,Bublik,Alexander,Gatchina, Russia,Artem Suprunov,1997-06-17,26,Kazakhstan,196,82,R,2,2016,A
+24,dh50,Davidovich Fokina,Alejandro,Malaga, Spain,Jorge Aguirre,1999-06-05,24,Spain,183,78,R,2,2017,A
+25,sl28,Struff,Jan-Lennard,Warstein, Germany,Carsten Arriens,1990-04-25,33,Germany,193,92,R,2,2009,A
+26,m0ej,Musetti,Lorenzo,Carrara, Italy,Simone Tartarini ,2002-03-03,21,Italy,185,78,R,1,2019,A
+27,ea24,Etcheverry,Tomas Martin,La Plata, Argentina,Walter Grinovero,1999-07-18,24,Argentina,196,82,R,2,2017,A
+28,gj37,Griekspoor,Tallon,Haarlem, Netherlands,Kristof Vliegen,1996-07-02,27,Netherlands,188,85,R,2,2015,A
+29,n771,Norrie,Cameron,Johannesburg, South Africa,Facundo Lugones,1995-08-23,28,Great Britain,188,82,L,2,2017,A
+30,ag37,Auger-Aliassime,Felix,Montreal, Canada,"Frederic Fontang, Toni Nadal",2000-08-08,23,Canada,193,88,R,2,2017,A
+31,cg80,Coric,Borna,Zagreb, Croatia,Liam Smith,1996-11-14,27,Croatia,188,85,R,2,2013,A

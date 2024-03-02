@@ -1,0 +1,2053 @@
+,pid,lname,fname,birthcity,birthcountry,coach,birthdate,age,nationality,height,weight,playhand,backhand,proyear,active
+0,d643,Djokovic,Novak,Belgrade,Serbia,Goran Ivanisevic,1987-05-22,36,Serbia,188,77,R,2,2003,A
+1,a0e2,Alcaraz,Carlos,El Palmar,Murcia,Juan Carlos Ferrero,2003-05-05,20,Spain,183,74,R,2,2018,A
+2,s0ag,Sinner,Jannik,San Candido,Italy,"Simone Vagnozzi, Darren Cahill",2001-08-16,22,Italy,188,76,R,2,2018,A
+3,mm58,Medvedev,Daniil,Moscow,Russia,Gilles Cervara,1996-02-11,28,Russia,198,83,R,2,2014,A
+4,re44,Rublev,Andrey,Moscow,Russia,"Fernando Vicente, Alberto Martin",1997-10-20,26,Russia,188,75,R,2,2014,A
+5,z355,Zverev,Alexander,Hamburg,Germany,Alexander Zverev Sr.,1997-04-20,26,Germany,198,90,R,2,2013,A
+6,r0dg,Rune,Holger,Gentofte,Denmark,"Patrick Mouratoglou, Kenneth Carlsen",2003-04-29,20,Denmark,188,77,R,2,2020,A
+7,hb71,Hurkacz,Hubert,Wroclaw,Poland,Craig Boynton,1997-02-11,27,Poland,196,81,R,2,2015,A
+8,dh58,de Minaur,Alex,Sydney,Australia,Adolfo Gutierrez,1999-02-17,25,Australia,183,69,R,2,2015,A
+9,fb98,Fritz,Taylor,Rancho Santa Fe,CA,"Michael Russell, Paul Annacone",1997-10-28,26,United States,196,86,R,2,2015,A
+10,fb98,Fritz,Taylor,Rancho Santa Fe,CA,"Michael Russell, Paul Annacone",1997-10-28,26,United States,196,86,R,2,2015,A
+11,rh16,Ruud,Casper,Oslo,Norway,"Christian Ruud , Pedro Clar",1998-12-22,25,Norway,183,81,R,2,2015,A
+12,te51,Tsitsipas,Stefanos,Athens,Greece,Apostolos Tsitsipas,1998-08-12,25,Greece,193,90,R,1,2016,A
+13,d875,Dimitrov,Grigor,Haskovo,Bulgaria,"Daniel Vallverdu, Jamie Delgado",1991-05-16,32,Bulgaria,191,81,R,1,2008,A
+14,pl56,Paul,Tommy,Voorhees,NJ,Brad Stine,1997-05-17,26,United States,185,82,R,2,2015,A
+15,ke29,Khachanov,Karen,Moscow,Russia,"Jose Clavet, Vedran Martic",1996-05-21,27,Russia,198,87,R,2,2013,A
+16,td51,Tiafoe,Frances,Hyattsville,MD,Diego Moyano,1998-01-20,26,United States,188,86,R,2,2015,A
+17,s0s1,Shelton,Ben,Atlanta,GA,"Father, Bryan Shelton",2002-10-09,21,United States,193,88,L,2,2022,A
+18,hh26,Humbert,Ugo,Metz,France,Jeremy Chardy,1998-06-26,25,France,188,73,L,2,2016,A
+19,me82,Mannarino,Adrian,Soisy-sous-Montmorency,France,Erwann Tortuyaux,1988-06-29,35,France,180,79,L,2,2004,A
+20,c0au,Cerundolo,Francisco,Buenos Aires,Argentina,Kevin Konfederak,1998-08-13,25,Argentina,185,80,R,2,2018,A
+21,b0bi,Baez,Sebastian,Buenos Aires,Argentina,Sebastian Gutierrez,2000-12-28,23,Argentina,170,70,R,2,2018,A
+22,j551,Jarry,Nicolas,Santiago,Chile,"Juan Ignacio Chela, Cesar Fabregas",1995-10-11,28,Chile,198,90,R,2,2014,A
+23,bk92,Bublik,Alexander,Gatchina,Russia,Artem Suprunov,1997-06-17,26,Kazakhstan,196,82,R,2,2016,A
+24,dh50,Davidovich Fokina,Alejandro,Malaga,Spain,Jorge Aguirre,1999-06-05,24,Spain,183,78,R,2,2017,A
+25,sl28,Struff,Jan-Lennard,Warstein,Germany,Carsten Arriens,1990-04-25,33,Germany,193,92,R,2,2009,A
+26,m0ej,Musetti,Lorenzo,Carrara,Italy,Simone Tartarini ,2002-03-03,21,Italy,185,78,R,1,2019,A
+27,ea24,Etcheverry,Tomas Martin,La Plata,Argentina,Walter Grinovero,1999-07-18,24,Argentina,196,82,R,2,2017,A
+28,gj37,Griekspoor,Tallon,Haarlem,Netherlands,Kristof Vliegen,1996-07-02,27,Netherlands,188,85,R,2,2015,A
+29,n771,Norrie,Cameron,Johannesburg,South Africa,Facundo Lugones,1995-08-23,28,Great Britain,188,82,L,2,2017,A
+30,ag37,Auger-Aliassime,Felix,Montreal,Canada,"Frederic Fontang, Toni Nadal",2000-08-08,23,Canada,193,88,R,2,2017,A
+31,cg80,Coric,Borna,Zagreb,Croatia,Liam Smith,1996-11-14,27,Croatia,188,85,R,2,2013,A
+32,tc61,Thompson,Jordan,Sydney,Australia,Marinko Matosevic,1994-04-20,29,Australia,183,82,R,2,2013,A
+33,k0ah,Korda,Sebastian,Bradenton,FL,"Radek Stepanek, Martin Stepanek ",2000-07-05,23,United States,196,82,R,2,2018,A
+34,e865,Eubanks,Christopher,Atlanta,GA,Ruan Roelofse,1996-05-05,27,United States,201,82,R,1,2017,A
+35,db63,Djere,Laslo,Senta,Serbia,Jaroslav Levinsky,1995-06-02,28,Serbia,188,82,R,2,2013,A
+36,l0bv,Lehecka,Jiri,Mlada Boleslav,Czech Republic,Michal Navratil,2001-11-08,22,Czech Republic,185,81,R,2,2020,A
+37,o513,Ofner,Sebastian,Bruck an der Mur,Austria,"Stefan Rettl, Wolfgang Thiem",1996-05-12,27,Austria,191,81,R,2,2015,A
+38,p09z,Popyrin,Alexei,Sydney,Australia,"Neville Godwin, Xavier Malisse",1999-08-05,24,Australia,196,78,R,2,2017,A
+39,sx50,Safiullin,Roman,Podolsk,Russia,Andrey Kuznetsov,1997-08-07,26,Russia,185,75,R,2,2015,A
+40,kc56,Karatsev,Aslan,Vladikavkaz,Russia,,1993-09-04,30,Russia,185,85,R,2,2011,A
+41,e687,Evans,Daniel,Birmingham,England,,1990-05-23,33,Great Britain,175,75,R,1,2006,A
+42,a0fc,Arnaldi,Matteo,Sanremo,Italy,Alessandro Petrone,2001-02-22,23,Italy,185,71,R,2,2019,A
+43,rh24,Ruusuvuori,Emil,Helsinki,Finland,Federico Ricci,1999-04-02,24,Finland,188,79,R,2,2018,A
+44,f0f1,Fils,Arthur,Bondoufle,France,"Sergi Bruguera, Sebastien Grosjean",2004-06-12,19,France,185,83,R,2,2021,A
+45,gc88,Giron,Marcos,Thousand Oaks,CA,"Karue Sell, Maxime Tabatruong",1993-07-24,30,United States,180,77,R,2,2014,A
+46,z371,Zhang,Zhizhen,Shanghai,China,Yen-Hsun Lu,1996-10-16,27,China,193,87,R,2,2012,A
+47,s0h2,Shevchenko,Alexander,Rostov-on-Don,Russia,Timur Maulenov,2000-11-29,23,Kazakhstan,185,75,R,2,2018,A
+48,su87,Sonego,Lorenzo,Turin,Italy,Gipo Arbino,1995-05-11,28,Italy,191,76,R,2,2013,A
+49,h997,Hanfmann,Yannick,Karlsruhe,Germany,Juan Pablo Brzezicki,1991-11-13,32,Germany,193,86,R,2,2015,A
+50,d0co,Draper,Jack,Sutton,England,James Trotman,2001-12-22,22,Great Britain,193,85,L,2,2018,A
+51,te30,Tabilo,Alejandro,Toronto,Canada,Guillermo Gomez,1997-06-02,26,Chile,188,75,L,2,2015,A
+52,d0cg,Diaz Acosta,Facundo,Buenos Aires,Argentina,"Mariano Monachesi, Mariano Hood",2000-12-15,23,Argentina,183,75,L,2,2018,A
+53,ki95,Kecmanovic,Miomir,Belgrade,Serbia,"Wayne Black, Ivan Cinkus",1999-08-31,24,Serbia,183,75,R,2,2017,A
+54,mc65,Monfils,Gael,Paris,France,Peter Lucassen/Mikael Tillstrom,1986-09-01,37,France,193,85,R,2,2004,A
+55,l987,Lajovic,Dusan,Belgrade,Serbia,Jose Perlas,1990-06-30,33,Serbia,183,83,R,1,2007,A
+56,bt72,Borges,Nuno,Maia,Portugal,"Rui Machado, Hugo Anao",1997-02-19,27,Portugal,185,78,R,2,2019,A
+57,ae14,Altmaier,Daniel,Kempen,Germany,Alberto Mancini,1998-09-12,25,Germany,188,80,R,1,2014,A
+58,ke73,Koepfer,Dominik,Furtwangen,Germany,"Rhyne Williams, Billy Heiser",1994-04-29,29,Germany,180,79,L,2,2016,A
+59,m0ci,Marozsan,Fabian,Budapest,Hungary,Gyorgy Balazs,1999-10-08,24,Hungary,193,75,R,2,2017,A
+60,n0bs,Navone,Mariano,,,Andres Dellatorre,2001-02-27,22,Argentina,178,73,R,2,,A
+61,mk66,McDonald,Mackenzie,Piedmont,CA,,1995-04-16,28,United States,178,73,R,2,2016,A
+62,ph71,Purcell,Max,Sydney,Australia,,1998-04-03,25,Australia,185,80,R,2,2016,A
+63,k09f,Kotov,Pavel,Moscow,Russia,"Liliya Kotova, Mikhail Bril",1998-11-18,25,Russia,191,89,R,2,2016,A
+64,da81,Daniel,Taro,New York,NY,,1993-01-27,31,Japan,191,84,R,2,2010,A
+65,m0fh,Machac,Tomas,Beroun,Czech Republic,Daniel Vacek,2000-10-13,23,Czech Republic,183,74,R,2,2017,A
+66,cf59,Carballes Baena,Roberto,Tenerife,Spain,Jose Maria Garrido Ros,1993-03-23,30,Spain,183,77,R,2,2011,A
+67,mc10,Murray,Andy,Glasgow,Scotland,Ivan Lendl,1987-05-15,36,Great Britain,191,82,R,2,2005,A
+68,o483,O'Connell,Christopher,Sydney,Australia,Marinko Matosevic,1994-06-03,29,Australia,183,78,R,1,2011,A
+69,c0e9,Cobolli,Flavio,Florence,Italy,Stefano Cobolli,2002-05-06,21,Italy,183,74,R,2,2020,A
+70,mu94,Munar,Jaume,Santanyi,Mallorca,"Javier Fernandez, Miguel Sanchez",1997-05-05,26,Spain,183,76,R,2,2014,A
+71,v832,Vukic,Aleksandar,Sydney,Australia,"Nuno Lencastre, Jay Gooding",1996-04-06,27,Australia,188,85,R,2,2018,A
+72,v0dz,Van Assche,Luca,,,Yannick Quere,2004-05-11,19,France,178,72,R,2,2021,A
+73,sx91,Seyboth Wild,Thiago,Marechal Candido Rondon,BRA,Duda Matos,2000-03-10,23,Brazil,185,80,R,2,2018,A
+74,w367,Wawrinka,Stan,Lausanne,Switzerland,Magnus Norman,1985-03-28,38,Switzerland,183,81,R,1,2002,A
+75,v812,van de Zandschulp,Botic,Wageningen,Netherlands,Sven Groeneveld,1995-10-04,28,Netherlands,191,85,R,2,2016,A
+76,m0qi,Michelsen,Alex,Laguna Hills,CA,"Jay Leavitt, Eric Diaz",2004-08-25,19,United States,193,79,R,2,2023,A
+77,f724,Fucsovics,Marton,Nyiregyhaza,Hungary,Peter Nagy,1992-02-08,32,Hungary,188,82,R,2,2010,A
+78,cg04,Cachin,Pedro,Bell Ville,Argentina,"Martin Cuevas, Matias Barreira, Alex Corretja",1995-04-12,28,Argentina,185,77,R,2,2013,A
+79,h0bh,Hijikata,Rinky,Sydney,Australia,Mark Draper,2001-02-23,23,Australia,178,72,R,2,2021,A
+80,d0fj,Darderi,Luciano,,,Luciano Enrique Darderi,2002-02-14,22,Italy,183,82,R,2,,A
+81,mp20,Muller,Alexandre,Poissy,France,Jean-Christophe Faurel,1997-02-01,27,France,183,75,R,2,2014,A
+82,n732,Nishioka,Yoshihito,Mie,Japan,Christian Zahalka,1995-09-27,28,Japan,170,64,L,2,2014,A
+83,gd64,Garin,Cristian,Santiago,Chile,Andres Schneiter,1996-05-30,27,Chile,185,85,R,2,2011,A
+84,ge33,Galan,Daniel Elahi,Bucaramanga,Colombia,Santos Galan,1996-06-18,27,Colombia,191,72,R,2,2015,A
+85,g09o,Gaston,Hugo,Toulouse,France,Younes El Aynaoui,2000-09-26,23,France,173,68,L,2,2018,A
+86,c0h0,Cazaux,Arthur,Montpellier,France,Stephane Huet ,2002-08-23,21,France,183,73,R,2,2020,A
+87,m0ni,Mensik,Jakub,,,Tomas Josefus,2005-09-01,18,Czech Republic,193,83,R,2,2022,A
+88,ce77,Coria,Federico,Rosario,Argentina,Carlos Berlocq,1992-03-09,31,Argentina,180,73,R,2,2010,A
+89,n0ae,Nakashima,Brandon,San Diego,CA,Mariano Puerta and Davide Sanguinetti,2001-08-03,22,United States,188,83,R,2,2019,A
+90,rc91,Rinderknech,Arthur,Gassin,France,,1995-07-23,28,France,196,88,R,2,2018,A
+91,r09x,Rodionov,Jurij,Nuremberg,Germany,"Gary Mueller, Florian Pernhaupt",1999-05-16,24,Austria,191,83,L,2,2017,A
+92,tb69,Thiem,Dominic,Wiener Neustadt,Austria,Wolfgang Thiem,1993-09-03,30,Austria,185,79,R,1,2011,A
+93,k0az,Kovacevic,Aleksandar,New York,NY,Dante Bottini,1998-08-29,25,United States,183,79,R,1,2021,A
+94,kd46,Kokkinakis,Thanasi,Adelaide,Australia,"Todd Langman, Todd Ley",1996-04-10,27,Australia,193,84,R,2,2013,A
+95,w09g,Wolf,J.J.,Cincinnati,OH,"Patrick Thompson, David Kass, Matt Vaughn",1998-12-21,25,United States,183,81,R,2,2019,A
+96,mn13,Marterer,Maximilian,Nuremberg,Germany,Gerald Radovici,1995-06-15,28,Germany,188,78,L,2,2015,A
+97,n897,Nagal,Sumit,Jhajjar,India,Sascha Nensel,1997-08-16,26,India,178,69,R,2,2015,A
+98,bd06,Bautista Agut,Roberto,Castellon de la Plana,Spain,"Jose Luis Vendrell Bru, Daniel Gimeno-Traver",1988-04-14,35,Spain,183,75,R,2,2005,A
+99,lb66,Lestienne,Constant,Amiens,France,,1992-05-23,31,France,180,77,R,2,2012,A
+100,t0a1,Tirante,Thiago Agustin,La Plata,Argentina,"Javier Nalbandian, Miguel Pastura",2001-04-10,22,Argentina,185,81,R,2,2016,A
+101,mo44,Martinez,Pedro,Alzira,Spain,,1997-04-26,26,Spain,185,76,R,2,2016,A
+102,mj08,Monteiro,Thiago,Fortaleza,Brazil,"Ruben Ramirez-Hidalgo, Pablo Fuentes",1994-05-31,29,Brazil,183,78,L,2,2011,A
+103,hb64,Halys,Quentin,Bondy,France,Nicolas Devilder,1996-10-26,27,France,191,85,R,2,2012,A
+104,r772,Ramos-Vinolas,Albert,Barcelona,Spain,"Jose Maria Diaz, Tiago Leivas",1988-01-17,36,Spain,188,76,L,2,2007,A
+105,gh92,Gojo,Borna,Split,Croatia,Duje Delic,1998-02-27,25,Croatia,196,90,R,2,2020,A
+106,n0bg,Nardi,Luca,,,"Giorgio Galimberti, Marco De Rossi",2003-08-06,20,Italy,185,80,R,2,,A
+107,p09o,Piros,Zsombor,Budapest,Hungary,Attila Piros,1999-10-13,24,Hungary,180,68,R,2,2016,A
+108,d994,Duckworth,James,Sydney,Australia,Wayne Arthurs,1992-01-21,32,Australia,183,82,R,2,2010,A
+109,f510,Fognini,Fabio,Sanremo,Italy,German Gaich,1987-05-24,36,Italy,178,79,R,2,2004,A
+110,pd31,Paire,Benoit,Avignon,France,Xavier Moureaux,1989-05-08,34,France,196,80,R,2,2007,A
+111,bs86,Barrios Vera,Tomas,Chillan,Chile,Guillermo Gomez,1997-12-10,26,Chile,191,88,R,2,2019,A
+112,s0la,Stricker,Dominic,Grosshochstetten,Switzerland,Dieter Kindlmann,2002-08-16,21,Switzerland,183,80,L,2,2020,A
+113,gb88,Goffin,David,Rocourt,Belgium,Germain Gigounon,1990-12-07,33,Belgium,180,70,R,2,2009,A
+114,c0df,Comesana,Francisco,,,Sebastián Gutiérrez ,2000-10-06,23,Argentina,178,72,R,2,,A
+115,ki82,Kopriva,Vit,Bilovec,Czech Republic,Jaroslav Pospisil,1997-06-15,26,Czech Republic,178,69,R,2,2015,A
+116,m0jf,Medjedovic,Hamad,Novi Pazar,Serbia,Viktor Troicki,2003-07-18,20,Serbia,188,86,R,2,2021,A
+117,sm37,Schwartzman,Diego,Buenos Aires,Argentina,"Leo Olguin, Bruno Tiberti",1992-08-16,31,Argentina,170,64,R,2,2010,A
+118,g628,Gasquet,Richard,Beziers,France,Julien Cassaigne,1986-06-18,37,France,183,79,R,1,2002,A
+119,v836,Varillas,Juan Pablo,Lima,Peru,Diego Junqueira,1995-10-06,28,Peru,185,77,R,2,2013,A
+120,su55,Shapovalov,Denis,,,Matt Daly ,1999-04-15,24,Canada,185,75,L,1,2017,A
+121,a0cj,Ajdukovic,Duje,Split,Croatia,Frane Nincevic,2001-02-05,23,Croatia,188,78,R,2,2018,A
+122,mp01,Mmoh,Michael,Riyadh,Saudi Arabia,Zack Evenden,1998-01-10,26,United States,188,90,R,2,2016,A
+123,bu13,Bergs,Zizou,Lommel,Belgium,Ruben Bemelmans,1999-06-03,24,Belgium,185,85,R,2,2018,A
+124,bk24,Barrere,Gregoire,Charenton-le-Pont,France,Nicolas Copin,1994-02-16,30,France,183,80,R,2,2012,A
+125,bk40,Berrettini,Matteo,Rome,Italy,"Francisco Roig, Umberto Rianna",1996-04-12,27,Italy,196,95,R,2,2015,A
+126,wb08,Watanuki,Yosuke,Saitama,Japan,Keisuke Watanuki,1998-04-12,25,Japan,180,70,R,2,2016,A
+127,u182,Ugo Carabelli,Camilo,Buenos Aires,Argentina,"Leonardo Olguin, Marcos Massonneau",1999-06-17,24,Argentina,185,83,R,2,2016,A
+128,bi23,Broady,Liam,Stockport,England,David Sammel,1994-01-04,30,Great Britain,183,78,L,2,2014,A
+129,d0f6,Diallo,Gabriel,Montreal,Canada,Martin Laurendeau,2001-09-24,22,Canada,203,90,R,2,2023,A
+130,mw75,Meligeni Alves,Felipe,Campinas,Brazil,Francisco Yunis,1998-02-19,26,Brazil,185,83,R,2,2016,A
+131,v0am,Virtanen,Otto,,,Jan De Witt,2001-06-21,22,Finland,193,82,R,2,2018,A
+132,m0g4,Mayot,Harold,Metz,France,Thierry Tulasne,2002-02-04,22,France,178,78,R,2,2020,A
+133,va08,Vavassori,Andrea,Torino,Italy,Davide Vavassori,1995-05-05,28,Italy,191,80,R,1,2014,A
+134,n0am,Nava,Emilio,Woodland Hills,CA,Oscar Martinez,2001-12-02,22,United States,185,79,R,2,2018,A
+135,mv14,Molcan,Alex,Presov,Slovakia,"Karol Beck, Marian Vajda",1997-12-01,26,Slovak Republic,178,73,L,2,2015,A
+136,kb95,Kubler,Jason,Brisbane,Australia,"Jarrad Bunt, Stephen Huss",1993-05-19,30,Australia,178,74,R,2,2011,A
+137,d0c1,de Jong,Jesper,,,Jeroen Benard,2000-05-31,23,Netherlands,180,70,R,2,,A
+138,m0hu,Mochizuki,Shintaro,Kawasaki,Japan,,2003-06-02,20,Japan,175,70,R,2,2019,A
+139,s0re,Shang,Juncheng,Beijing,China,Martin Alund,2005-02-02,19,China,180,73,L,2,2021,A
+140,mw02,Moutet,Corentin,Paris,France,Petar Popovic,1999-04-19,24,France,180,71,L,2,2016,A
+141,z0a1,Zeppieri,Giulio,Rome,Italy,"Massimo Sartori, Nicola Ceragioli, Tommaso Castagnola",2001-12-07,22,Italy,183,82,L,2,2019,A
+142,ki63,Klein,Lukas,Spisska Nova Ves,Slovakia,Karol Kucera,1998-03-22,25,Slovak Republic,193,85,R,0,,A
+143,z419,Zapata Miralles,Bernabe,Valencia,Spain,Samuel Ribeiro,1997-01-12,27,Spain,183,79,R,2,2015,A
+144,gf95,Grenier,Hugo,Montbrison,France,Gerard Solves,1996-03-23,27,France,196,85,R,2,2013,A
+145,w09e,Walton,Adam,,,,1999-04-17,24,Australia,183,77,R,2,,A
+146,a0gc,Atmane,Terence,,,Robin Boule,2002-01-09,22,France,193,80,L,2,,A
+147,va25,Vacherot,Valentin,,,Benjamin Balleret,1998-11-16,25,Monaco,193,83,R,2,,A
+148,bf23,Bagnis,Facundo,Rosario,Argentina,Antonio Pastorino,1990-02-27,33,Argentina,183,82,L,2,2008,A
+149,s0k7,Svajda,Zachary,La Jolla,CA,"David Nainkin, Rhyne Williams ",2002-11-29,21,United States,175,66,R,2,2019,A
+150,k0a3,Kypson,Patrick,Durham,NC,Alejandro Gonzalez,1999-10-28,24,United States,188,82,R,2,2019,A
+151,l0cx,Llamas Ruiz,Pablo,,,Agustin Boje,2002-10-13,21,Spain,188,80,R,2,,A
+152,a829,Albot,Radu,Chisinau,Moldova,"Burghard Riehemann, Vladimir Albot",1989-11-11,34,Moldova,175,69,R,2,2008,A
+153,d923,Dzumhur,Damir,Sarajevo,Bosnia-Herzegovina,Antonio Sancic,1992-05-20,31,Bosnia-Herzegovina,175,68,R,2,2011,A
+154,hg94,Hassan,Benjamin,Merzig,Germany,"Hasan Ibrahim, Saki Hassan",1995-02-04,29,Germany,183,85,R,2,,A
+155,ph64,Pellegrino,Andrea,,,Giovanni Galuppo,1997-03-23,26,Italy,185,81,R,2,2016,A
+156,g0gd,Gigante,Matteo,,,,2002-01-04,22,Italy,180,68,L,2,,A
+157,da31,Dellien,Hugo,Trinidad,Bolivia,Antonio Pastorino,1993-06-16,30,Bolivia,180,75,R,2,2009,A
+158,y218,Ymer,Elias,Skara,Sweden,"Rafael Ymer, Frederico Goncalves",1996-04-10,27,Sweden,185,78,R,2,2014,A
+159,b0fv,Burruchaga,Roman Andres,Buenos Aires,Argentina,Mariano Hood,2002-01-23,22,Argentina,183,80,R,0,,A
+160,r0fs,Riedi,Leandro,Frauenfeld,Switzerland,Yannik Steinegger,2002-01-27,22,Switzerland,191,78,R,2,,A
+161,c0c8,Cerundolo,Juan Manuel,Buenos Aires,Argentina,"Juan ignacio Chela, Alejandro Cerundolo, Mariano Hood",2001-11-15,22,Argentina,183,76,L,2,2018,A
+162,n679,Napolitano,Stefano,Biella,Italy,Cristian Brandi,1995-04-11,28,Italy,196,90,R,2,2012,A
+163,m0jz,Misolic,Filip,Graz,Austria,,2001-08-08,22,Austria,180,75,R,2,2019,A
+164,mw18,Moreno De Alboran,Nicolas,New York,NY,Glenn Kuma-Mintah,1997-07-14,26,United States,185,82,R,2,2019,A
+165,k926,Kukushkin,Mikhail,Volgograd,Russia,,1987-12-26,36,Kazakhstan,183,72,R,2,2006,A
+166,h996,Herbert,Pierre-Hugues,Schiltigheim,France,Jean Roch Herbert,1991-03-18,32,France,188,75,R,2,2010,A
+167,d0dw,Droguet,Titouan,,,Yannick Jankovits ,2001-06-15,22,France,191,80,R,2,2018,A
+168,pg94,Polmans,Marc,Amanzimtoti,South Africa,Greg Polmans,1997-05-02,26,Australia,188,78,R,2,2015,A
+169,p0hw,Prizmic,Dino,Split,Croatia,Miro Hrvatin,2005-08-05,18,Croatia,188,80,R,2,,A
+170,m0gz,Mpetshi Perricard,Giovanni,,,Emmanuel Planque,2003-07-08,20,France,203,98,R,1,2021,A
+171,ss25,Sachko,Vitaliy,Kremenchuk,Ukraine,,1997-07-14,26,Ukraine,188,73,R,2,,A
+172,bm95,Bonzi,Benjamin,Nimes,France,Lionel Zimbler,1996-06-09,27,France,183,82,R,2,2015,A
+173,ch12,Choinski,Jan,Koblenz,Germany,"Andrzej Choinski, Pawel Strauss",1996-06-10,27,Great Britain,196,88,R,2,,A
+174,o660,Olivieri,Genaro Alberto,Bragado,Argentina,"Diego Cristin, Matias O'Neille",1998-08-04,25,Argentina,175,73,R,2,2016,A
+175,sy67,Shimabukuro,Sho,Gifu,Japan,Thomas Shimada,1997-07-30,26,Japan,180,78,R,2,2016,A
+176,ge28,Gakhov,Ivan,Moscow,Russia,"Miguel Sánchez, Salvador Navarro, Igor Muguruza",1996-11-04,27,Russia,191,83,L,2,,A
+177,s0gd,Svrcina,Dalibor,,,Marek Jaloviec,2002-10-02,21,Czech Republic,178,68,R,2,,A
+178,kb09,Kudla,Denis,Kiev,Ukraine,Robert Lindstedt,1992-08-17,31,United States,180,79,R,2,2010,A
+179,y171,Yevseyev,Denis,,,Yevgen Tseplyaev,1993-05-22,30,Kazakhstan,185,77,R,2,,A
+180,hg86,Harris,Lloyd,Cape Town,South Africa,Anthony Harris,1997-02-24,27,South Africa,193,80,R,2,2015,A
+181,y09v,Bu,Yunchaokete,Xinjiang,China,"Yu Jinxing, Ricardo Ojeda Lara, Carmelo Alventosa",2002-01-19,22,China,185,82,R,2,,A
+182,c0bc,Cressy,Maxime,Paris,France,"Alexandre Sidorenko, Juanjo Climent, Andrew Mawire",1997-05-08,26,United States,201,85,R,2,2019,A
+183,b0gg,Bellucci,Mattia,,,"Fabio Chiappini, Bellucci Fabrizio",2001-06-01,22,Italy,178,72,L,2,,A
+184,cg33,Coppejans,Kimmer,Oostende,Belgium,"Michael Lynch, Carl Maes",1994-02-07,30,Belgium,180,68,R,2,2012,A
+185,hd68,Harris,Billy,,,Joserra Blasco,1995-01-25,29,Great Britain,193,86,R,2,,A
+186,i305,Ivashka,Ilya,Minsk,Belarus,Jose Checa-Calvo,1994-02-24,30,Belarus,193,87,R,2,2013,A
+187,m0ac,Molleker,Rudolf,Severodonetsk,Ukraine,Benjamin Thiele,2000-10-26,23,Germany,188,82,R,2,2017,A
+188,ta12,Travaglia,Stefano,Ascoli Piceno,Italy,"Giuseppe Fischetti , Andrea Chiricozzi",1991-12-28,32,Italy,185,80,R,2,2008,A
+189,mw76,Martineau,Matteo,Angers,France,Cyril Barnier & Michael Bois,1999-01-16,25,France,183,76,R,1,,A
+190,z09z,Zhukayev,Beibit,,,,2000-10-12,23,Kazakhstan,196,93,R,2,,A
+191,j0az,Jacquet,Kyrian,,,Olivier COYRAS,2001-05-11,22,France,178,70,R,2,,A
+192,rc04,Ritschard,Alexander,Zurich,Switzerland,"Hans Ritschard, Juan Ramirez",1994-03-24,29,Switzerland,193,82,R,2,2018,A
+193,rb60,Roca Batalla,Oriol,,,"Joan Balcells, David Olles",1993-04-30,30,Spain,175,75,R,1,,A
+194,f840,Fatic,Nerman,Sarajevo,Bosnia & Herzegovina,Patricio Remondegui,1994-10-24,29,Bosnia-Herzegovina,191,88,R,2,2014,A
+195,l0gh,Lajal,Mark,,,Thomas Le Boulch,2003-05-12,20,Estonia,191,80,R,2,,A
+196,rh59,Rodriguez Taverna,Santiago,Buenos Aires,Argentina,Guillermo Franco,1999-07-16,24,Argentina,191,82,R,2,2016,A
+197,bv16,Blanchet,Ugo,,,Olivier Coyras,1999-01-05,25,France,175,68,R,2,,A
+198,cf01,Cecchinato,Marco,Palermo,Italy,"Julian Alonso, Eduardo Nicolas",1992-09-30,31,Italy,185,78,R,1,2010,A
+199,hh06,Huesler,Marc-Andrea,Zurich,Switzerland,"Thiemo Scharfenberger, Juerg Huesler",1996-06-24,27,Switzerland,196,86,L,2,2016,A
+200,aa27,Agamenone,Franco,Rio Cuarto,Argentina,Andrea Trono,1993-04-15,30,Italy,191,80,R,2,2010,A
+201,e768,Escoffier,Antoine,,,,1992-02-29,31,France,185,78,R,2,,A
+202,s0ia,Sweeny,Dane,,,Clay Sweeny,2001-02-12,23,Australia,170,63,R,2,,A
+203,tc01,Tu,Li,Adelaide,Australia,,1996-05-27,27,Australia,180,83,R,1,,A
+204,c0ak,Crawford,Oliver,Spartanburg,SC,Nick Bybel,1999-04-30,24,Great Britain,180,84,R,2,2020,A
+205,mk26,Marie,Jules,,,,1991-09-01,32,France,185,76,R,0,,A
+206,bo10,Brouwer,Gijs,Houston,TX,Michiel Schapers,1996-03-14,27,Netherlands,191,73,L,2,2016,A
+207,gk06,Galarneau,Alexis,Laval,Canada,Gary Müller,1999-03-02,24,Canada,180,79,R,2,,A
+208,r0fp,Rincon,Daniel,,,Toni Baldellou,2003-01-07,21,Spain,185,85,L,2,,A
+209,d0dt,Damm,Martin,,,Martin Damm Sr. & Micah Klousia & Jan Satral,2003-09-30,20,United States,203,95,L,2,,A
+210,va70,Valkusz,Mate,Budapest,Hungary,Zoltan Kuharszky,1998-08-13,25,Hungary,183,75,R,2,,A
+211,da86,De Loore,Joris,Bruges,Belgium,Bastian Suwanprateep,1993-04-21,30,Belgium,191,86,R,2,2011,A
+212,pc11,Pella,Guido,Bahia Blanca,Argentina,"Jose Acasuso, Kevin Konfederak",1990-05-17,33,Argentina,183,79,L,2,2007,A
+213,hc21,Hong,Seongchan,,,,1997-06-30,26,South Korea,175,65,R,2,,A
+214,ph78,Peniston,Ryan,Southend-on-sea,Essex,Mark Taylor,1995-11-10,28,Great Britain,180,75,L,2,,A
+215,gb53,Gaio,Federico,Faenza,Italy,Fabio Filippo Colangelo,1992-03-05,31,Italy,178,85,R,1,2009,A
+216,o482,Oliveira,Goncalo,Porto,Portugal,Abilio Oliveira,1995-02-17,29,Portugal,185,79,L,2,2012,A
+217,db59,Novak,Dennis,Wiener Neustadt,Austria,Gunter Bresnik,1993-08-28,30,Austria,183,81,R,2,2011,A
+218,df88,Dougaz,Aziz,La Marsa,Tunisia,,1997-03-26,26,Tunisia,188,82,L,2,2020,A
+219,hb48,Hemery,Calvin,Les Lilas,France,Christophe Couprie ,1995-01-28,29,France,191,83,R,2,2013,A
+220,ta29,Trungelliti,Marco,Santiago del Estero,Argentina,"Albert Portas, Jean-Baptiste Poux",1990-01-31,34,Argentina,178,80,R,2,2008,A
+221,r975,Raonic,Milos,Podgorica,Montenegro,Mario Tudor,1990-12-27,33,Canada,196,98,R,2,2008,A
+222,t09x,Tabur,Clement,,,Olivier Malcor ,2000-01-24,24,France,173,73,R,2,,A
+223,kc04,Kovalik,Jozef,Bratislava,Slovakia,Boris Borgula,1992-11-04,31,Slovak Republic,183,82,R,2,2010,A
+224,p0ct,Passaro,Francesco,Perugia,Italy,Roberto Tarpani,2001-01-07,23,Italy,180,81,R,2,2019,A
+225,j553,Jasika,Omar,Melbourne Victoria,Australia, Admir Jasika -Mitch,1997-05-18,26,Australia,183,60,L,2,,A
+226,me89,Marchenko,Illya,Dneprodzerzhinsk,Ukraine,Filip Havaj,1987-09-08,36,Ukraine,185,87,R,2,2006,A
+227,n0cs,Neumayer,Lukas,Salzburg,Austria,"Gerald Kamitz, Gunther Bresnik",2002-09-06,21,Austria,183,70,R,2,2021,A
+228,s0nv,Shelbayh,Abdullah,,,Adrien Vaseux,2003-11-16,20,Jordan,180,73,L,2,,A
+229,m0if,Maestrelli,Francesco,Pisa,Italy,Gabrio Castrichella,2002-12-21,21,Italy,196,78,R,2,2020,A
+230,cg94,Couacaud,Enzo,Curepipe,Mauritius,,1995-03-01,28,France,183,78,R,2,2013,A
+231,kc33,Kuzmanov,Dimitar,Plovdiv,Bulgaria,Stefan Rangelov,1993-07-28,30,Bulgaria,183,77,R,2,2009,A
+232,g983,Giannessi,Alessandro,La Spezia,Italy,Flavio Cipolla,1990-05-30,33,Italy,185,82,L,2,2008,A
+233,h09f,Hsu,Yu Hsiou,Yuanlin,Chinese Taipei,Hsiao-Yung Chang,1999-04-02,24,Chinese Taipei,178,75,R,2,2016,A
+234,y268,Ymer,Mikael,Skovde,Sweden,Daniel Berta,1998-09-09,25,Sweden,183,75,R,2,2015,A
+235,kh56,Kolar,Zdenek,Bystrice nad Pernstejnem,CZE,Zdenek Kolar Sr.,1996-10-09,27,Czech Republic,183,79,R,2,2014,A
+236,w857,Wu,Tung-Lin,Taichung,Chinese Taipei,"Tsai Chia Yen, Ezra Stump",1998-05-12,25,Chinese Taipei,188,81,R,2,2016,A
+237,s0n0,Schoolkate,Tristan,,,Andrew Roberts,2001-02-26,22,Australia,183,83,R,0,,A
+238,h0du,Heide,Gustavo,,,"Haroldo Zwetsch Jr, Gesner Menegucci",2002-02-28,21,Brazil,188,73,R,2,,A
+239,li03,Lavagno,Edoardo,,,Bondaz Laurent ,1998-07-27,25,Italy,185,76,L,2,,A
+240,j386,Johnson,Steve,Orange,CA,"Peter Smith, Marc Lucero",1989-12-24,34,United States,188,86,R,2,2012,A
+241,w0bh,Wong,Coleman,,,James Allemby ,2004-06-06,19,Hong Kong,191,80,R,2,,A
+242,b0ej,Boyer,Tristan,,,,2001-04-21,22,United States,185,86,R,2,,A
+243,s0aq,Shimizu,Yuta,Konan,Japan,,1999-06-09,24,Japan,163,62,L,2,,A
+244,pj74,Poullain,Lucas,,,,1995-12-05,28,France,175,68,R,2,,A
+245,m0ht,Moro Canas,Alejandro,,,David Flores ,2000-12-07,23,Spain,183,78,R,2,,A
+246,a0ab,Andreev,Adrian,Sofia,Bulgaria,,2001-05-12,22,Bulgaria,180,66,R,2,2016,A
+247,be90,Berankis,Ricardas,Vilnius,Lithuania,"Janko Tipsarevic, Dirk Hordorff ",1990-06-21,33,Lithuania,175,77,R,2,2007,A
+248,u134,Uchiyama,Yasutaka,Sapporo,Japan,Kentaro Masuda,1992-08-05,31,Japan,183,78,R,2,2011,A
+249,wb32,Wu,Yibing,Hangzhou,China,Marcos Baghdatis,1999-10-14,24,China,183,80,R,2,2017,A
+250,r0go,Rocha,Henrique,,,Rui Machado ,2004-04-06,19,Portugal,180,80,R,2,,A
+251,dc48,Dellien,Murkel,,,Blengino Academy ,1997-09-16,26,Bolivia,193,83,R,2,,A
+252,bi47,Bonadio,Riccardo,San Vito al Tagliamento,Italy,Manuel Gasbarri,1993-07-13,30,Italy,180,78,R,1,,A
+253,k0hc,Kasnikowski,Maks,,,Alex Bury,2003-07-06,20,Poland,178,78,R,2,,A
+254,fa43,Ficovich,Juan Pablo,Buenos Aires,Argentina,Juan Pablo Gandara,1997-01-24,27,Argentina,188,78,R,2,2015,A
+255,j620,Janvier,Maxime,Creil,France,Olivier Bardeau,1996-10-18,27,France,196,85,R,2,2014,A
+256,gh33,Guinard,Manuel,Saint-Malo,France,Sebastien Villette,1995-11-15,28,France,198,82,R,2,2016,A
+257,ml57,Mager,Gianluca,Sanremo,Italy,"Matteo Civarolo, Flavio Cipolla",1994-12-01,29,Italy,188,77,R,2,2013,A
+258,i0a7,Ionel,Nicholas David,,,Andrei Pavel,2002-10-12,21,Romania,185,73,R,2,,A
+259,j380,Jung,Jason,Torrance,CA,Oliver Messerli,1989-06-15,34,Chinese Taipei,180,69,R,2,2011,A
+260,bk19,Bourgue,Mathias,Avignon,France,Marc Gicquel ,1994-01-18,30,France,188,83,R,2,,A
+261,a887,Andreozzi,Guido,Buenos Aires,Argentina,Gaston Etlis,1991-08-05,32,Argentina,183,78,R,2,2010,A
+262,bi81,Bolt,Alex,Murray Bridge,Australia,Rohan Williams,1993-01-05,31,Australia,183,71,L,2,2011,A
+263,k0e6,Kachmazov,Alibek,Vladikavkaz,North-Ossetia,,2002-08-17,21,Russia,185,78,R,0,,A
+264,f0dm,Fery,Arthur,Sèvres,France,Benoit Foucher,2002-07-12,21,Great Britain,175,76,R,2,,A
+265,s0ti,Sekulic,Philip,,,Tomo Sekulic,2003-09-05,20,Australia,191,82,R,2,,A
+266,bp41,Bellier,Antoine,Geneva,Switzerland,Jean-Rene Lisnard,1996-10-18,27,Switzerland,196,83,L,1,2014,A
+267,o0a2,Onclin,Gauthier,,,Steve Darcis,2001-02-26,22,Belgium,180,77,R,2,,A
+268,mw54,Madaras,Dragos Nicolae,Deva,Romania,,1997-09-12,26,Sweden,191,85,L,2,,A
+269,r0eb,Royer,Valentin,,,Julien Gillet,2001-05-29,22,France,188,86,R,2,,A
+270,sl08,Sandgren,Tennys,Gallatin,TN,,1991-07-22,32,United States,188,88,R,2,2011,A
+271,dg80,Dalla Valle,Enrico,,,Giorgio Galimberti ,1998-03-21,25,Italy,196,90,R,2,,A
+272,s0gr,Skatov,Timofey,Petropavlovsk,Kazakhstan,Jose Altur,2001-01-21,23,Kazakhstan,175,72,R,2,2019,A
+273,e698,Elias,Gastao,Lourinha,Portugal,Luis Guilherme Balboa,1990-11-24,33,Portugal,180,76,R,2,2008,A
+274,d864,Donskoy,Evgeny,Moscow,Russia,,1990-05-09,33,Russia,185,75,R,2,2007,A
+275,fc49,Fonio,Giovanni,,,"Pietro Rondoni, Matteo Sacchi",1998-05-07,25,Italy,183,78,R,1,,A
+276,h09p,Holt,Brandon,Rolling Hills,CA,,1998-04-06,25,United States,185,82,R,2,2020,A
+277,bu54,Blancaneaux,Geoffrey,Paris,France,Maximilien Blancaneaux,1998-08-08,25,France,180,75,R,2,2016,A
+278,s0ak,Squire,Henri,,,Andy Fitzell,2000-09-27,23,Germany,196,82,R,2,,A
+279,gg65,Geerts,Michael,Antwerp,Belgium,Fred Hemmes,1995-01-17,29,Belgium,178,72,R,2,,A
+280,sh90,Sousa,Joao,Guimaraes,Portugal,Frederico Marques,1989-03-30,34,Portugal,185,74,R,2,2008,A
+281,o376,Olivo,Renzo,Rosario,Argentina,"Javier Nalbandian, Franco Squillari",1992-03-15,31,Argentina,178,75,R,2,2009,A
+282,s0gz,Sanchez Izquierdo,Nikolas,,,,1999-03-15,24,Spain,185,77,R,2,,A
+283,v708,Vesely,Jiri,Pribram,Czech Republic,Emanuel Rehola,1993-07-10,30,Czech Republic,198,94,L,2,2009,A
+284,cc66,Collarini,Andrea,New York,NY,Juan Martin Aranguren ,1992-01-31,32,Argentina,183,78,L,2,2010,A
+285,lc11,Lamasine,Tristan,Thiais,France,Georges Bell,1993-03-05,30,France,183,69,R,2,2010,A
+286,o449,Otte,Oscar,Cologne,Germany,Peter Moraing,1993-07-16,30,Germany,193,79,R,2,2011,A
+287,q02l,Quinn,Ethan,Fresno,California,"Brad Stine, Nick Papac",2004-03-12,19,United States,191,82,R,2,2023,A
+288,i186,Isner,John,Greensboro,NC,Philip Farmer,1985-04-26,38,United States,208,108,R,2,2007,A
+289,pf39,Pouille,Lucas,Grande-Synthe,France,"Thierry Ascione, Nicolas Renavand",1994-02-23,30,France,185,84,R,2,2012,A
+290,ea13,Echargui,Moez,La Marsa,Tunisia,"Paolo Moretti, Marco Brigo",1993-01-10,31,Tunisia,178,72,R,2,,A
+291,kd35,Kwiatkowski,Thai-Son,Charlotte,NC,Carlos Benatzky,1995-02-13,29,United States,188,81,R,2,2017,A
+292,h09n,Holmgren,August,Espergaerde,Denmark,"Jonas Svendsen, Ryan Keckley",1998-04-22,25,Denmark,188,84,R,1,2022,A
+293,kc12,Krueger,Mitchell,Fort Worth,TX,Craig Kardon,1994-01-12,30,United States,188,82,R,2,2012,A
+294,g0dh,Guillen Meza,Alvaro,,,,2003-01-02,21,Ecuador,175,73,R,2,,A
+295,sm09,Saville,Luke,Barmera,Australia,Rohan Williams ,1994-01-02,30,Australia,188,83,R,2,2012,A
+296,m0e1,Michalski,Daniel,Warsaw,Poland,Aleksander Charpantidis,2000-01-11,24,Poland,180,77,R,2,2018,A
+297,m0bn,Moeller,Marvin,Hamburg,Germany,,1999-01-18,25,Germany,178,69,R,2,,A
+298,ca99,Copil,Marius,Arad,Romania,Andrei Mlendea,1990-10-17,33,Romania,191,87,R,1,2008,A
+299,ta46,Tomic,Bernard,Stuttgart,Germany,Sara Tomic,1992-10-21,31,Australia,196,91,R,2,2008,A
+300,bv25,Barranco Cosano,Javier,Almeria,Spain,Juan Pablo Cañas,1998-11-17,25,Spain,178,70,L,2,,A
+301,wb19,Weis,Alexander,Bolzano,Italy,,1997-04-24,26,Italy,188,83,R,2,,A
+302,d0dp,Draxl,Liam,,,,2001-12-05,22,Canada,185,79,R,2,,A
+303,p0df,Pucinelli De Almeida,Matheus,Campinas,Brazil,João Zwetsch ,2001-04-01,22,Brazil,183,78,R,2,,A
+304,m0nb,Mayo,Aidan,,,,2003-05-14,20,United States,183,75,R,0,,A
+305,a09t,Added,Dan,Strasbourg,France,,1999-04-13,24,France,183,75,R,2,,A
+306,v0di,Vincent Ruggeri,Samuel,,,Roberto Ruggeri ,2002-05-22,21,Italy,191,85,R,2,,A
+307,d916,Diez,Steven,Toronto,Canada,Marcos Roy,1991-03-17,32,Canada,175,76,R,2,2009,A
+308,t0ap,Tseng,Chun-Hsin,Taipei,Chinese Taipei,Benjamin Ebrahimzadeh,2001-08-08,22,Chinese Taipei,175,65,R,2,2019,A
+309,pg20,Popko,Dmitry,St. Petersburg,Russia,Ilya Drozdov,1996-10-24,27,Kazakhstan,191,87,R,2,2011,A
+310,hf80,Habib,Hady,Houston,TX,,1998-08-21,25,Lebanon,188,88,R,2,,A
+311,b0gr,Bueno,Gonzalo,Trujillo,Peru,"Luis Horna, Patricio Reynoso",2004-04-03,19,Peru,173,73,R,2,,A
+312,r0a7,Reis Da Silva,Joao Lucas,Recife,Pernambuco,Arthur Rabelo ,2000-03-26,23,Brazil,178,75,R,2,,A
+313,b0pg,Blockx,Alexander,,,Philippe Cassiers,2005-04-08,18,Belgium,191,78,R,2,,A
+314,p0e9,Palan,Dominik,,,,2000-09-30,23,Czech Republic,191,85,R,2,,A
+315,f664,Fanselow,Sebastian,,,,1991-12-30,32,Germany,,,R,0,,A
+316,b0i5,Bicknell,Blaise,,,Melville Spence,2001-11-26,22,Jamaica,191,82,R,2,,A
+317,v0b2,Vrbensky,Michael,Nymburk,Czech Republic,Dusan Karol,1999-12-26,24,Czech Republic,,,R,2,,A
+318,i306,Ilkel,Cem,Istanbul,Turkiye,Gavin Hopper,1995-08-21,28,Turkiye,185,81,R,2,2013,A
+319,sp80,Serdarusic,Nino,Zagreb,Croatia,Filip Serdarusic ,1996-12-13,27,Croatia,191,85,R,2,2014,A
+320,lc12,Lokoli,Laurent,Bastia,France,Walter Grunfeld Tennis Academy (WGTA),1994-10-18,29,France,188,78,R,2,,A
+321,n663,Neuchrist,Maximilian,,,,1991-07-22,32,Austria,,,R,2,,A
+322,c0bh,Chidekh,Clement,Arles,France,"Matt Anger, Lionel Zimbler, Martin Vaisse",2001-06-13,22,France,180,75,R,2,2022,A
+323,p0ev,Paulson,Andrew,,,,2001-11-16,22,Czech Republic,191,85,R,2,,A
+324,ki48,Kirkin,Ergi,Ankara,Turkiye,,1999-01-27,25,Turkiye,180,77,R,2,,A
+325,bv24,Brancaccio,Raul,Torre del Greco,Italy,Ciro Figaro,1997-05-04,26,Italy,185,73,R,2,,A
+326,j476,Jorda Sanchis,David,Barcelona,Spain,Alex Lopez Moron,1994-06-14,29,Spain,198,86,R,2,,A
+327,h0a4,Hardt,Nick,,,IMG Academy,2000-09-20,23,Dominican Republic,183,84,R,2,,A
+328,ce25,Caruso,Salvatore,Avola,Italy,Paolo Cannova,1992-12-15,31,Italy,185,80,R,2,2010,A
+329,s0ar,Stodder,Timo,,,,1996-05-17,27,Germany,180,73,R,0,,A
+330,m0oq,McCabe,James,Iba Zambales,Philippines,Patrick McCabe,2003-07-05,20,Australia,188,82,R,2,,A
+331,e0ac,Erhard,Mathys,,,Thierry Guardiola,2001-10-26,22,France,188,83,R,2,,A
+332,sr81,Sultanov,Khumoyun,,,Onarkhon Savaeva ,1998-10-27,25,Uzbekistan,180,80,R,2,,A
+333,n09u,Noguchi,Rio,Fukuoka,Japan,Hiroyuki Kojima,1998-12-28,25,Japan,168,63,R,2,,A
+334,g0eu,Gill,Felix,,,Morgan Phillips,2002-06-01,21,Great Britain,175,80,L,2,,A
+335,sl94,Sakamoto,Pedro,Guarulhos,Brazil,Arthur Andrade,1993-06-29,30,Brazil,178,80,R,2,2009,A
+336,e0aa,Erel,Yanki,,,Anil Yuksel,2000-09-25,23,Turkiye,178,73,L,2,,A
+337,n0bk,Naw,Hazem,,,Amer Naow,2000-01-01,24,Syria,183,77,R,2,,A
+338,j09x,Jianu,Filip Cristian,,,----------,2001-09-18,22,Romania,180,78,R,2,,A
+339,gc89,Gerasimov,Egor,Minsk,Belarus,,1992-11-11,31,Belarus,196,86,R,2,2010,A
+340,d874,Delbonis,Federico,Azul,Argentina,Mariano Hood,1990-10-05,33,Argentina,193,90,L,2,2007,A
+341,d0h9,Den Ouden,Guy,,,Marcel Vos,2002-04-08,21,Netherlands,183,75,R,2,,A
+342,s0gv,Strombachs,Robert,,,Armand Strombach,1999-09-15,24,Latvia,191,78,R,0,,A
+343,f0fv,Fonseca,Joao,,,Guilherme Teixeira,2006-08-21,17,Brazil,185,73,R,2,,A
+344,gb93,Gombos,Norbert,Galanta,Slovakia,Tibor Toth,1990-08-13,33,Slovak Republic,193,85,R,2,2009,A
+345,k0eu,Kodat,Toby,Bradenton,FL,Ales Kodat,2003-01-13,21,United States,178,73,R,1,,A
+346,f0a4,Forti,Francesco,Cesena,Italy,Giorgio Galimberti,1999-07-26,24,Italy,188,80,R,2,2018,A
+347,bv21,Broom,Charles,,,,1998-04-24,25,Great Britain,178,82,R,2,,A
+348,c0b2,Cretu,Cezar,,,Victor Hanescu,2001-04-24,22,Romania,188,83,R,2,,A
+349,d0hd,Debru,Gabriel,,,Boris Vallejo,2005-12-21,18,France,193,78,R,2,,A
+350,mi01,Moriya,Hiroki,Tokyo,Japan,"Oscar Hernandez, Bruno Alcala",1990-10-16,33,Japan,168,65,R,2,,A
+351,m0cw,McHugh,Aidan,Glasgow,Scotland,,2000-07-09,23,Great Britain,180,70,R,1,,A
+352,gj16,Gomez,Federico Agustin,,,,1996-11-26,27,Argentina,191,95,R,2,,A
+353,n552,Nishikori,Kei,Shimane,Japan,"Michael Chang, Max Mirnyi",1989-12-29,34,Japan,178,73,R,2,2007,A
+354,s0mn,Sharipov,Marat,Cheboksary,Russia,,2002-10-09,21,Russia,188,77,R,2,,A
+355,lc54,Lock,Benjamin,Harare,Zimbabwe,"Freeman Nyamunokora, Albert Portas ",1993-03-04,30,Zimbabwe,198,86,R,2,,A
+356,sn54,Ferreira Silva,Frederico,Caldas da Rainha,Portugal,Pedro Felner,1995-03-18,28,Portugal,178,74,L,2,2013,A
+357,h0cx,Houkes,Max,,,Colin van Beem,2000-07-03,23,Netherlands,188,78,L,2,,A
+358,g0fw,Gaubas,Vilius,,,,2004-12-29,19,Lithuania,178,72,R,2,,A
+359,k0cz,Klier Junior,Gilbert,Brasilia,Brazil,Arthur Rabelo,2000-05-16,23,Brazil,183,78,R,2,,A
+360,v0d4,Vanshelboim,Eric,,,Rune Haertell Thomsen,2001-07-15,22,Ukraine,188,87,R,1,,A
+361,i0ap,Ivanovski,Kalin,,,Luka Kutanjac,2004-05-11,19,North Macedonia,196,85,R,2,,A
+362,k0ee,Kumar,Omni,Mountain View,CA,Puneet Kumar,2001-10-10,22,United States,175,72,L,1,,A
+363,sk47,Safwat,Mohamed,Mansoura,Egypt,Gilbert Schaller ,1990-09-19,33,Egypt,180,83,R,2,2008,A
+364,c0mh,Campana Lee,Gerard,,,,2004-10-01,19,South Korea,180,85,R,2,,A
+365,ch05,Celikbilek,Altug,Antalya,Turkiye,Tobias Hinzmann,1996-09-07,27,Turkiye,183,73,R,2,2015,A
+366,cg07,Casanova,Hernan,Buenos Aires,Argentina,"Jorge Bernard, Juan Martin Aranguren",1994-02-06,30,Argentina,178,76,R,2,,A
+367,m0k4,Moller,Elmer,,,Jacob Holst & Frederik Nielsen,2003-07-09,20,Denmark,183,73,R,2,,A
+368,w0a4,Weber,Arthur,,,,1992-05-09,31,France,185,77,L,2,,A
+369,be69,Bai,Yan,Nanjing,China,,1989-05-21,34,China,185,80,R,2,,A
+370,lf26,Luz,Orlando,Carazinho,Brazil,Jose Luis Lopez,1998-02-08,26,Brazil,180,78,R,2,,A
+371,hh15,Haliak,Mikalai,Minsk,Belarus,,1998-08-14,25,Belarus,183,75,R,2,,A
+372,f09j,Friberg,Karl,Orebro,Sweden,,1999-03-25,24,Sweden,191,85,R,2,,A
+373,ga79,Giustino,Lorenzo,Naples,Italy,Jose Maria Diaz,1991-09-10,32,Italy,180,80,R,2,2007,A
+374,m0ea,Martin Tiffon,Pol,,,Josep Mª Arenas,1999-07-30,24,Spain,183,73,R,2,,A
+375,n707,Nakagawa,Naoki,Fukuoka,Japan,Kenichi Nakagawa,1996-11-19,27,Japan,180,75,R,2,,A
+376,ch90,Chung,Yun seong,Seoul,South Korea,Jean-Luc Fontanot,1998-03-27,25,South Korea,178,78,R,2,2017,A
+377,h0eh,Handel,Tim,,,"Marek Kimla, Bastian Suwanprateep",1996-10-18,27,Germany,188,83,R,1,,A
+378,s0cg,Sanchez Jover,Carlos,Albacete,Spain,Juan Manuel Esparcia,2000-07-21,23,Spain,173,65,L,2,,A
+379,wb25,Wessels,Louis,Bielefeld,Germany,Dirk Wessels,1998-08-27,25,Germany,198,90,R,2,,A
+380,t0fi,Topo,Marko,Grafelfing,Germany,Dejan Petrovic,2003-09-13,20,Germany,185,81,R,2,2021,A
+381,bu36,Barroso Campos,Alberto,,,Francisco Rubio and Pepe Juarez,1996-06-04,27,Spain,178,72,R,2,,A
+382,w09b,Wenger,Damien,,,Lionel Grossenbacher,2000-03-17,23,Switzerland,173,68,R,2,,A
+383,gj05,Gautier,Alexis,,,,1997-04-07,26,France,198,75,R,0,,A
+384,sq80,Santillan,Akira,Tokyo,Japan,Marinko Matosevic ,1997-05-22,26,Australia,180,78,R,1,2013,A
+385,cf10,Chappell,Nick,Toronto,Canada,"Hector Clavijo, Devin Bowen ",1992-09-19,31,United States,178,82,L,2,,A
+386,l0cf,Loffhagen,George,London,Great Britain,,2001-04-19,22,Great Britain,188,83,R,2,,A
+387,k0fy,Krumich,Martin,,,,2002-12-26,21,Czech Republic,188,82,R,0,,A
+388,bm05,Bobrov,Bogdan,,,"Schaller, Galic",1997-09-16,26,Russia,185,74,R,1,,A
+389,d0ar,Alves,Mateus,Sao Jose do Rio Preto,Brazil,"Duda Matos, Arthur Rabelo",2001-01-23,23,Brazil,193,88,R,2,2018,A
+390,b0jg,Borg,Leo,Stockholm,Sweden,"Christian Brydniak, Rickard Billing",2003-05-15,20,Sweden,183,77,R,2,,A
+391,f0f2,Faria,Jaime,,,,2003-08-06,20,Portugal,188,78,R,0,,A
+392,k0dp,Krutykh,Oleksii,,,,2000-03-10,23,Ukraine,185,78,R,2,,A
+393,t0bw,Trotter,James,,,Ty Tucker,1999-07-29,24,Japan,183,75,R,0,,A
+394,te16,Taberner,Carlos,Valencia,Spain,Gtennis Academy,1997-08-08,26,Spain,183,78,R,2,2015,A
+395,li10,Langmo,Christian,,,Stanford Boster ,1996-06-01,27,United States,191,91,R,2,,A
+396,bu70,Bertola,Remy,,,"Fabio Chiappini, Marco Brigo",1998-08-31,25,Switzerland,175,75,R,1,,A
+397,o639,Oradini,Giovanni,,,,1997-09-14,26,Italy,188,85,L,0,,A
+398,ea27,Ellis,Blake,,,Brent Larkham,1999-01-06,25,Australia,191,85,R,2,,A
+399,l0il,Landaluce,Martin,Madrid,Spain,"Oscar Burrieza, Gustavo Marcaccio, Esteban Carril",2006-01-08,18,Spain,191,80,R,2,,A
+400,e831,Edmund,Kyle,Johannesburg,South Africa,Colin Beecher,1995-01-08,29,Great Britain,188,83,R,2,2012,A
+401,m0n7,Merida,Daniel,Madrid,Spain,CLUB ATLETICO MONTEMAR,2004-09-26,19,Spain,188,80,R,2,,A
+402,ml73,Mansouri,Skander,Tunis,Tunisia,Bresky Tony,1995-07-23,28,Tunisia,193,86,R,2,,A
+403,mm79,Mott,Blake,Caringbah,Australia,Adam Kennedy ,1996-04-21,27,Australia,180,77,R,2,,A
+404,tf58,Takahashi,Yusuke,Kanagawa,Japan,Yuma Tsuji,1997-10-17,26,Japan,170,68,R,2,2016,A
+405,k0db,Kingsley,Cannon,,,,2001-05-06,22,United States,188,75,R,2,,A
+406,u120,Uchida,Kaichi,,,Norberto Valsecchi,1994-08-23,29,Japan,180,,R,2,2012,A
+407,rb56,Ramanathan,Ramkumar,Chennai,India,"Juan Balcells,Emilio Sanchez Viccario",1994-11-08,29,India,188,81,R,2,2009,A
+408,ci14,Clarke,Jay,Derby,England,Ariana Saki,1998-07-27,25,Great Britain,183,83,R,2,2016,A
+409,z246,Zekic,Miljan,Belgrade,Serbia,Slobodan Vojinovic,1988-07-12,35,Serbia,185,79,R,2,,A
+410,f0f4,Feldbausch,Kilian,,,Cathy Feldbausch-Caverzasio,2005-09-07,18,Switzerland,191,73,R,2,,A
+411,kg27,Kirchheimer,Strong,Highland Park,Illinois,"Robert Kirchheimer, Arvid Swan ",1995-04-26,28,United States,185,79,R,0,,A
+412,t0dm,Torres,Juan Bautista,,,Mauro Aprile,2002-04-02,21,Argentina,178,73,R,2,,A
+413,b0gy,Barrena,Alex,,,Max Barrena,2002-10-10,21,Argentina,175,68,R,2,,A
+414,va23,Van Wyk,Kris,,,Federico Coppini,1996-09-29,27,South Africa,185,77,R,2,,A
+415,bv27,Blanch,Ulises,,,Fran Martinez,1998-03-25,25,United States,188,78,R,2,2016,A
+416,j0a4,Jubb,Paul,York,England,,1999-10-31,24,Great Britain,180,72,R,2,2020,A
+417,kb05,Krajinovic,Filip,Sombor,Serbia,,1992-02-27,31,Serbia,185,75,R,2,2008,A
+418,mn20,Masur,Daniel,Bueckeburg,Germany,Lars Uebel,1994-11-06,29,Germany,183,78,R,2,2013,A
+419,r09v,Ribeiro,Eduardo,,,,1998-03-17,25,Brazil,178,75,R,2,,A
+420,o674,Oliel,Yshai,Ramla,Israel,Amos Mansdorf,2000-01-05,24,Israel,188,78,L,2,,A
+421,g967,Gojowczyk,Peter,Munich,Germany,Kristoffer Schimpf,1989-07-15,34,Germany,188,83,R,2,2006,A
+422,mp13,Sasikumar,Mukund,Chennai,India,Martin Spottel,1997-01-14,27,India,185,78,R,2,,A
+423,t0ha,Tien,Learner,Irvine,CA,Eric Diaz,2005-12-02,18,United States,180,73,L,2,2023,A
+424,u176,Ursu,Vadym,Kiev,Ukraine,Jan Kroslak,1997-01-01,27,Ukraine,180,71,R,2,,A
+425,m0aw,Mejia,Nicolas,Bogota,Colombia,"Juan Mateus, Ivan Molina, Juan Pablo Sánchez ",2000-02-11,24,Colombia,183,79,R,2,2019,A
+426,sq79,Sinclair,Colin,,,"Ian Malpass, Jeff Race, Silviu Tanasoiu",1994-12-19,29,Northern Mariana Islands,188,82,R,2,,A
+427,z09d,Zuk,Kacper,Nowy Dwor Mazowiecki,Poland,Artur Zuk,1999-01-21,25,Poland,183,77,R,2,2016,A
+428,c0jp,Collignon,Raphael,Rochester,Olmsted,Steve Darcis ,2002-01-13,22,Belgium,191,86,R,2,,A
+429,gf23,Gerch,Lucas,,,,1994-12-20,29,Germany,193,86,L,0,,A
+430,l0c1,Lopez Montagud,Carlos,,,,2000-07-06,23,Spain,180,77,R,2,,A
+431,g0j9,Gulin,Svyatoslav,,,,2002-12-04,21,Russia,178,80,R,2,,A
+432,f0bt,Forejtek,Jonas,,,Slava Dosedel,2001-03-10,22,Czech Republic,183,75,R,2,,A
+433,v821,Villanueva,Gonzalo,Parana,Argentina,,1995-01-13,29,Argentina,175,70,R,2,,A
+434,k0ep,Kym,Jerome,Rheinfelden,Switzerland,Markus Hipfl,2003-02-12,21,Switzerland,198,87,R,2,2019,A
+435,c0i4,Colson,Tibo,,,,2000-07-12,23,Belgium,196,93,R,2,,A
+436,d0a2,Dellavedova,Matthew,Wonga Park,Australia,Peter Dellavedova / Drew Reed,2000-05-30,23,Australia,191,81,R,1,,A
+437,o507,Ocleppo,Julian,,,Mimmo Piazza ,1997-08-01,26,Italy,191,90,R,2,,A
+438,cd00,Chazal,Maxime,,,"Florian Reynet, Rodolphe Cadart",1993-04-24,30,France,175,72,R,1,,A
+439,dc76,Durasovic,Viktor,Orkdal,Norway,Fredrik Loven,1997-03-19,26,Norway,185,80,R,2,2016,A
+440,b0nn,Basavareddy,Nishesh,,,Bryan Smith,2005-05-02,18,United States,180,70,R,2,,A
+441,cf88,Cid Subervi,Roberto,,,,1993-08-30,30,Dominican Republic,193,82,R,2,,A
+442,df92,Denolly,Corentin,Vienne,France,Olivier Ramos,1997-06-06,26,France,188,79,L,2,2015,A
+443,e811,Ejupovic,Elmar,Wolfsburg,Germany,Manuel Gasbarri ,1993-02-01,31,Germany,193,90,R,1,,A
+444,sx90,Sun,Fajing,Beijing ,China,Juan Manuel Esparcia ,1996-10-03,27,China,178,75,R,2,,A
+445,b0jj,Bertrand,Robin,,,,2003-03-15,20,France,178,70,R,0,,A
+446,ra51,Rola,Blaz,Ptuj,Slovenia,David Kass,1990-10-05,33,Slovenia,193,85,L,2,2013,A
+447,c0hb,Coulibaly,Eliakim,,,,2002-05-05,21,Ivory Coast,183,80,L,2,,A
+448,o664,Ochi,Makoto,Akashi,Hyogo,,1996-05-03,27,Japan,175,65,L,2,,A
+449,g0ix,Gea,Arthur,,,Tarik benhabiles,2005-01-02,19,France,180,72,R,2,,A
+450,b0id,Buse,Ignacio,,,,2004-03-25,19,Peru,183,73,R,2,,A
+451,b0fi,Boscardin Dias,Pedro,Joinville,Brazil,,2003-01-28,21,Brazil,180,75,R,2,,A
+452,k0ho,Kimhi,Orel,,,Yonatan kruveni ,2003-08-19,20,Israel,173,65,R,2,,A
+453,k0cj,Kopp,Sandro,,,,2000-05-26,23,Austria,185,76,R,2,,A
+454,g0gw,Gueymard Wayenburg,Sascha,,,Lionel Zimbler,2003-08-01,20,France,188,80,R,2,,A
+455,pf65,Peliwo,Filip,North Vancouver,Canada,Frederic Niemeyer,1994-01-30,30,Poland,180,76,R,2,2013,A
+456,a0ik,Ambrogi,Luciano Emanuel,,,Alberto Mancini ,2003-11-19,20,Argentina,188,77,R,2,,A
+457,r0b6,Rottoli,Lorenzo,,,Fabrizio Rottoli ,2002-02-19,22,Italy,0,64,R,2,,A
+458,p0ea,Purtseladze,Saba,Tbilisi,Georgia,Irakli Purtseladze,2001-08-20,22,Georgia,191,91,R,2,2019,A
+459,cb14,Cox,Daniel,Lincoln,Great Britain,Justin Revill,1990-09-28,33,Great Britain,170,68,R,2,2011,A
+460,d0l3,Dodig,Matej,,,,2005-07-19,18,Croatia,,,U,0,,A
+461,v0dp,Vallejo,Adolfo Daniel,,,,2004-04-28,19,Paraguay,183,72,R,2,,A
+462,d0cn,Damas,Miguel,,,"Luis Zapata, Javi Perez ",1999-12-21,24,Spain,208,84,R,2,,A
+463,s0tm,Samuel,Toby,,,Josh Goffi,2002-09-06,21,Great Britain,191,80,R,2,,A
+464,s09p,Shin,Sanhui,Seoul,Korea,,1997-03-18,26,South Korea,178,83,R,2,,A
+465,mj98,Mena,Facundo,Buenos Aires,Argentina,Cristobal Saavedra,1992-09-22,31,Argentina,183,81,R,2,,A
+466,h0dc,Hussey,Giles,,,,1997-05-26,26,Great Britain,185,75,L,2,,A
+467,l397,Lopez,Feliciano,Toledo,Spain,,1981-09-20,42,Spain,188,88,L,1,1997,A
+468,r0ed,Rehberg,Max Hans,,,Benjamin Benedikter,2003-09-13,20,Germany,183,80,R,2,,A
+469,m0fa,Matusevich,Anton,,,,2001-05-30,22,Great Britain,185,86,R,2,,A
+470,s0rf,Serafini,Marcello,,,,2002-08-25,21,Italy,188,197,R,2,,A
+471,m0ey,Marti Pujolras,Alex,,,Narcis Pelach,1999-02-10,25,Spain,185,73,R,2,,A
+472,k0hn,Kuzuhara,Bruno,Sao Paulo,Brazil,,2004-04-01,19,United States,175,68,R,2,2022,A
+473,g0eq,Gima,Sebastian,,,Andrei Pavel & Adrian Ungur,2002-05-17,21,Romania,0,75,L,2,,A
+474,n0d9,Nicod,Jakub,,,Jacques Nicod,2004-07-21,19,Czech Republic,183,77,R,2,,A
+475,cl82,Cukierman,Daniel,Tel Aviv,Israel,,1995-07-09,28,Israel,,70,R,2,,A
+476,l0at,Lopez Morillo,Imanol,,,,1999-11-18,24,Spain,183,90,R,2,,A
+477,s0kt,Sakellaridis,Stefanos,,,Ioannis Sakellaridis,2004-09-13,19,Greece,196,85,R,2,,A
+478,tg30,Te,Rigele,Huhehaote,China,Xinyuan Yu,1997-10-09,26,China,188,80,R,2,,A
+479,c0aj,Cui,Jie,Beijing,China,Shaowu Duan,1998-01-24,26,China,183,72,R,2,,A
+480,b0ou,Barton,Hynek,,,,2004-04-05,19,Czech Republic,183,72,R,2,,A
+481,a0g7,Aboian,Valerio,,,,2002-06-14,21,Argentina,183,73,L,2,,A
+482,bu10,Berrettini,Jacopo,Rome,Italy,Marco Gulisano,1998-11-27,25,Italy,193,90,R,2,2016,A
+483,ph42,Pecotic,Matija,Belgrade,Serbia,"Lovro Roncevic, Alfred Dimech, Carlos Aranda",1989-07-03,34,Croatia,185,84,L,2,2013,A
+484,j0b5,Johns,Garrett,,,Noel Wadawu,2000-12-17,23,United States,180,70,R,2,,A
+485,lf29,Lopez San Martin,Alvaro,Barcelona,Spain,Javier Duarte,1997-06-02,26,Spain,178,70,R,2,,A
+486,b0qc,Bailly,Gilles Arnaud,,,Dries Beerden,2005-09-19,18,Belgium,180,78,R,2,,A
+487,n0b4,Nijboer,Ryan,,,Martin Bohm,1999-07-28,24,Netherlands,180,77,R,2,,A
+488,s0ex,Stewart,Hamish,,,,1999-07-30,24,Great Britain,,,R,0,,A
+489,a0i1,Artnak,Bor,,,Grega Zemlja,2004-06-04,19,Slovenia,193,78,R,2,,A
+490,g0by,Glinka,Daniil,,,,2000-05-12,23,Estonia,188,83,L,1,,A
+491,m0n1,Mikrut,Luka,,,"Alan Maric, Dino Cebo",2004-04-16,19,Croatia,188,73,R,2,,A
+492,z0by,Zanellato,Nicolas,,,,2002-01-22,22,Brazil,178,70,R,1,,A
+493,e873,Escobedo,Ernesto,Los Angeles,CA,,1996-07-04,27,Mexico,185,82,R,2,2014,A
+494,t0cu,Tabacco,Fausto,,,Tommaso Castagnola ,2002-05-13,21,Italy,183,80,R,2,,A
+495,p0dr,Picchione,Andrea,,,Giorgio Galimberti ,1998-06-07,25,Italy,183,80,R,2,,A
+496,kg49,Klok,Denis,,,Veronika Fedorova ,1998-05-26,25,Russia,180,82,R,2,,A
+497,ki71,Kivattsev,Kirill,Volgograd,Russia,"Rudy Fischietti, Antonello Regina ",1997-10-10,26,Russia,193,39,R,1,,A
+498,d750,De Schepper,Kenny,Bordeaux,France,,1987-05-29,36,France,203,100,L,1,2010,A
+499,b0ll,Bielinskyi,Viacheslav,,,Stephane Robert,2003-12-02,20,Ukraine,71,151,R,1,,A
+500,db32,Dzhavakian,Yurii,,,,1993-05-07,30,Ukraine,,80,R,2,,A
+501,m0nl,Montes-De La Torre,Inaki,,,,2002-10-03,21,Spain,178,79,R,2,,A
+502,v0bd,Vylegzhanin,Nikolay,,,,2000-04-18,23,Russia,178,81,R,2,,A
+503,sf89,Statham,Rubin,Westminster,Great Britain,Gary Swinkels ,1987-04-25,36,New Zealand,180,83,R,2,2002,A
+504,kj00,Knaff,Alex,,,Gilles Muller,1997-11-26,26,Luxembourg,193,85,R,2,,A
+505,lb78,Lee,Jea Moon,,,,1993-07-02,30,South Korea,,,R,2,,A
+506,ha71,Hoang,Antoine,Hyeres,France,Lionel Zimbler,1995-11-04,28,France,183,76,R,2,2016,A
+507,z09k,Zhu,Evan,Ann Arbor,MI,"Chris Begg, Shariq Khan",1998-08-15,25,United States,185,75,R,2,,A
+508,co01,Chepelev,Andrey,,,Lozano and Altur Tennis Academy ,1998-08-02,25,Russia,178,76,L,2,,A
+509,f0by,Fearnley,Jacob,,,,2001-07-15,22,Great Britain,183,80,R,2,,A
+510,m0b2,Mochizuki,Yuki,Osaka,Japan,,1997-11-23,26,Japan,173,60,R,2,,A
+511,lb07,Lama,Gonzalo,Santiago,Chile,Cristobal Saavedra ,1993-04-27,30,Chile,180,82,R,2,2011,A
+512,f0cj,Ferrari,Gianmarco,,,"Elia Grossi, Daniele Giorgini",2000-10-04,23,Italy,191,88,L,2,,A
+513,l733,Li,Zhe,Tianjin,China,"Christophe Lambert, Jean-Philippe Fleuran",1986-09-20,37,China,183,80,R,2,2004,A
+514,m0np,Martin,Andres,Atlanta,GA,Murry Lokasundaram,2001-07-07,22,United States,183,79,R,2,,A
+515,td47,Tiurnev,Evgenii,,,Mikhail Tsybin,1997-04-08,26,Russia,191,85,R,2,,A
+516,p0ig,Pawelski,Martyn,,,Lukasz Kuboszek,2004-11-07,19,Poland,196,90,R,2,,A
+517,sg56,Dutra da Silva,Daniel,Parelheiros ,Brazil,"Luiz Peniza, Patricio Arnold, Caio Martins Claudino",1988-07-05,35,Brazil,173,75,L,2,2007,A
+518,pi96,Perez Contri,Sergi,,,,1998-01-20,26,Spain,175,68,L,2,,A
+519,cj60,Cozbinov,Alexandr,Chisinau,Moldova,Leonid Cozbinov,1995-04-28,28,Moldova,188,80,R,2,2019,A
+520,i0b0,Ilagan,Andre,,,,2000-11-16,23,United States,173,64,L,0,,A
+521,z0ab,Zakharov,Alexey,Moscow,Russia,Andrey Chesnokov,2000-04-21,23,Russia,185,80,R,2,,A
+522,ha33,Heller,Peter,Cham,Germany,Marc Sieber,1992-08-12,31,Germany,185,80,R,2,,A
+523,rh62,Rosenkranz,Mats,Essen,Germany,Peter Moraing,1998-08-23,25,Germany,193,83,L,2,,A
+524,p0be,Pontjodikromo,Sidane,,,Tjerk Bogtstra ,2000-10-24,23,Netherlands,178,75,R,2,,A
+525,mv75,Monzon,Ignacio,,,,1998-01-05,26,Argentina,173,73,R,2,,A
+526,p0it,Pieczkowski,Olaf,,,Marcel du Coudray,2004-04-01,19,Poland,183,78,R,2,,A
+527,dh53,Dancu,Vlad Andrei,,,,1999-03-08,24,Romania,0,80,R,2,,A
+528,z0bz,Zheng,Michael,,,,2004-01-27,20,United States,188,73,R,2,,A
+529,m0oh,Midon,Lautaro,,,,2004-03-29,19,Argentina,180,71,R,2,,A
+530,g0cv,Gadamauri,Buvaysar,,,,2000-07-10,23,Belgium,183,80,R,1,,A
+531,i09n,Iannaccone,Federico,,,Paolo Moretti,1999-03-26,24,Italy,183,73,R,2,,A
+532,db93,Descotte,Matias Franco,,,,1994-08-29,29,Argentina,191,87,R,2,,A
+533,g0ao,Gray,Alastair,Twickenham,England,Mark Taylor ,1998-06-22,25,Great Britain,193,83,R,1,,A
+534,b0c0,Boitan,Gabi Adrian,,,,1999-07-11,24,Romania,185,82,R,2,,A
+535,r0bc,Rodriguez,Lorenzo Joaquin,,,Fabián Blengino,1999-09-29,24,Argentina,193,77,R,1,,A
+536,p0g5,Popovic,Stefan,,,,2003-05-25,20,Serbia,178,72,R,2,,A
+537,fc26,Furness,Evan,Pontivy,France,Glenn Le Flochmoen,1998-08-13,25,France,173,66,R,2,,A
+538,mi43,Melzer,Gerald,Vienna,Austria,"Philipp Wessely, Jan Schellmann",1990-07-13,33,Austria,188,80,L,2,2007,A
+539,p0g0,Philippov,Evgeny,,,"Philippov Viacheslav, Chelyshev Igor",2002-02-06,22,Russia,180,76,R,0,,A
+540,r0dc,Rai,Ajeet,,,Rakesh Rai,1999-01-18,25,New Zealand,188,72,R,2,,A
+541,l0fw,Li,Hanwen,,,Wei zhang,2002-08-22,21,China,180,73,R,0,,A
+542,m0g0,Matsuda,Ryuki,,,,1999-12-28,24,Japan,157,60,R,2,,A
+543,p0fj,Papoe,Radu Mihai,,,Lin Papoe,2002-08-28,21,Romania,183,65,R,2,,A
+544,ga36,Gomez,Emilio,Guayaquil,Ecuador,Andres Schneiter,1991-11-28,32,Ecuador,185,81,R,2,2013,A
+545,v0ci,Voisin,Emilien,,,Le Cras Gaëtan ,2000-04-17,23,France,178,72,R,2,,A
+546,m0ka,Milev,Yanaki,,,Milko Milev,2004-04-15,19,Bulgaria,180,78,R,2,,A
+547,p0jg,Pennaforti,Gabriele,,,,2000-09-14,23,Italy,191,85,R,2,,A
+548,g0ib,Gentzsch,Tom,,,Brad Mousley,2003-09-05,20,Germany,188,87,R,2,,A
+549,kc86,King,Darian,Bridgetown,Barbados,Christopher King,1992-04-26,31,Barbados,188,77,R,2,2010,A
+550,ld22,Ly,Nam Hoang,Ho Chi Minh,Vietnam,Christian Brydniak,1997-02-25,26,Vietnam,175,69,R,2,,A
+551,rg42,Rybakov,Alex,Plainview,New York,"Devin Bowen, David Roditi",1997-01-27,27,United States,185,77,L,1,2019,A
+552,f09u,Fuele,Matyas,,,,1998-12-22,25,Hungary,180,78,R,2,,A
+553,b0bu,Bax,Florent,,,Julien Gillet,1999-06-16,24,France,185,78,R,0,,A
+554,g0i2,Gobat,Adrien,,,Axel Gobat,2001-07-10,22,France,175,170,R,2,,A
+555,m0d4,Fitriadi,M Rifki,,,Suharyadi Robby Sudrajat,1999-01-23,25,Indonesia,175,72,R,1,,A
+556,p0d0,Paul,Jakub,Chur,Switzerland,Sven Swinnen,1999-03-22,24,Switzerland,180,73,R,2,,A
+557,w09t,Wiedenmann,Luca,,,,1998-04-28,25,Germany,178,72,R,2,,A
+558,o656,Oetzbach,Adrian,,,Peter Moraing,1997-10-29,26,Germany,185,80,R,2,,A
+559,hb05,Harrison,Christian,Shreveport,LA,Pat Harrison,1994-05-29,29,United States,180,77,R,2,2007,A
+560,pc09,Pereira,Jose,Santana do Ipanema,Brazil,Richard Tsukada and Renato Pereira,1991-01-26,33,Brazil,180,74,R,2,,A
+561,s483,Sousa,Pedro,Lisbon,Portugal,"Rui Machado, Ruben Ramirez Hidalgo",1988-05-27,35,Portugal,180,70,R,2,2007,A
+562,kd87,Karlovskiy,Evgeny,Moscow,Russia,,1994-08-07,29,Russia,191,86,R,2,2012,A
+563,n0cj,Nesterov,Petr,,,,2003-03-07,20,Bulgaria,0,78,R,2,,A
+564,so20,Sels,Jelle,Woerden,Netherlands,,1995-08-10,28,Netherlands,188,83,R,1,,A
+565,k0bj,Kravchenko,Georgii,,,"Oscar Hernandez, Salvador Navarro",2000-07-28,23,Ukraine,180,68,R,2,,A
+566,v0dg,Vandecasteele,Quinn,,,,2002-09-01,21,United States,191,81,R,0,,A
+567,cn78,Catarina,Lucas,,,Guillaume Couillard ,1996-08-26,27,Monaco,185,80,R,2,2015,A
+568,td55,Tokuda,Renta,Hiroshima,Japan,"Tsuji,Yuma",1998-03-29,25,Japan,178,69,R,2,,A
+569,b0lw,Brunold,Mika,,,Roman Vögeli,2004-10-02,19,Switzerland,191,73,R,2,,A
+570,bu53,Bittoun Kouzmine,Constantin,,,,1999-01-04,25,France,178,73,L,2,2018,A
+571,v09t,Vives Marcos,Pedro,,,Ignacio Gonzalez,2001-04-13,22,Spain,178,77,R,2,,A
+572,p0gn,Paris,Tom,,,Antoine Pastrana,2002-09-02,21,France,191,83,R,1,,A
+573,j0d2,Jones,Maximus,Sydney,Australia,,2004-09-05,19,Thailand,185,86,R,2,,A
+574,v0bp,Vankan,Marlon,,,Frederic De Fays,2000-08-27,23,Germany,170,73,R,2,,A
+575,l0g8,Lilov,Victor,London,Canada,,2004-02-11,20,United States,183,83,R,2,,A
+576,la54,Leite,Wilson,Rio de Janeiro,Brazil,Wellington Oliveira,1991-11-06,32,Brazil,178,72,R,2,2008,A
+577,g09c,Gengel,Marek,Rakovnik,Czech Republic,Ivan Gengel,1995-09-17,28,Czech Republic,185,80,R,2,,A
+578,j0cu,Jong,Sander,,,,2000-05-18,23,Netherlands,180,77,R,2,,A
+579,w0ah,Wendelken,Harry,,,,2001-12-18,22,Great Britain,178,68,R,2,,A
+580,pi95,Pichler,David,Eisenstadt,Austria,Stefan Hirn,1996-02-19,28,Austria,178,72,R,2,,A
+581,d0d4,Dostanic,Stefan,,,,2001-11-04,22,United States,188,79,R,2,,A
+582,p0ay,Pavlovic,Luka,,,,2000-03-30,23,France,,,U,0,,A
+583,s0c2,Shiraishi,Hikaru,,,,2000-05-22,23,Japan,168,60,R,2,,A
+584,a0fm,Agafonov,Egor,,,Golovachev Aleksei ,2002-09-05,21,Russia,185,76,R,2,,A
+585,dc38,Delaney,Jake,Sydney,Australia,George Costanza,1997-05-14,26,Australia,188,80,R,2,,A
+586,o0ad,Oberleitner,Neil,,,Alexander Peya,1999-08-05,24,Austria,193,83,R,2,,A
+587,s0bt,Soriano Barrera,Adria,,,,1999-06-02,24,Colombia,191,82,R,2,,A
+588,co07,Clark,Ezekiel,,,,1998-07-19,25,United States,170,70,R,2,,A
+589,pg69,Paz,Juan Pablo,,, Daniel Paz,1995-01-04,29,Argentina,173,75,R,2,,A
+590,l0er,Legout,Timo,,,Kevin mercier,2002-03-13,21,France,178,73,R,2,,A
+591,ki74,Kuhn,Nicola,Innsbruck,Austria,Dirk Hordorff,2000-03-20,23,Germany,185,80,R,2,2015,A
+592,n0db,Nedic,Andrej,,,,2004-10-16,19,Bosnia-Herzegovina,,,U,0,,A
+593,h0c9,Huertas Del Pino Cordova,Arklon,,,Luis Horna ,1994-07-16,29,Peru,183,81,R,2,,A
+594,j0aw,Justo,Guido Ivan,,,"Franco Jimenez, Juan Pablo Cañaz",1997-12-17,26,Argentina,178,77,R,2,,A
+595,ag08,Andrade,Andres,,,,1998-12-14,25,Ecuador,180,73,R,2,,A
+596,p0hp,Pokorny,Lukas,,,Lubomír Kurhajec,2002-02-28,21,Slovak Republic,191,83,R,2,,A
+597,c0bb,Compagnucci,Tommaso,,,,1999-11-05,24,Italy,173,65,R,2,,A
+598,kc29,Kicker,Nicolas,Merlo,Argentina,Juan Pablo Brzezicki,1992-08-16,31,Argentina,178,75,R,1,2009,A
+599,pl64,Prihodko,Oleg,Pavlograd,Ukraine,Dmitriy Prihodko ,1997-10-03,26,Ukraine,180,77,R,2,,A
+600,fa50,Fancutt,Thomas,Brisbane,Australia,Blazo Djurovic,1995-02-25,28,Australia,188,83,R,1,,A
+601,e0au,Echeverria,John,,,,2001-11-30,22,Spain,180,72,R,0,,A
+602,s0dq,Smith,Keegan,Wilmington,NC,,1998-06-23,25,United States,198,93,R,0,,A
+603,w712,Wehnelt,Kai,,,"Bastian Suwanprateep, Alexander Waske",1995-11-27,28,Germany,188,82,R,2,,A
+604,dh23,Dev,S D Prajwal,,,Sujith Sachidanand,1996-05-27,27,India,175,75,R,2,,A
+605,t0aa,Tomescu,Dan Alexandru,,,Marius Cirstea,1999-03-30,24,Romania,0,78,R,0,,A
+606,o659,Orlov,Vladyslav,,,Elena Iudina,1995-05-17,28,Ukraine,188,78,R,2,,A
+607,va15,Vale,Duarte,,,,1999-01-11,25,Portugal,183,74,R,2,,A
+608,s0dl,Seggerman,Ryan,,,,1999-08-06,24,United States,193,95,R,0,,A
+609,p0iy,Prado Angelo,Juan Carlos,,,Hermann Ritter,2005-03-06,18,Bolivia,185,72,R,2,,A
+610,a0ba,Arnaboldi,Federico,,,/,2000-06-18,23,Italy,185,78,R,2,,A
+611,pl38,Prechtel,Sebastian,,,"Daniel Huber, Andreas Haider-Maurer",1996-05-14,27,Germany,185,81,R,2,,A
+612,b0er,Bouquier,Arthur,,,"Yann Benard, Pierre Yves Vuignier, Thierry Kvartskhava",2000-12-25,23,France,188,85,R,2,,A
+613,r0bt,Roncadelli,Franco,Montevideo,Uruguay,Enrique Perez Cassarino,2000-02-06,24,Uruguay,185,73,L,2,2018,A
+614,d0fa,Dlimi,Yassine,,,,2003-05-05,20,Morocco,191,82,R,2,,A
+615,v717,Vatutin,Alexey,Volgograd,Russia,"Yuriy Kozlovich, Eduard Davydenko, Andrei Gorban",1992-10-27,31,Russia,178,69,R,2,,A
+616,ch80,Castelnuovo,Luca,Locarno,Switzerland,Alexis Bernhard Castelnuovo,1997-01-29,27,Switzerland,185,71,L,1,,A
+617,r0h2,Rodenas,Pedro,,,Ramsey Smith,2004-03-30,19,Spain,185,75,L,2,,A
+618,c0hx,Baris,Ozan,,,Mike Flowers,2004-03-31,19,United States,185,84,R,2,,A
+619,h0b5,Huang,Tsung-Hao,,,,1999-11-22,24,Chinese Taipei,173,68,R,2,,A
+620,p0i6,Piraino,Gabriele,Palermo,Italy,,2003-11-12,20,Italy,188,78,L,0,,A
+621,b0hf,Barreto Sanchez,Diego Augusto,,,Equelite Ferrero Academy ,2002-04-18,21,Spain,183,83,L,2,,A
+622,b0ek,Bouzige,Moerani,,,Mitch Walden,1999-07-13,24,Australia,180,80,R,2,,A
+623,sm88,Sell,Karue,Jaraguá do Sul,Brazil,,1993-11-13,30,Brazil,183,81,R,2,,A
+624,a09p,Ayeni,Alafia,,,F. Stove,1999-08-10,24,United States,191,84,R,2,,A
+625,d0d2,Deckers,Alec,,,Eddy Bank,2000-05-02,23,Netherlands,193,83,R,2,,A
+626,bt68,Benchetrit,Elliot,Nice,France,"Aurelien Richaud, Jean-Michel Pequery",1998-10-02,25,Morocco,193,88,R,2,2016,A
+627,g0a0,Guerrieri,Andrea,Correggio,Italy,Giampaolo Coppo,1998-12-03,25,Italy,180,75,L,2,,A
+628,b0am,Bocchi,Lorenzo,,,Cristian Fava,1997-11-29,26,Italy,180,77,R,2,,A
+629,sy71,Singh,Digvijaypratap,Khanpur Khurd,Jhajjar,,2000-06-02,23,India,191,78,R,2,,A
+630,a678,Anderson,Kevin,Johannesburg,South Africa,"Diego Moyano, Jay Bosworth ",1986-05-18,37,South Africa,203,94,R,2,2007,A
+631,b0f8,Boulais,Justin,,,Yves Boulais & Patricia Hy,2001-10-20,22,Canada,183,77,L,1,,A
+632,ka22,Kelly,Dayne,,,,1990-07-23,33,Australia,,,R,0,,A
+633,sl92,Sekiguchi,Shuichi,San Francisco,CA,,1991-07-15,32,Japan,168,66,R,2,,A
+634,s0ek,Soto,Matias,,,Mario Soto  - Alto Tenis,1999-04-27,24,Chile,170,75,R,2,,A
+635,i230,Ito,Tatsuma,Mie,Japan,Alexander Waske,1988-05-18,35,Japan,180,75,R,2,2006,A
+636,gk24,Giacomini,Luca,Padova,Italy,,1997-10-24,26,Italy,170,63,R,0,,A
+637,r0gn,Raynel,Amaury,,,,2002-06-29,21,France,180,73,R,2,,A
+638,k0hl,Kang,Kyle,,,Dave Mann,2005-01-27,19,United States,183,70,R,2,,A
+639,b0mm,Butvilas,Edas,,,Ivan Navarro,2004-07-23,19,Lithuania,191,78,R,2,,A
+640,f965,Fukuda,Sora,,,,1997-10-03,26,Japan,180,72,L,2,,A
+641,p0b2,Potenza,Luca,,,Marco Martizi ,2000-07-28,23,Italy,0,64,R,2,,A
+642,f0bv,Farjat,Tomas,,,,2001-02-15,23,Argentina,188,80,R,2,,A
+643,n731,Negritu,Christoph,Dinkelsbuehl,Germany,"Binh Bui, Konstantin (Koko) Stamm",1994-03-21,29,Germany,193,83,R,2,,A
+644,i330,Imai,Shintaro,Kanagawa,Japan,,1993-09-07,30,Japan,178,74,R,0,,A
+645,mp83,Moroni,Gian Marco,Rome,Italy,"Riccardo Maiga, Fabio Gorietti",1998-02-13,26,Italy,185,81,R,1,2018,A
+646,g0av,Gimeno Valero,Carlos,Valencia,Spain,,2001-06-25,22,Spain,191,81,R,2,2019,A
+647,be67,Basic,Mirza,Sarajevo,Bosnia-Herzegovina,"Damir Basic, Daniel Meyers",1991-07-12,32,Bosnia-Herzegovina,188,88,R,2,2012,A
+648,j400,Jahn,Jeremy,Munich,Germany,,1990-04-05,33,Germany,178,73,R,1,,A
+649,z09b,Zgirovsky,Alexander,Minsk,Belarus,,2001-07-10,22,Belarus,191,80,R,2,,A
+650,s0o6,Simakin,Ilia,,,,2003-10-27,20,Russia,193,85,R,2,,A
+651,le01,Lee,Duckhee,Jecheon,South Korea,,1998-05-29,25,South Korea,175,75,R,2,2013,A
+652,mq75,Majchrzak,Kamil,Piotrkow Trybunalski,Poland,Jean-Marcel Bourgault Du Coudray,1996-01-13,28,Poland,180,78,R,2,2013,A
+653,r0e0,Rodesch,Chris,,,"Scott Brown, Andres Pedroso, Anders Johansson",2001-07-18,22,Luxembourg,198,93,R,2,,A
+654,n409,Nadal,Rafael,Manacor,Mallorca,"Carlos Moya, Marc Lopez, Gustavo Marcaccio",1986-06-03,37,Spain,185,85,L,2,2001,A
+655,ph67,Ponwith,Nathan,Chandler,Arizona,,1998-04-20,25,United States,188,79,R,2,,A
+656,f0a3,Fomin,Sergey,Tashkent,Uzbekistan,Duldaev Daniiar ,2001-02-01,23,Uzbekistan,180,34,R,2,,A
+657,b0jp,Blanch,Dali,Miami,FL,Carlos Cordova,2003-03-05,20,United States,185,80,R,2,,A
+658,cf60,Juszczak,Pawel,Gdansk,Poland,,1994-02-22,30,Poland,178,70,R,2,,A
+659,m0bw,Mo,Ye Cong,,,,2000-06-26,23,China,183,78,R,2,,A
+660,mo54,Martinez Martinez,Jorge,,,Santiago Ventura/Israel Matos ,1995-09-23,28,Spain,170,66,R,2,,A
+661,lb84,Londero,Juan Ignacio,Jesus Maria,Argentina,Andres Schneiter,1993-08-15,30,Argentina,180,70,R,2,2010,A
+662,f0dp,Fajta,Peter,,,"Palagyi Miklos, Sandor Noszaly",2002-05-23,21,Hungary,185,81,R,2,,A
+663,l949,Laaksonen,Henri,Lohja,Finland,,1992-03-31,31,Switzerland,185,78,R,2,2009,A
+664,w749,Wallart,Enzo,,,"Jordan Ubiergo, Franck Wallart ",1997-02-12,27,France,185,76,R,2,,A
+665,b0a0,Beauge,Maxence,Marzy,France,Bernard Jérôme ,2000-06-08,23,France,183,70,R,2,,A
+666,c0jv,Claverie,Lorenzo,,,"Rudy Diaz De Vivar, Carlos Claverie ",2002-09-28,21,Italy,196,96,R,2,,A
+667,r0f1,Rodriguez,Johan Alexander,Melgar,Tolima,Ricardo sanchez ,2003-09-26,20,Colombia,173,56,R,2,,A
+668,n934,Nishiwaki,Kazuki,Kyoto-Uji,Japan,,1994-10-29,29,Japan,178,70,R,2,,A
+669,s0hr,Samrej,Kasidit,,,Vittaya Samrej,2001-01-20,23,Thailand,191,91,R,2,,A
+670,b0c7,Barki,Justin,,,,2000-05-26,23,Indonesia,178,70,R,0,,A
+671,m0eg,McCormick,Tristan,,,Jesse Witten,1999-04-01,24,United States,196,93,R,1,,A
+672,v0d0,Visker,Niels,,,Alwin Visker ,2001-10-05,22,Netherlands,191,87,R,1,,A
+673,af41,Agarwal,Rishab,,,,1995-12-05,28,India,175,70,R,2,,A
+674,c0hv,Castagnola,Luca,,,Massimo Sartori,2002-06-14,21,Italy,183,72,R,2,,A
+675,p0bk,Parker,Stuart,,,Thomas Enqvist ,1997-07-30,26,Great Britain,185,78,R,2,,A
+676,k0ak,Kawahashi,Yuta,,,,1998-01-26,26,Japan,175,65,R,2,,A
+677,b0ot,Bradshaw,Jacob,,,Paul Hanley ,2002-10-23,21,Australia,188,82,R,2,,A
+678,t0gf,Tracy,James,,,,2002-07-10,21,United States,183,80,R,2,,A
+679,va48,Vishwakarma,Siddharth,Varanasi,India,Ratan sharma,1994-10-07,29,India,191,74,L,2,,A
+680,hg90,Huertas del Pino,Conner,,,,1995-12-20,28,Peru,188,86,R,2,,A
+681,pl39,Perez,Alfredo,,,,1997-05-22,26,United States,193,79,R,2,,A
+682,p0cd,Paty,Daniel,,,,1999-10-04,24,Czech Republic,203,88,R,2,,A
+683,o0ai,Obradovic,Dusan,,,,2001-03-23,22,Serbia,,,U,0,,A
+684,m09e,Mu,Tao,,,,2000-04-28,23,China,180,75,R,2,,A
+685,c0ow,Carboni,Lorenzo,,,,2006-02-27,17,Italy,168,70,R,2,,A
+686,ag57,Aboian,Leonardo,,,Blengino,1998-04-20,25,Argentina,175,73,L,2,,A
+687,a0ea,Alcala Gurri,Max,,,,2002-09-11,21,Spain,178,68,R,2,,A
+688,dg53,Decamps,Gabriel,Sao Paulo,Brazil,William Kyriakos,1999-08-07,24,Brazil,193,80,R,2,,A
+689,d776,de Bakker,Thiemo,The Hague,The Netherlands,"Remko de Rijke, Huib Troost",1988-09-19,35,Netherlands,193,83,R,2,,A
+690,k0de,Kumasaka,Takuya,,,,1998-10-12,25,Japan,175,73,R,2,,A
+691,kh77,Kaliyanda Poonacha,Niki,Neyveli,India,,1995-04-27,28,India,191,87,R,2,,A
+692,pf36,Perez Sanz,David,,,,1994-05-15,29,Spain,180,78,R,2,,A
+693,i0a6,Ichikawa,Taisei,,,,2000-12-21,23,Japan,180,70,L,2,,A
+694,g0g2,Gonzalez Fernandez,Mario,,,,2002-04-28,21,Spain,185,76,R,2,,A
+695,h0ei,Hurrion,Millen,,,Ian MacDonald,1999-06-22,24,Great Britain,191,90,R,2,,A
+696,rh13,Rikl,Patrik,Bradenton,FL,Martin Stepanek ,1999-01-06,25,Czech Republic,185,86,R,2,,A
+697,f811,Fratangelo,Bjorn,Pittsburgh,PA,Eric Nunez,1993-07-19,30,United States,183,79,R,2,2012,A
+698,n652,Nam,JiSung,Busan,South Korea,,1993-08-15,30,South Korea,183,80,R,2,,A
+699,s0xe,Sanchez Quilez,Alejo,,,,2005-06-25,18,Spain,,,U,0,,A
+700,p0j1,Pacheco Mendez,Rodrigo,,,Alain Lemaitre ,2005-04-25,18,Mexico,188,73,L,2,2022,A
+701,j737,Juarez,Facundo,,,Leonardo Olguín,1997-09-23,26,Italy,180,72,R,2,,A
+702,a0b6,Angele,Jaimee Floyd,,,,2000-03-27,23,France,206,93,R,2,,A
+703,w0bd,Wassermann,Deney,,,Martijn bok,2001-03-25,22,Netherlands,191,91,R,1,,A
+704,s0nn,Sheehy,Joshua,Arlington,TX,,1997-01-28,27,United States,188,88,L,0,,A
+705,s0qz,Sorger,Sebastian,,,,2005-12-19,18,Austria,180,73,R,0,,A
+706,p0ed,Pannu,Kiranpal,,,"Vivek Gurudutt, Jeri Stewart",1997-01-07,27,New Zealand,185,82,R,2,,A
+707,w0c4,Winter,Edward,,,Jack Schipanski,2004-09-15,19,Australia,178,73,R,2,,A
+708,t0fk,Tabacco,Giorgio,,,Tommaso castagnola ,2003-08-06,20,Italy,178,80,R,2,,A
+709,t0ag,Tkemaladze,Zura,Tbilisi,Georgia,"Lennart Zynga, Burghard Rieheman",2000-06-04,23,Georgia,188,78,R,2,2019,A
+710,p0gp,Privara,Peter Benjamin,,,,2004-08-02,19,Slovak Republic,188,77,R,1,,A
+711,rb86,Rawat,Sidharth,New Delhi,India,,1993-04-21,30,India,175,70,R,2,,A
+712,l0by,Lane,Lewie,,,Herby Horst,2001-01-02,23,Germany,183,82,R,1,,A
+713,ke69,Kestelboim,Mariano,Buenos Aires,Argentina,Marcos Massonneau ,1996-02-06,28,Argentina,185,78,R,2,,A
+714,a0f3,Andaloro,Fabrizio,,,,2001-01-31,23,Italy,185,83,R,2,,A
+715,y0at,Yang,Jimmy,,,,1997-06-19,26,Germany,188,80,R,2,,A
+716,x01a,Xiao,Linang,,,,2000-03-18,23,China,173,68,R,2,,A
+717,z0c9,Zielinski,Marcel,,,,2000-10-27,23,Poland,,,U,0,,A
+718,a0eu,Aubriot,Alexandre,,,,1999-06-06,24,France,188,85,R,1,,A
+719,t0gr,Tarvet,Oliver,,,,2003-10-29,20,Great Britain,,,U,0,,A
+720,s0ja,Spizzirri,Eliot,,,Patrick Hirscht,2001-12-23,22,United States,183,76,R,2,,A
+721,pd07,Pospisil,Vasek,Vernon,Canada,Malek Jaziri,1990-06-23,33,Canada,193,88,R,2,2007,A
+722,m0on,Monday,Johannus,,,,2002-01-22,22,Great Britain,198,86,L,2,,A
+723,m0l2,Manzanera Pertusa,Alejandro,,,,2003-04-08,20,Spain,,,U,0,,A
+724,bp79,Bertran,Peter,,,Marcus Hurtig,1996-03-05,27,Dominican Republic,183,73,R,2,,A
+725,b0f0,Barnat,Jiri,,,Jan Satral ,2001-07-26,22,Czech Republic,183,78,R,2,,A
+726,sy05,Schnaitter,Jakob,,,Marc Meigel,1996-03-07,27,Germany,183,73,R,2,,A
+727,s0r5,Snitari,Ilya,,,,2002-03-20,21,Moldova,188,80,R,2,,A
+728,s0ri,Singh,Karan,Karnal,Haryana,Zeeshan Ali,2003-06-30,20,India,188,78,R,2,,A
+729,g0gz,Gavrielides,Liam,,,,2004-01-30,20,Germany,188,81,R,2,,A
+730,b0nv,Brady,Patrick,,,John Brady,2004-11-14,19,Great Britain,185,75,R,2,,A
+731,o09s,Otegui,Juan Bautista,,,,1999-02-23,25,Argentina,191,83,R,2,,A
+732,b0d8,Brumm,Jacob,Rancho Santa Fe,CA,"Scott Kintz, Michael Woodson, John Chanfreau",1998-11-30,25,United States,180,73,R,2,,A
+733,b0bk,Braynin,Aleksandr,,,Tseplyaev Yevhen,1999-08-29,24,Ukraine,201,85,R,2,,A
+734,g0d9,Gimenez,Igor,,,,2000-02-20,24,Brazil,180,76,R,2,,A
+735,p0k4,Pereira,Tiago,,,Pedro Pereira,2004-06-20,19,Portugal,0,78,R,2,,A
+736,k0bu,Kovapitukted,Palaphoom,,,Adam Vejmelka,1999-12-05,24,Thailand,178,71,R,2,,A
+737,r0ib,Rivet,Maxence,,,,2003-10-09,20,France,,,U,0,,A
+738,s0bg,Sumizawa,Daisuke,,,Shinichi Takemasa,1999-01-31,25,Japan,175,67,R,2,,A
+739,mp94,Moundir,Adam,Saint Louis,France,,1995-04-26,28,Morocco,191,91,R,2,,A
+740,a09w,Aguilar,Juan Carlos,London,England,Devin Bowen,1998-11-20,25,Canada,168,66,R,2,,A
+741,ke36,Kellovsky,Dominik,Havirov,Czech Republic,,1996-07-24,27,Czech Republic,183,78,R,1,,A
+742,i427,Ivanov,Simon Anthony,,,,2000-07-03,23,Bulgaria,188,76,R,2,,A
+743,s0f7,Skorilas,Alexandros,Ioannina,Greece,Vasileios Skorilas,2000-03-16,23,Greece,185,81,R,2,2018,A
+744,a0g8,Elsayed,Amr,,,Karim Zaher,1999-03-04,24,Egypt,185,77,R,2,,A
+745,h0bf,Henning,Philip,,,,2000-11-10,23,South Africa,,,R,2,,A
+746,rh50,Reymond,Arthur,,,Laurent Reymond,1999-04-02,24,France,180,73,L,1,,A
+747,l0db,La Vela,Giuseppe,,,,2000-10-16,23,Italy,,,U,0,,A
+748,b0c3,Beaupain,Simon,,,Arnaud Fontaine - Henri Jacquemin,1999-05-18,24,Belgium,178,76,R,2,,A
+749,mo35,Manda,Calin,,,,1998-04-03,25,Romania,185,83,R,2,,A
+750,n974,Nouza,Petr,,,David Skoch,1998-09-09,25,Czech Republic,193,91,R,2,,A
+751,p0ht,Pinnington Jones,Jack,,,Morgan Phillips,2003-03-30,20,Great Britain,180,82,R,2,,A
+752,m0gb,Martinez,Alex,,,,2001-03-19,22,Spain,185,78,R,2,,A
+753,c0kh,Cesar Porras,Julio,,,,1998-02-25,25,Argentina,,,,0,,A
+754,a0ja,Agwi,Michael,,,,2003-09-04,20,Ireland,,,U,0,,A
+755,w741,Wang,Aoran,,,,1997-02-05,27,China,191,91,R,2,,A
+756,sf41,Setkic,Aldin,Sarajevo,Bosnia & Herzegovina,Alberto Castellani,1987-12-21,36,Bosnia-Herzegovina,191,86,R,2,,A
+757,w0b3,Wang,Xiaofei,,,,2003-01-10,21,China,180,72,R,2,,A
+758,l0bu,Liu,Hanyi,,,,2001-05-23,22,China,185,88,R,2,,A
+759,b0iy,Beckley,Alec,,,Earl Grainger,2001-06-18,22,South Africa,183,75,R,2,,A
+760,i0ax,Isomura,Kokoro,,,,2003-01-22,21,Japan,175,72,R,2,,A
+761,o09a,Ouakaa,Aziz,,,,1999-08-07,24,Tunisia,,,U,0,,A
+762,ca12,Chardy,Jeremy,Pau,France,Philipp Wagner,1987-02-12,37,France,188,75,R,2,2005,A
+763,h0ec,Hanzlik,Cash,,,Patrick Dreves,2002-04-20,21,United States,185,77,R,2,,A
+764,j0d4,Jin,Jeremy,,,Gavin Van Peperzeel,2004-06-27,19,Australia,178,75,R,2,,A
+765,h0ag,Ho,Ray,,,,2000-02-13,24,Chinese Taipei,188,85,L,2,,A
+766,v306,Verdasco,Fernando,Madrid,Spain,"Diego Dinomo, David Sanchez, Quino Munoz",1983-11-15,40,Spain,188,90,L,2,2001,A
+767,m0na,Mitsui,Shunsuke,,,,2002-05-20,21,Japan,178,72,R,0,,A
+768,ab54,Adams,Harrison,,,Adrian Targett,1994-05-25,29,United States,183,75,R,2,,A
+769,kh41,Kaukovalta,Patrick,,,,1998-12-01,25,Finland,193,83,R,2,,A
+770,g0dd,Grant,William,,,Damion Jackson ,2001-02-13,23,United States,15,84,R,2,,A
+771,cn15,Corwin,Felix,Kalamazoo,MI,Erick Martinez,1996-05-26,27,United States,188,82,R,2,,A
+772,j0cm,Jovic,Viktor,,,,2002-01-24,22,Serbia,,,U,0,,A
+773,dh55,De Krom,Michiel,,,Jos Koemans,1998-06-27,25,Netherlands,183,80,R,2,,A
+774,a0es,Araujo,Pedro,,,,2002-03-26,21,Portugal,180,68,R,2,,A
+775,r0h6,Rossi,Leonardo,,,"Matteo Trevisan, Tommaso Brunetti",2002-08-05,21,Italy,180,80,R,2,,A
+776,e858,Egea,Franco Emanuel,Cordoba,Argentina,Mario Niz ,1996-01-01,28,Argentina,180,78,R,2,,A
+777,l09d,Liaonenka,Aliaksandr,,,,1999-03-17,24,Belarus,196,88,R,2,,A
+778,s0tx,Searle,Henry,,,,2006-03-29,17,Great Britain,193,85,L,2,,A
+779,h0ek,Hudd,Emile,,,,2000-05-27,23,Great Britain,193,87,R,2,,A
+780,n0ba,Nefve,Axel,,,Nick Saviano,2000-07-22,23,United States,193,88,L,2,,A
+781,p0fy,Pecci,Alessandro,,,,2001-03-23,22,Italy,198,95,R,2,,A
+782,l0dm,Lingua Lavallen,Alejo Lorenzo,,,"Alberto Mancini, Franco Pertusati ",2001-03-09,22,Argentina,175,72,L,2,,A
+783,g0iw,Ghibaudo,Antoine,,,Julien Demois,2005-01-25,19,France,191,70,R,2,,A
+784,m0bo,Markes,Colin,,,,1997-03-01,26,United States,188,84,R,2,,A
+785,w0bb,Wiskandt,Max,,,,2002-02-01,22,Germany,191,82,R,0,,A
+786,lg37,Lomakin,Grigoriy,,,,1998-03-18,25,Kazakhstan,198,78,R,0,,A
+787,mj70,Maamoun,Karim-Mohamed,Giza,Egypt,"Karim Zaher,Tamer El Sawy",1991-04-09,32,Egypt,175,73,R,2,,A
+788,o0be,Ovcharenko,Oleksandr,,,Vincenzo Carlone ,2001-10-17,22,Ukraine,185,81,R,2,,A
+789,bu35,Broville,Maxence,,,Philippe Pech,1999-01-31,25,France,193,82,R,0,,A
+790,b0lq,Bar Biryukov,Petr,,,,2002-02-28,21,Russia,196,85,L,2,,A
+791,mm78,Mridha,Jonathan,Stockholm,Sweden,Peter Carlsson,1995-04-08,28,Sweden,183,75,R,2,,A
+792,k0hg,Karol,Milos,,,,2002-12-13,21,Slovak Republic,198,90,R,2,,A
+793,rh17,Roberts,Justin,Nassau,Bahamas,"Chris Begg, Shariq Khan",1996-12-04,27,Bahamas,183,85,R,1,,A
+794,tb70,Trongcharoenchaikul,Wishaya,,,,1995-04-08,28,Thailand,,,R,2,,A
+795,p0av,Park,Uisung,Seoul,Korea,,2000-09-27,23,South Korea,175,75,R,2,,A
+796,b0m3,Bailly,Pierre Yves,,,,2003-10-15,20,Belgium,,,U,0,,A
+797,m0gp,Moroni,Filippo,,,,2001-02-01,23,Italy,175,73,R,2,,A
+798,ld26,Leshem,Edan,New York,NY,Amos Mansdrof,1997-03-19,26,Israel,183,72,R,2,,A
+799,m0c2,Martin,Dan,,,,1999-05-09,24,Canada,175,70,R,1,,A
+800,v0bc,Vandermeersch,Cyril,,,,1999-05-06,24,France,180,72,R,2,,A
+801,mt97,Mora,Maxime,Narbonne,France,Helton Alias Tonton,1997-03-26,26,France,183,73,R,2,,A
+802,d985,Domingues,Joao,Oliveira de Azemeis,Portugal,"Joao Antunes, Andre Podalka",1993-10-05,30,Portugal,,70,R,2,2013,A
+803,sm25,Sock,Jack,Lincoln,NE,,1992-09-24,31,United States,191,88,R,2,2011,A
+804,bu34,Beale,Jeremy,Preston,Australia,,1994-10-04,29,Australia,193,83,L,2,,A
+805,s0z6,Stater,Alexander,,,,1999-04-21,24,United States,13,71,R,0,,A
+806,h0ba,Hazawa,Shinji,Sanda,Japan,,1999-04-12,24,Japan,175,73,R,2,,A
+807,w738,Walkin,Brandon,Brisbane,Australia,Ryan Agar,1994-08-16,29,Great Britain,188,85,R,2,,A
+808,e0ab,Eqbal,Ishaque,,,,1998-01-17,26,India,,,R,2,,A
+809,f0c4,Fernandez Flores,Diego,,,PamShot Academy,2000-10-07,23,Chile,185,77,R,1,,A
+810,b0c5,Broska,Florian,,,,1998-01-01,26,Germany,,,R,0,,A
+811,l0i5,Leong,Mitsuki Wei Kang,Ipoh,Perak,Leong Chee Wai,2004-08-06,19,Malaysia,175,67,R,0,,A
+812,a0ia,Arutiunian,Erik,,,,2004-10-19,19,Belarus,191,88,R,2,,A
+813,sy42,Setodji,Thomas,,,,1995-10-13,28,France,183,83,R,2,,A
+814,c882,Cuevas,Pablo,Concordia,Argentina,Facundo Savio,1986-01-01,38,Uruguay,180,78,R,1,2004,A
+815,b0j6,Browning,Tauheed,,,,2002-10-12,21,United States,183,77,R,2,,A
+816,ke64,Kozlov,Stefan,Skopje,Macedonia,Andrei Kozlov,1998-02-01,26,United States,183,79,R,2,2013,A
+817,k0hz,Kim,Aidan,,,,2004-11-24,19,United States,191,82,R,2,,A
+818,b0ez,Becerra Otarola,Ignacio Antonio,,,"Juan Carlos Becerra, Aldo Alvarez",2000-09-25,23,Chile,170,73,R,2,,A
+819,v0dx,Vilicich,Bautista,,,,2001-10-05,22,Argentina,180,76,R,2,,A
+820,d0i6,Demin,Yaroslav,,,,2005-08-30,18,Russia,185,78,R,2,,A
+821,j09j,Jeong,Yeong-Seok,,,,2000-03-04,23,South Korea,185,83,R,0,,A
+822,s0rd,Sinha,Adit,,,,2003-09-18,20,United States,183,70,R,2,,A
+823,t0ia,Taguchi,Ryoatro,,,,2000-06-30,23,Japan,,,,0,,A
+824,sz32,Salle,Fabien,,,,1999-08-19,24,France,185,80,R,2,,A
+825,g0i3,Giunta,Massimo,,,,2004-07-09,19,Italy,,,R,0,,A
+826,rh88,Rubio Fierros,Alan Fernando,,,,1999-02-03,25,Mexico,175,75,R,2,,A
+827,m0k2,Marino,Pietro,,,"Fabio Rizzo, Alessio Di Mauro",2001-06-03,22,Italy,173,75,R,2,,A
+828,hh32,Hoyos,Alejandro,Cartago,Valle,Luciano Carluccio,1999-09-17,24,Colombia,180,78,R,2,,A
+829,d0hm,Donald,Matthew William,Karlsruhe,Germany,,2004-11-08,19,Czech Republic,175,68,R,2,,A
+830,n0be,Neff,Adam,Miami,Florida,Grant Chen,2001-05-30,22,United States,183,88,R,2,,A
+831,y09l,Yin,Bang Shuo,,,,1999-02-27,24,Chinese Taipei,183,75,R,2,,A
+832,s0v8,Shimanov,Ofek,,,,2005-07-03,18,Israel,,,U,0,,A
+833,m0hb,Musitelli,François,,,,1998-10-12,25,France,,,U,0,,A
+834,pl69,Pearson,Kody,Rockdale,Australia,Glen Pearson,1999-07-26,24,Australia,178,68,R,1,,A
+835,a0ie,Andre,Seydina,,,,2003-08-08,20,Senegal,,,U,0,,A
+836,b0e4,Barreiros Reyes,Mateo,,,"Patricio Arnold, Luiz Peniza",2000-12-14,23,Brazil,178,73,L,2,,A
+837,l0b7,Lemstra,Kai,,,,1999-06-19,24,Germany,188,72,R,2,,A
+838,c0c1,Catini,Niccolo,,,,1997-12-09,26,Italy,178,73,R,2,,A
+839,p0gq,Poljicak,Mili,Split,Croatia,Josip Dumanic,2004-07-13,19,Croatia,185,93,R,2,,A
+840,li39,Lazarov,Alexandar,Miami,FL,Krassimir Lazarov,1997-11-06,26,Bulgaria,191,84,R,1,2016,A
+841,m0re,Maloney,Patrick,,,,2000-02-09,24,United States,193,84,R,2,,A
+842,s0ao,Simkiss,Luke,,,,1998-08-17,25,Great Britain,,,U,0,,A
+843,bv17,Balzerani,Riccardo,Rieti,Italy,,1998-10-25,25,Italy,185,80,R,2,,A
+844,l0ee,Little,Daniel,Shoreham by sea,England,,1997-05-16,26,Great Britain,188,80,R,2,,A
+845,w716,Whitehouse,Mark,Reigate,England,,1993-05-01,30,Great Britain,188,80,R,0,,A
+846,b0jn,Braithwaite,Thomas,,,"Gary Stickler, Matt Limpus",1999-12-09,24,Australia,185,85,R,2,,A
+847,s0ba,Sorrentino,Luigi,,,,1998-06-18,25,Italy,185,75,R,2,,A
+848,h0ez,Hamza Reguig,Samir,,,,2002-01-19,22,Algeria,183,73,R,2,,A
+849,v0dq,Vasa,Iiro,,,Jarkko Haataja,2002-09-03,21,Finland,183,76,R,2,,A
+850,c0ht,Cassone,Murphy,,,Brian Braziel,2002-08-16,21,United States,188,79,R,2,,A
+851,b0hy,Becroft,Isaac,,,,2000-10-29,23,New Zealand,,,U,0,,A
+852,mj71,Moraing,Mats,Mulheim an der Ruhr,Germany,Peter Moraing,1992-06-20,31,Germany,198,84,L,2,2013,A
+853,r0il,Radulov,Iliyan,,,Hristo Boyanov ,2005-06-11,18,Bulgaria,187,33,R,2,,A
+854,mo76,Madarasz,Gergely,,,Toth Gabor Janos,1994-10-01,29,Hungary,180,81,L,2,,A
+855,b0pd,Buldorini,Peter,,,"Davide Melchiorre, Simone Vagnozzi ",2004-08-09,19,Italy,183,73,R,2,,A
+856,a622,Arnaboldi,Andrea,Milan,Italy,/,1987-12-27,36,Italy,180,72,L,1,2006,A
+857,r0ar,Rodrigues,Daniel,,,Josh Goffi,2000-02-11,24,Portugal,183,81,R,2,,A
+858,w710,Wiersholm,Henrik,Kirkland,USA,,1997-03-27,26,United States,178,73,R,2,,A
+859,s0jb,Schachter,Noah,Steilacoom,Washington,,1999-09-06,24,United States,188,82,R,2,,A
+860,j0cw,Jang,Yunseok,,,,2003-05-06,20,South Korea,180,75,R,0,,A
+861,t0bd,Tepmahc,Nicolas,,,,2001-05-23,22,France,188,78,R,2,,A
+862,z350,Zhu,Michael,,,,1992-08-12,31,United States,175,77,R,2,,A
+863,c09g,Carou,Ignacio,Buenos Aires,Argentina,Matías Caceres,1999-07-12,24,Uruguay,178,70,R,2,,A
+864,j732,Jones,Ben,,,,1998-05-19,25,Great Britain,193,85,R,2,,A
+865,kf17,Kwon,Soonwoo,Sangju,South Korea,Daniel Yoo,1997-12-02,26,South Korea,180,72,R,2,2015,A
+866,n0dy,Nidunjianzan,Fnu,,,,2004-01-07,20,China,,,U,0,,A
+867,sp24,Schnur,Brayden,Toronto,Canada,Frederic Niemeyer,1995-07-04,28,Canada,193,84,R,2,2016,A
+868,d0dc,Donnet,Etienne,,,,2001-02-16,23,France,,,U,0,,A
+869,c0c5,Carraro,Luciano,,,Sebastian Martinez Cordoba,1998-04-22,25,Italy,183,75,R,2,,A
+870,pg03,Puttergill,Calum,Umtata,South Africa,Ryan Sevil ,1993-10-22,30,Australia,183,78,R,2,,A
+871,d0i5,Dahlin,Max,,,Frank Wintermantel,2005-12-27,18,Sweden,188,85,R,2,,A
+872,pg56,Panta,Jorge,Piura,Peru,Jorge Luis Panta Yarleque,1995-07-22,28,Peru,3,76,R,2,,A
+873,r685,Rosol,Lukas,Brno,Czech Republic,Hynek Fromel ,1985-07-24,38,Czech Republic,193,83,R,2,2004,A
+874,m0gy,Marmousez,Lilian,,,,2002-01-03,22,France,180,82,R,1,,A
+875,dh18,Den Heijer,Guy,,,,1997-03-30,26,Netherlands,,,U,0,,A
+876,s0t1,Schiessl,Joao Eduardo,São Paulo,Brazil,"Caio de Brito, Didier Rayon",2004-08-19,19,Brazil,180,72,L,2,2021,A
+877,v0g6,Vithoontien,Leo,,,,1999-08-18,24,Japan,185,60,L,0,,A
+878,z09f,Zahraj,Patrick,,,Dusan Karol,1999-07-17,24,Germany,188,88,R,0,,A
+879,sy74,Sureshkumar,Manish,Chennai,India,Sureshkumar,1999-08-13,24,India,180,73,R,2,,A
+880,mn23,Metreveli,Aleksandre,Tbilisi,Georgia,Irakli Metreveli,1993-08-10,30,Georgia,183,76,R,2,2010,A
+881,bp44,Brymer,Gage,Irvine,CA,Chuck Brymer,1995-02-07,29,United States,185,70,R,2,,A
+882,p0hy,Pieri,Samuele,,,,2002-02-28,21,Italy,,,U,0,,A
+883,bv08,Butulija,Boris,,,,1999-01-04,25,Serbia,185,78,L,2,,A
+884,b0q9,Bacaloni,Andrea,,,,2002-04-03,21,Italy,178,80,R,2,,A
+885,kd43,Kadhe,Arjun,Pune,India,,1994-01-07,30,India,185,83,R,2,2017,A
+886,sz28,Seelig,Kyle,,,Ty Tucker,1997-09-17,26,United States,175,79,R,2,,A
+887,pl80,Pavel,Bogdan,,,,1999-06-11,24,Romania,193,92,R,2,,A
+888,ac84,Altamirano,Collin,Sacramento,CA,"Joseph Gilbert, Thom Billadeau, Jimmy Roberts",1995-12-07,28,United States,188,85,R,2,2017,A
+889,b0gi,Binda,Alexandr,Lecco,Italy,Bondaz Laurent,2001-09-22,22,Italy,175,67,R,2,,A
+890,tg42,Tessa,Louis,Lyon,France,Rodolphe Cadart,1998-04-06,25,France,180,72,R,2,,A
+891,s0sd,Szajrych,Jasza,,,,2002-04-23,21,Poland,,,,0,,A
+892,gc17,Gutierrez,Oscar Jose,Canoas,Brazil,"Marcos Roy, Ignasi Verdonces ",1993-04-25,30,Brazil,170,67,R,2,,A
+893,t0af,Tenti,Fermin,La Plata,Argentina,,1997-06-14,26,Argentina,181,74,R,2,,A
+894,re27,Roncalli,Simone,Busto Arsizio,Italy,Matteo Cecchetti ,1996-05-08,27,Italy,175,70,R,2,,A
+895,v0g2,Vales,Amit,,,,2005-06-07,18,Israel,,,U,0,,A
+896,c0dp,Court,Jayden,,,,2000-06-19,23,Australia,191,90,R,1,,A
+897,m0te,Marinkov,Pavle,,,,2006-02-04,18,Australia,188,83,R,2,,A
+898,m0en,Mazza,Manuel,,,,1999-04-16,24,Italy,178,71,R,2,,A
+899,n0bu,Nunez,Daniel Antonio,,,Sebastián Fonseca,2001-06-02,22,Chile,0,70,R,2,,A
+900,z0cq,Zhou,Yi,,,Jacques Hervet,2005-03-14,18,China,193,82,R,2,,A
+901,hb31,Haerteis,Johannes,,,"Walter Otto, Andreas Tattermusch, Eduard Samson",1996-02-22,28,Germany,196,90,L,2,,A
+902,d0io,Duran,Tuncay,,,Bulent Duran,2004-06-02,19,Turkiye,191,80,R,1,,A
+903,t0hm,Tonejc,Vito,,,Andrej Tonejc,1999-07-02,24,Croatia,191,78,R,2,,A
+904,w09x,Winter Lopez,Benjamin,,,,1998-05-27,25,Spain,180,76,R,2,,A
+905,wb36,Wang,Chukang,,,,1999-09-06,24,China,173,64,R,2,,A
+906,ph77,Poljak,David,Ostrava,Czech Republic,Jiri Novák  ,1996-05-17,27,Czech Republic,188,77,R,2,,A
+907,bp74,Bakshi,Aleksandre,Tbilisi,Georgia,Victor Bakshi,1997-07-15,26,Georgia,180,73,L,2,2019,A
+908,l0gr,La Serna,Juan Manuel,,,Mauro Luciano Aprile ,2004-02-05,20,Argentina,188,83,L,2,,A
+909,s0lr,Sperle,John,,,,2002-01-30,22,Germany,,,U,0,,A
+910,d0db,Delage,Pierre,,,,2001-01-22,23,France,198,97,R,2,,A
+911,o09t,Ogura,Kosuke,,,,1996-02-09,28,Japan,170,68,R,0,,A
+912,w0ba,Woldeab,Siem,,,,2001-06-06,22,United States,,,U,0,,A
+913,d0hj,Djuric,Branko,,,,2005-02-10,19,Serbia,,,R,2,,A
+914,d0ly,Demanet,Emilien,,,,2005-04-25,18,Belgium,,,U,0,,A
+915,s0uv,Sakamoto,Rei,,,,2006-06-24,17,Japan,193,80,R,2,,A
+916,o0br,Ostapenkov,Daniil,,,,2003-05-08,20,Belarus,,,R,2,,A
+917,sy00,Sigsgaard,Christian,,,,1997-03-14,26,Denmark,188,88,R,1,,A
+918,l0ip,Loutit,Jack,,,,2004-06-23,19,New Zealand,,,L,2,,A
+919,r0f6,Rocha,Francisco,,,João Maio,1999-10-04,24,Portugal,185,80,R,2,,A
+920,b0pe,Bondioli,Federico,,,,2005-05-16,18,Italy,,,L,2,,A
+921,y235,Yamasaki,Jumpei,Saitama,Japan,Shinichi Takemasa,1997-07-02,26,Japan,180,75,R,2,,A
+922,y223,Yamacita,Fernando,Londrina,Brazil,Elson Longo,1997-10-01,26,Brazil,185,78,R,2,,A
+923,r09t,Reco,Alexandre,,,,1999-04-27,24,France,185,88,R,2,,A
+924,b0i2,Boyd,Kalman L.,,,,1997-04-09,26,United States,,,U,0,,A
+925,s0gu,Steinegger,Yannik,,,,2000-09-11,23,Switzerland,188,80,R,2,,A
+926,p0cy,Palosi,Stefan,,,Andrei Pavel,2000-01-28,24,Romania,180,81,R,1,,A
+927,p0kj,Pham,Derek,,,,2004-03-31,19,Australia,180,75,R,2,,A
+928,b0ha,Bagnolini,Daniel,,,,2003-02-13,21,Italy,,,U,0,,A
+929,b0g4,Bosio,Gabriele,,,,2000-11-25,23,Italy,0,80,R,2,,A
+930,l0ga,Lanik,Tomas,,,,2002-05-16,21,Slovak Republic,,,R,0,,A
+931,p0mg,Perot,Raphael,,,,2001-06-30,22,France,,,U,0,,A
+932,mh30,Millman,John,Brisbane,Australia,,1989-06-14,34,Australia,183,79,R,2,2006,A
+933,mm66,Milojevic,Nikola,Belgrade,Serbia,Marcos Roy,1995-06-19,28,Serbia,188,76,R,2,2013,A
+934,mw39,Martinez,Mirko,Neuchâtel,Switzerland,,1998-04-03,25,Switzerland,175,70,R,2,,A
+935,o0ci,Ojakaar,Oliver,,,Kenneth Raisma,2005-02-10,19,Estonia,191,88,R,2,,A
+936,b0i6,Banerjee,Samir,,,,2003-10-02,20,United States,,,R,0,,A
+937,k0el,Kotzen,Alexander,New York,NY,,2000-07-01,23,United States,185,77,R,2,,A
+938,d0en,Di Natale,Gian Matias,,,Viktor Galovic,1997-10-30,26,Argentina,178,70,R,1,,A
+939,c0ds,Chanta,Thanapet,,,,1999-09-09,24,Thailand,,,R,0,,A
+940,ki91,Kirci,Koray,,,"Günaydin Kirci, Fikri Semih Evranli, Erhan Oral",1998-08-17,25,Turkiye,185,75,R,2,,A
+941,c09t,Cungu,Rrezart,Bar,Montenegro,Samuel Guarin Chacon,1998-07-18,25,Montenegro,173,70,R,2,,A
+942,f0e4,Fantini,Luca,,,,2000-07-20,23,Italy,,,U,0,,A
+943,z0c3,Zhukov,Maxim,,,,2005-01-30,19,Russia,,,,0,,A
+944,dh46,Donski,Alexander,Philadelphia,PA,"Mislav, Mike Donski",1998-08-01,25,Bulgaria,188,80,R,2,2017,A
+945,sz36,Schell,Niklas,Wiesbaden,Germany,Tim Buettner,1999-01-03,25,Germany,191,85,R,2,,A
+946,v0e3,Von Der Schulenburg,Jeffrey,,,,2002-02-13,22,Switzerland,183,77,R,2,,A
+947,z363,Zormann,Marcelo,Lins,Brazil,Franco Ferreiro,1996-06-10,27,Brazil,0,81,R,2,,A
+948,m0to,Malige,Mae,,,,2006-03-29,17,France,,,R,0,,A
+949,h0hs,Hulme,Matt,,,,1999-02-17,25,Australia,191,83,R,2,,A
+950,c0gg,Chopra,Keshav,Marietta,GA,Murry Lokasundaram,2001-10-24,22,United States,183,63,R,2,,A
+951,f902,Flores,Jesse,,,,1995-03-31,28,Costa Rica,188,82,R,2,,A
+952,m0cd,Miceli,Marco,,,,1998-11-03,25,Italy,0,82,R,2,,A
+953,s0iv,Saraiva Dos Santos,Paulo Andre,,,Jose Cicero,2000-06-23,23,Brazil,180,78,R,2,,A
+954,n0ca,Nedelchev,Nikolay,,,,2003-07-05,20,Bulgaria,,,U,0,,A
+955,p0cu,Pujol Navarro,Bruno,,,,2001-08-27,22,Spain,178,67,L,2,,A
+956,bg23,Basilashvili,Nikoloz,Tbilisi,Georgia,,1992-02-23,32,Georgia,185,79,R,2,2008,A
+957,bh02,Bangoura,Sekou,Bradenton,FL,Sekou Bangoura Sr.,1991-11-18,32,United States,183,77,R,2,2011,A
+958,a0ih,Anthrop,Jack,San Ramon,Ca,"Ty Tucker, Bryan Koniecko, Jordan Belga",2003-11-05,20,United States,188,75,R,2,,A
+959,h0eb,Heck,Hunter,,,,2002-05-15,21,United States,173,73,R,2,,A
+960,i327,Iradukunda,Guy Orly,,,,1996-03-21,27,Burundi,0,76,R,0,,A
+961,m0v5,Majdandzic,Marc,,,,2005-02-04,19,Germany,,,U,0,,A
+962,v0em,Van Sambeek,Fons,,,"Kyle Spencer, Cris James",2002-02-10,22,Netherlands,185,84,L,0,,A
+963,k0ga,Kudriashov,Igor,,,,2003-09-27,20,Russia,,,U,0,,A
+964,gb41,Gomez,Juan Sebastian,,,,1992-03-05,31,Colombia,,,U,0,,A
+965,m0sc,Matsuoka,Hayato,,,,2005-01-15,19,Japan,,,R,2,,A
+966,ag60,Al Allaf,Kareem,,,"Ross Wilson, Ammar Allaf",1998-03-22,25,United States,180,74,R,2,,A
+967,ci19,Catanzariti,A.J.,,,Craig Perry,1995-08-21,28,United States,183,79,R,0,,A
+968,fc39,Folliot,Quentin,Paris,France,Robin VACA Y SAEZ,1998-12-31,25,France,180,70,R,2,,A
+969,z366,Zukas,Matias,,,Fabian Blengino,1996-05-04,27,Argentina,183,72,R,2,,A
+970,v0cs,Van Emburgh,Jake,Naples,Fl,Greg Van Emburgh,1998-09-23,25,United States,191,88,R,2,,A
+971,u0a3,Ujvary,Matthias,,,Herbert Rosenkranz,2004-07-05,19,Austria,180,71,R,0,,A
+972,z09w,Zima,Leopold,,,Richy Waite,2000-05-13,23,Germany,185,81,R,2,,A
+973,s0gf,Steiner,Maik,,,,1994-06-19,29,Germany,185,80,R,0,,A
+974,r0ai,Reitano,Stefano,,,Gipo Arbino,1997-07-21,26,Italy,180,75,R,2,,A
+975,w725,Woerner,Paul,,,,1996-08-23,27,Germany,,,R,2,,A
+976,rc96,Rubin,Noah,Long Island,NY,,1996-02-21,28,United States,175,70,R,2,2015,A
+977,i426,Imamura,Masamichi,,,,1998-11-23,25,Japan,178,72,R,2,,A
+978,l0de,Lambling,Raphael,,,,2000-05-02,23,France,,,U,0,,A
+979,k0ht,Khoeblal,Elgin,,,,2001-09-29,22,Netherlands,,,U,0,,A
+980,s0ik,Stice,Tyler,,,,2000-08-02,23,United States,,,,0,,A
+981,pj17,Pokotilov,Boris,,,,1997-05-27,26,Russia,180,78,R,2,,A
+982,c0jx,Cuenin,Sean,,,Eric Winogradsky,2004-02-16,20,France,178,70,R,2,,A
+983,l0bh,Lyeons,Jaycer,,,,2000-11-16,23,United States,180,75,R,2,,A
+984,ra43,Rajski,Maciej,Piotrków Trybunalski,Poland,"Andrzej Sikorski, Krystian Pfeiffer",1991-05-03,32,Poland,193,80,R,2,,A
+985,tg52,Tomasetto,Luca,,,,1996-03-31,27,Italy,185,83,R,2,,A
+986,h0gc,Habib,Ali,,,,2002-11-26,21,Great Britain,,,U,0,,A
+987,t0g2,Tammaro,Mariano,,,,2004-02-27,19,Italy,,,,0,,A
+988,d0cu,De Jonge,Daniel,,,,1999-08-17,24,Netherlands,,,U,0,,A
+989,f0ff,Florig,Philip,,,Benjamin Benedikter,2003-09-11,20,Germany,180,78,R,2,,A
+990,t0a0,Tang,Sheng,,,,2000-01-28,24,China,183,78,R,0,,A
+991,cn44,Curras Abasolo,Tomas,,,,2000-05-02,23,Spain,173,68,R,2,,A
+992,t0ch,Tosetto,Rafael,,,Fernando Roese,1999-06-02,24,Brazil,0,76,R,2,,A
+993,i411,Ingildsen,Johannes,,,,1997-07-01,26,Denmark,15,84,R,2,,A
+994,dc83,Donev,Gabriel,,,Todor Donev,1996-06-29,27,Bulgaria,180,70,R,2,,A
+995,g0ff,Garcian,Axel,,,,2002-06-07,21,France,178,72,R,0,,A
+996,p0ke,Perruzza,Valerio,,,,2000-03-31,23,Italy,,,U,0,,A
+997,b0g6,Brown,Preston,,,Ralph Brown,2001-08-23,22,United States,198,82,L,2,,A
+998,s0ld,Saitoh,Keisuke,,,Shinichi Takemasa,2001-04-29,22,Japan,163,68,L,2,,A
+999,d0c2,Donders,Dax,,,Remco Pondman Jan Donders,2000-07-14,23,Netherlands,178,66,L,2,,A
+1000,l0g3,Lobanov,Aleksandr,,,,2001-04-01,22,Russia,,,U,0,,A
+1001,g0mh,George,Benjamin Thomas,,,Maya Perkucin,2002-12-20,21,Canada,178,73,L,2,,A
+1002,lh70,Lee,Kuan-Yi,,,,1996-09-09,27,Chinese Taipei,178,69,R,0,,A
+1003,k0em,Kuhar,Matt,,,,1996-06-17,27,United States,178,70,R,2,,A
+1004,g0b1,Gregg,Perry,,,Perry Gregg III,2000-07-06,23,United States,198,95,R,2,,A
+1005,m0i1,McDaniel,Marcus,,,,2002-05-13,21,United States,,,,0,,A
+1006,j0a6,Jones,Scott,,,,1998-01-14,26,Australia,170,66,R,2,,A
+1007,h0ay,Houghton,George,,,,1998-07-11,25,Great Britain,,,R,0,,A
+1008,k0bh,Kawakami,Rimpei,,,,2000-08-29,23,Japan,178,70,L,2,,A
+1009,v993,Vasa,Eero,,,Jarkko Haataja,1997-02-01,27,Finland,185,82,R,2,,A
+1010,m09m,Marrero Curbelo,Ivan,,,,1998-09-27,25,Spain,180,77,R,2,,A
+1011,d09l,Dussin,Louis,,,,1999-07-01,24,France,178,68,R,2,,A
+1012,b0ql,Bozemoj,Brian,,,,2003-11-30,20,Netherlands,,,U,0,,A
+1013,sy31,Storrie,Ryan James,Dorchester,England,,1998-02-28,25,Great Britain,175,75,R,2,,A
+1014,c0i5,Crowther,Corban,,,,2003-04-23,20,New Zealand,180,80,R,2,,A
+1015,m0sb,Matsuda,Koki,,,,2000-10-31,23,Japan,183,73,R,2,,A
+1016,l0id,Loge,Jack,,,,2004-11-16,19,Belgium,,,U,0,,A
+1017,d0be,Delaney,Jesse,,,Ricky Bobby,1998-11-14,25,Australia,173,73,R,2,,A
+1018,t0hs,Trochu,Pablo,,,,2003-10-21,20,France,,,U,0,,A
+1019,pm12,Parizzia,Nicolas,,,,1998-09-15,25,Switzerland,,,U,0,,A
+1020,l0g1,Lopez,Noah,,,,2002-02-25,21,Switzerland,183,73,L,0,,A
+1021,ke85,Kawachi,Kazuma,,,,1994-10-11,29,Japan,170,66,R,2,,A
+1022,sy50,Sinha,Nitin Kumar,,,,1999-02-20,25,India,178,68,R,2,,A
+1023,n830,Nikles,Johan,,,José Ferrol Garcia,1997-03-23,26,Switzerland,173,68,R,2,,A
+1024,m0j2,Masjuan Ginel,Pablo,,,,2002-07-29,21,Spain,,,U,0,,A
+1025,t0bz,Tacchi,Luciano,,,,2001-04-26,22,Argentina,185,78,R,2,,A
+1026,tg46,Tanuma,Ryota,Tokyo,Japan,Kimitsugu Hatano,1995-09-22,28,Japan,180,64,R,2,,A
+1027,m0rx,Miyoshi,Kenta,,,,2004-03-16,19,Japan,185,70,R,2,,A
+1028,rh69,Romios,Matthew Christopher,,,,1999-03-29,24,Australia,185,77,R,2,,A
+1029,d0hx,Dietrich,Dylan,,,,2004-09-22,19,Switzerland,193,78,R,2,,A
+1030,a0jw,Aguilar Cardozo,Joaquin,,,,2005-04-08,18,Uruguay,,,U,0,,A
+1031,c0jr,Chirita,Ioan Alexandru,,,,2002-12-30,21,Romania,,,U,0,,A
+1032,cd85,Carreno Busta,Pablo,Gijon,Spain,"Samuel Lopez, Jose Antonio Sanchez-de Luna",1991-07-12,32,Spain,188,78,R,2,2009,A
+1033,b0a2,Banthia,Siddhant,,,,2000-08-04,23,India,180,67,R,2,,A
+1034,g0d2,Gola,Andrea,,,Moreno Baccanelli,2001-08-31,22,Italy,183,70,R,2,,A
+1035,h0gj,Hess,Sean,,,,2001-04-01,22,Argentina,178,72,R,2,,A
+1036,t0b4,Tajima,Naoki,Kumamoto,Japan,,2000-09-21,23,Japan,173,73,R,2,,A
+1037,g0b2,Goodger,Joshua,,,,1998-10-27,25,Great Britain,,,U,0,,A
+1038,n0af,Nordquist,Arvid,,,Rudy Diaz De Vivar,1998-06-08,25,Sweden,185,87,R,2,,A
+1039,s0in,Shin,Woobin,,,Semin Shin,2004-01-20,20,South Korea,185,76,R,2,,A
+1040,n724,Noce,Gabriele Maria,,,Silvio Scaiola,1995-10-29,28,Italy,178,83,R,2,,A
+1041,bd80,Balazs,Attila,Budapest,Hungary,Daniel Szendrei,1988-09-27,35,Hungary,180,78,R,2,2006,A
+1042,c977,Cilic,Marin,Medjugorje,Bosnia-Herzegovina,Vilim Visak,1988-09-28,35,Croatia,198,89,R,2,2005,A
+1043,ka98,Klahn,Bradley,Poway,CA,David Nainkin,1990-08-20,33,United States,183,75,L,2,2012,A
+1044,c0e0,Cash,Robert,,,,2001-03-07,22,United States,,,U,0,,A
+1045,g0jj,Gorzny,Sebastian,,,,2004-01-24,20,United States,,,R,1,,A
+1046,b0ov,Brunclik,Petr,,,,2006-07-17,17,Czech Republic,,,U,0,,A
+1047,g0bj,Garcia,Alejandro,,,,2001-11-19,22,Spain,,,U,0,,A
+1048,o0bq,Ozolins,Karlis,,,Brad Dancer,2002-06-15,21,Latvia,196,93,R,2,,A
+1049,s0vm,Svajda,Trevor,San Diego,CA,"Matt Hanlin, Tom Svajda",2006-04-20,17,United States,175,70,R,2,,A
+1050,b0i0,Bernard,Alexander,,,Stanford Boster,2003-08-13,20,United States,175,73,L,2,,A
+1051,k0m7,Khazime,Daniel,,,,2005-01-04,19,Russia,,,U,0,,A
+1052,w0dd,Williams,Cooper,,,,2005-06-17,18,United States,191,83,R,2,,A
+1053,g0lg,Ghazouani Durand,Yanis,,,,2000-07-04,23,France,,,U,0,,A
+1054,a0dv,Azkara,Arda,,,,2003-03-14,20,Turkiye,,,U,0,,A
+1055,r0kd,Rottgering,Mees,,,,2007-07-07,16,Netherlands,,,U,0,,A
+1056,z09x,Zhao,Zhao,,,,2000-03-01,23,China,,,R,0,,A
+1057,j0d5,Jones,Hayden,,,,2006-08-30,17,Australia,175,65,R,2,,A
+1058,m0i0,Mckennon,Maxwell,,,,2002-05-17,21,United States,,,U,0,,A
+1059,e0cl,Ellouck,Ron,,,,2004-11-15,19,Israel,,,U,0,,A
+1060,p0gf,Pel,Stijn,,,,2002-04-24,21,Netherlands,185,88,R,0,,A
+1061,f0ck,Fenty,Andrew,,,,2000-03-08,23,United States,193,88,R,2,,A
+1062,r0hk,Romano,Filippo,,,,2005-07-07,18,Italy,188,82,R,2,,A
+1063,kg53,Klintcharov,Alexander,,,,1996-08-25,27,New Zealand,188,86,R,1,,A
+1064,c0nn,Cadenasso,Gianluca,,,,2004-09-29,19,Italy,178,70,R,2,,A
+1065,b0rn,Bonsach Ganley,Kane,,,,2004-11-02,19,Denmark,,,U,0,,A
+1066,i326,Isaro,Pruchya,Songkhla,Thailand,Soonton Isarow,1995-10-16,28,Thailand,175,70,R,2,,A
+1067,k0hb,Kielan,Szymon,,,,2002-11-21,21,Poland,196,97,R,2,,A
+1068,s09k,Srbljak,Gorazd,Skopje,Macedonia,,1997-08-24,26,North Macedonia,,,L,0,,A
+1069,y0a8,Yamanaka,Taiyo,,,,2001-09-05,22,Japan,170,66,R,1,,A
+1070,s0e6,Slump,Stijn,,,Marc Duncker,1999-01-21,25,Netherlands,185,84,R,0,,A
+1071,s0jh,Speziali,Filippo,,,,2000-04-24,23,Italy,,,R,0,,A
+1072,o684,O'Hoisin,Osgar,Dublin,Ireland,,1996-09-03,27,Ireland,193,82,R,2,,A
+1073,a0an,Aksu,Cengiz,San Francisco,CA,,1998-07-30,25,Turkiye,183,74,R,2,,A
+1074,c0mx,Cazacu,Dragos Nicolae,,,,2004-02-10,20,Romania,180,70,L,2,,A
+1075,mo55,Miedler,Lucas,Tulln,Austria,Wolfgang Thiem,1996-06-21,27,Austria,183,78,R,1,2014,A
+1076,b0pk,Braswell,Jonah,,,,2004-02-16,20,United States,,,R,2,,A
+1077,i09u,Izquierdo Luque,Rafael,,,,2000-01-10,24,Spain,,,R,2,,A
+1078,p0c1,Poling,Karl,,,,1999-08-04,24,United States,185,76,L,0,,A
+1079,b0j8,Braswell,Micah,,,Ty Braswell,2001-11-04,22,United States,183,75,R,2,,A
+1080,c0jt,Catry,Robin,,,"Kyle Spencer, Cris James",2002-03-06,21,France,196,85,R,1,,A
+1081,hb83,Harper,Mitchell,Rockhampton,Australia,Jim Thompson,1997-09-05,26,Australia,175,73,R,2,,A
+1082,m09x,Moghimi,Sina,,,,2001-07-27,22,Iran,,,U,0,,A
+1083,fa42,Fossati,Carlo Alberto,,,,1999-01-25,25,Italy,,,U,0,,A
+1084,h0d1,Heinonen,Adam,,,Petar Bubalo,2002-08-22,21,Sweden,188,72,R,1,,A
+1085,b0iz,Badenhorst,Devin,,,,2004-05-20,19,South Africa,,,R,2,,A
+1086,l0ck,Lalami Laaroussi,Younes,,,"Alberto Castellani, Othmane Lalami",2001-04-18,22,Morocco,188,80,R,2,,A
+1087,s0mj,Suksumrarn,Thantub,,,,2001-05-18,22,Thailand,170,67,R,2,,A
+1088,p0ff,Palovic,Lukas,,,,2002-03-02,21,Slovak Republic,,,U,0,,A
+1089,p0hl,Pampanin,Pietro,,,"Marco Cepile, Nicola Ceragioli",2003-01-05,21,Italy,183,78,R,2,,A
+1090,m0ic,Misasi,Giannicola,,,,2000-09-12,23,Italy,,,U,0,,A
+1091,w0aj,Watanabe,Seita,,,,2000-12-25,23,Japan,180,75,R,2,,A
+1092,b0lv,Bassem Sobhy,Michael,,,,2004-05-07,19,Egypt,,,U,0,,A
+1093,tc87,Trinker,Jonas,,,,1995-08-29,28,Austria,196,83,R,2,,A
+1094,mj01,Marcora,Roberto,Busto Arsizio,Italy,Francesco Aldi,1989-08-30,34,Italy,193,85,R,1,2009,A
+1095,s0de,Suresh,Dhakshineswar,Madurai,India,,2000-03-29,23,India,193,66,R,2,,A
+1096,v0dh,Von Der Schulenburg,Henry,,,,2000-01-23,24,Switzerland,,,U,0,,A
+1097,j09f,Jebens,Hendrik,Stuttgart,Germany,,1995-08-08,28,Germany,196,91,R,2,,A
+1098,a596,Andujar,Pablo,Cuenca,Spain,Marcos Esparcia,1986-01-23,38,Spain,180,80,R,2,2003,A
+1099,p0me,Preda,Luca,,,,2006-03-19,17,Romania,,,U,0,,A
+1100,a0iy,Alvarez,Luis Carlos,,,,2004-09-03,19,Mexico,,,R,2,,A
+1101,h0eq,Hoole,Casey,,,,2003-02-28,20,Australia,,,U,0,,A
+1102,a0ey,Ahouda,Walid,,,,2003-10-14,20,Morocco,,,U,0,,A
+1103,ch27,Chung,Hyeon,Suwon,South Korea,,1996-05-19,27,South Korea,188,89,R,2,2014,A
+1104,d0k3,Dalmasso,Guillaume,,,,2002-10-14,21,France,,,U,0,,A
+1105,s0vo,Sornlaksup,Pawit,,,,1999-08-24,24,Thailand,,,U,0,,A
+1106,d0i0,Dominko,Sebastian,,,Ryan Sachire,2003-05-13,20,Slovenia,203,89,L,2,,A
+1107,h09w,Hasson,Jordan,,,,1999-10-12,24,Israel,183,75,R,2,,A
+1108,p0lz,Panarin,Danil,,,,2005-01-23,19,Russia,,,U,0,,A
+1109,ch19,Capecchi,Daniele,Borgo San Lorenzo,Italy,"Giovanni Galuppo , Diego Alvarez",1995-10-11,28,Italy,180,75,R,2,,A
+1110,s0w8,Shah,Aryan,,,,2005-11-21,18,India,,,R,2,,A
+1111,s0wt,Schwaerzler,Joel Josef,,,,2006-01-27,18,Austria,,,L,2,,A
+1112,sx77,Strode,Isaiah,,,,1997-09-15,26,United States,183,75,R,2,,A
+1113,c0l4,Christodoulou,Stylianos,,,,2004-11-04,19,Cyprus,,,U,0,,A
+1114,n0eg,Nagel,Arthur,,,,2003-04-14,20,France,,,U,0,,A
+1115,f0f0,Faucon,Romain,,,,2002-09-04,21,Belgium,,,U,0,,A
+1116,wb23,Wood,Warren,,,,1993-06-12,30,United States,,,U,0,,A
+1117,dg67,Drinic,Milan,Novi Sad,Serbia,,1997-10-16,26,Serbia,185,75,R,0,,A
+1118,rd58,Recek,Dominik,,,,1995-02-19,29,Czech Republic,191,80,R,2,,A
+1119,tg67,Tamm,Kristjan,,,Gianluca Carbone,1998-06-16,25,Estonia,185,82,R,2,,A
+1120,b0m9,Bellifemine,Alessandro,,,,2001-06-24,22,Italy,,,U,0,,A
+1121,f0fh,Fix,David,,,,2005-02-05,19,Germany,,,R,2,,A
+1122,f0bp,Fellin,Pietro,,,,2001-08-02,22,Italy,193,78,R,2,,A
+1123,h0dp,Han,Seon Yong,,,,2001-01-18,23,South Korea,,,U,0,,A
+1124,h0hx,Hrazdil,Jan,,,,2005-03-04,18,Czech Republic,,,L,2,,A
+1125,a0gq,Abderrahman,Wissam,,,,2003-10-13,20,Tunisia,,,U,0,,A
+1126,c0i0,Carnevalle,Lucio,,,,2001-11-12,22,Argentina,175,71,R,2,,A
+1127,v0f6,Villalon,Nicolas,,,Guillermo Gomez ,2004-02-21,20,Chile,180,78,R,2,,A
+1128,w0ax,Weightman,Oscar,London,Great Britain,,2001-11-19,22,Great Britain,188,73,R,0,,A
+1129,j540,Jose Ribeiro Lago,Elio,Fortaleza,Brazil,"Corrado Favale, Rocio Galarza",1997-12-31,26,Italy,196,85,R,2,,A
+1130,e0di,Estevez,Juan,,,Mauro aprile,2005-09-22,18,Argentina,170,66,R,2,,A
+1131,s0lf,Sheyngezikht,Leonid,,,Noe Losmozos ,2000-11-04,23,Bulgaria,188,86,R,2,,A
+1132,bu32,Bouquet,Lucas,,,Florian Dambes ,1997-08-05,26,France,185,86,R,2,,A
+1133,k0jb,Kobelt,Nicolas,,,,2004-06-15,19,Switzerland,173,70,R,2,,A
+1134,c0fr,Campana,Federico,,,,1998-04-13,25,Italy,,,U,0,,A
+1135,i416,Inui,Yuichiro,,,Shinichi Takehisa,1995-04-02,28,Japan,185,82,R,2,,A
+1136,m0qk,Massard,Loann,,,,2005-07-27,18,France,,,U,0,,A
+1137,m0aa,March,Cayetano,,,,2000-07-03,23,Ecuador,175,75,R,2,,A
+1138,o560,Osorio,Juan Sebastian,,,,1997-10-14,26,Colombia,188,86,R,0,,A
+1139,z0bl,Zakaria,Fares,,,,2001-05-13,22,Egypt,,,U,0,,A
+1140,r0k9,Robertson,Charlie,,,,2006-10-07,17,Great Britain,,,U,0,,A
+1141,c0pc,Connel,James,,,,2003-03-03,20,Great Britain,,,U,0,,A
+1142,o522,Opelka,Reilly,St. Joseph,MI,"Jay Berger, Friedrich Kunath",1997-08-28,26,United States,211,102,R,2,2015,A
+1143,e09h,Eriksson Ziverts,Jonas,Stockholm,Sweden,,1999-01-08,25,Sweden,185,75,R,2,,A
+1144,f0hi,Fishback,Ryan,,,,2002-04-27,21,United States,,,U,0,,A
+1145,cc98,Cuevas,Martin,Salto,Uruguay,Felipe Maccio,1992-01-14,32,Uruguay,191,90,R,1,2010,A
+1146,m0ig,Monferrer,Ezequiel,,,,2003-05-16,20,Argentina,170,72,R,0,,A
+1147,g0i4,Gorokhov,Mikhail,,,,2004-01-29,20,Russia,,,U,0,,A
+1148,i0bn,Iakubenko,Volodymyr,,,,2005-07-19,18,Ukraine,193,90,R,2,,A
+1149,p0j3,Petrov,Alexander,,,,2001-12-16,22,United States,188,84,L,2,,A
+1150,r0j0,Rahman,Yannik,Miami,Florida,,2004-10-29,19,United States,185,79,L,2,,A
+1151,f0c0,Ferguson,Chase,,,,1999-01-02,25,Australia,,,U,0,,A
+1152,s0lt,Siniakov,Daniel,,,,2003-01-15,21,Czech Republic,183,78,R,2,,A
+1153,b0if,Baker,Blu,,,"Temba Makurdi, Kevin Baker ",2001-08-28,22,Great Britain,191,82,R,2,,A
+1154,f0hb,Fernandes,Rodrigo,,,,2006-11-18,17,Portugal,,,U,0,,A
+1155,b0t2,Bol,Jurriaan,,,,2001-11-06,22,Netherlands,,,U,0,,A
+1156,c0lk,Caniato,Carlo Alberto,,,,2005-10-31,18,Italy,,,R,0,,A
+1157,a09u,Alvarez Varona,Nicolas,,,Cristiano de Oliveira Pinto,2001-05-18,22,Spain,188,83,R,2,,A
+1158,rh45,Ruehl,Tim,,,,1998-03-31,25,Germany,,,U,0,,A
+1159,h0b7,Hilderbrand,Trey,,,Mark Hilderbrand,2000-05-15,23,United States,196,86,R,2,,A
+1160,k0hu,Kukasian,Artur,,,,2004-03-21,19,Russia,,,U,0,,A
+1161,bu04,Bertuccioli,Federico,,,"Giorgio Galimberti, Igor Gaudi",1998-08-14,25,Italy,180,80,R,2,,A
+1162,p0ck,Puskar,Samuel,,,,2000-04-21,23,Slovak Republic,,,,0,,A
+1163,w0e2,Wallner,Mark,,,Marc Meigel,1999-07-20,24,Germany,196,93,R,2,,A
+1164,b0jl,Baroni,Niccolo,,,,2003-12-04,20,Italy,,,U,0,,A
+1165,b0bz,Bertimon,Maxence,,,,1999-09-20,24,France,,,U,0,,A
+1166,m0tu,Melero Kretzer,Alejandro,,,,2005-01-01,19,Spain,,,U,0,,A
+1167,s0a6,Shaw,Michael,,,,1999-02-19,25,Great Britain,,,U,0,,A
+1168,mv39,Masabayashi,Tomohiro,,,,1998-03-05,25,Japan,170,70,R,2,,A
+1169,b0ci,Bulus,Christopher,,,"Cesar Andrade, Vlad Margalitadze",2000-11-24,23,Nigeria,183,88,R,2,,A
+1170,w0an,Welte,Milan,,,,2001-06-30,22,Germany,,,R,0,,A
+1171,mm67,Matsumura,Ryotero,,,,1996-09-24,27,Japan,,,U,0,,A
+1172,c0p0,Callejon Hernando,Sergio,,,,2004-09-16,19,Spain,,,U,0,,A
+1173,d0hz,Del Pino,Mateo,,,Maria Alejandra Tellechea,2003-06-28,20,Argentina,173,61,L,2,,A
+1174,b0mr,Bynoe,Evan,,,José Antonio Fernandez Ibarra,1999-05-27,24,United States,185,73,R,2,,A
+1175,bt42,Boehler,Dominik,,,,1996-02-21,28,Germany,178,67,R,2,,A
+1176,m0ho,Marinescu,Mihai Razvan,,,,2001-09-09,22,Romania,,,U,0,,A
+1177,g0bx,Gaal,Corey,,,,1998-02-06,26,Australia,188,83,R,2,,A
+1178,mw62,Mashtakov,Nikita,,,Bruno Urisk,1999-03-18,24,Ukraine,175,77,R,2,,A
+1179,b0hd,Basic,Nikola,,,,2001-10-13,22,Croatia,,,U,0,,A
+1180,b0mi,Brigida,Omar,,,,1999-03-23,24,Italy,,,U,0,,A
+1181,cn05,Calvano,Giovanni,,,,1998-01-29,26,Italy,,,U,0,,A
+1182,h0aa,Hodkin,Sean,Warsall,England,Justin Revill ,1998-10-31,25,Great Britain,185,90,R,1,,A
+1183,p0b7,Pogosian,Sergei,,,,1998-07-12,25,Russia,,,R,2,,A
+1184,h756,Haase,Robin,The Hague,The Netherlands,Raymond Knaap,1987-04-06,36,Netherlands,191,77,R,2,2005,A
+1185,y124,Young,Donald,Chicago,IL,"Illona Young, Donald Young Sr.",1989-07-23,34,United States,183,79,L,2,2004,A
+1186,b0pu,Bennani,Reda,,,,2007-02-16,17,Morocco,,,R,2,,A
+1187,de12,Drzewiecki,Karol,Gorzów Wielkopolski,Poland,Wojciech Owsiak,1995-11-01,28,Poland,191,88,R,2,,A
+1188,k771,Ilhan,Marsel,Samarkand,Uzbekistan,Erhan Oral,1987-06-11,36,Turkiye,191,80,R,2,2006,A
+1189,t0hb,Tomic,Radomir,,,,2004-03-30,19,Bosnia-Herzegovina,,,U,0,,A
+1190,n0al,Nanda,Govind,,,None,2001-02-17,23,United States,178,70,R,2,,A
+1191,p0fr,Planelles Ripoll,Gerard,,,,2003-08-07,20,Spain,,,R,0,,A
+1192,f0gd,Filip,Jakub,,,,2005-09-25,18,Czech Republic,,,R,0,,A
+1193,s0tb,Strode,Elijah,,,,2002-02-07,22,United States,,,U,0,,A
+1194,ml51,Martin,Toby,High Wycombe,England,John Black,1993-02-19,31,Great Britain,188,78,R,2,,A
+1195,va22,Vocel,Matej,,,,1997-05-20,26,Czech Republic,188,88,R,2,,A
+1196,g0jc,Godsick,Nicholas,Hunting Valley,Ohio,Carlos Benatzky ,2004-09-15,19,United States,185,73,R,2,,A
+1197,kd02,Kyratzis,Sergis,,,,1995-05-12,28,Cyprus,,,L,2,,A
+1198,m0bk,Militi Ribaldi,Andrea,,,,1999-07-27,24,Italy,,,,0,,A
+1199,k0hm,Kamath,Madhwin,,,,2001-11-10,22,India,,,U,0,,A
+1200,h0ib,Hadzimehmedovic,Romeo,,,,2005-03-04,18,Serbia,,,U,0,,A
+1201,j0bq,Juhas,Kristijan,,,,2001-06-04,22,Serbia,,,U,0,,A
+1202,b0no,Blanch,Darwin,,,,2007-09-28,16,United States,,,U,0,,A
+1203,m0ow,Maute,Jannik,,,,2003-12-31,20,Germany,,,U,0,,A
+1204,a0hm,Al Azmeh,Taym,,,,2004-03-31,19,Germany,,,U,0,,A
+1205,a09q,Alkaya,Mert,,,,2000-06-14,23,Turkiye,,,,0,,A
+1206,b0d6,Baadi,Taha,Rabat,Morocco,Cédric Kaufman,2001-07-19,22,Canada,183,74,R,2,,A
+1207,j0dg,Juan Mano,Alejandro,,,,2005-01-14,19,Spain,,,U,0,,A
+1208,rh21,Ross,Gianni,Chicago,IL,Sylvain Guichard ,1999-02-04,25,United States,180,70,R,2,,A
+1209,s0tl,Sueoka,Yamato,,,,2003-02-28,20,Japan,168,70,R,2,,A
+1210,d0kf,Dzhenev,Adriano,,,,2005-09-16,18,Bulgaria,,,U,0,,A
+1211,s0wx,Schoen,Patrick,,,Pedro Felner,2005-05-04,18,Switzerland,185,65,R,2,,A
+1212,ad04,Agabigun,Sarp,Istanbul,Turkiye,Dominik Hrbaty,1997-06-12,26,Turkiye,178,75,R,2,,A
+1213,a0d2,Alkotop,Mousa,,,,1998-06-25,25,Jordan,,,U,0,,A
+1214,g09r,Goldenberg,Lior,,,,1999-12-22,24,Israel,,,U,0,,A
+1215,j0af,Jaisinghani,Raghav,,,,1998-01-20,26,India,,,U,0,,A
+1216,fb59,Ferrari,Francesco,Vicenza,Italy,"Claudio Pistolesi, Alberto De Meo, Corrado Favale",1997-06-22,26,Italy,180,78,R,2,,A
+1217,ea31,Efstathiou,Menelaos,,,,1999-03-02,24,Cyprus,183,80,R,2,,A
+1218,s0jv,Sun,Qian,,,,2001-07-12,22,China,188,78,R,2,,A
+1219,m0dw,Mikula,Michal,,,Lukasz Olszewski ,2000-03-04,23,Poland,183,85,R,2,,A
+1220,v0gb,Vetrih,Miha,,,,2002-09-11,21,Slovenia,,,U,0,,A
+1221,s0ub,Spiridon,Denis,,,,2002-07-02,21,Italy,,,,0,,A
+1222,c09s,Coelho,Fabio,,,"João Maio, Eduardo Rodrigues ",2000-05-24,23,Portugal,175,68,R,2,,A
+1223,o0cy,Oplustil,Patrik,,,,2005-04-21,18,Czech Republic,,,U,0,,A
+1224,b0mg,Buitrago,Nicolas,,,,1998-05-22,25,Colombia,185,73,R,2,,A
+1225,c0h7,Chepik,Alexander,,,"Yurii Isakov, Evgenia Kulikovskaya",1996-05-06,27,Russia,193,91,R,2,,A
+1226,p09s,Pietri,Benjamin,,,Dorian Martinez,1996-07-31,27,France,183,78,R,1,,A
+1227,l0g5,Loureiro,Joao Victor Couto,,,Diogo Cruz,2003-03-28,20,Brazil,185,80,R,2,,A
+1228,c0gk,Cigarran,Thiago,,,Leonardo Olguin ,2000-03-26,23,Argentina,183,73,R,1,,A
+1229,r960,Romboli,Fernando,Rio de Janeiro,Brazil,Tiago Leivas,1989-01-04,35,Brazil,180,81,R,1,2006,A
+1230,ca33,Cervantes,Inigo,Hondarribia,Guipúzcoa,Javier Ferrer and Israel Vior,1989-11-30,34,Spain,180,78,R,2,2009,A
+1231,m0o2,Mardjonovic,Aleksa,,,,2002-08-01,21,Serbia,,,U,0,,A
+1232,o0c7,Orynbasar,Islam,,,,2004-03-29,19,Kazakhstan,,,U,0,,A
+1233,u174,Uesugi,Kaito,Sakai,Japan,,1995-06-02,28,Japan,180,70,R,2,,A
+1234,k0jw,Kolyachev,Nikola,,,,2003-07-09,20,Bulgaria,,,U,0,,A
+1235,p0bm,Paroulek,Tadeas,,,,1999-12-30,24,Czech Republic,175,70,R,1,,A
+1236,p0ge,Perego,Giulio,,,,2003-04-09,20,Italy,,,U,0,,A
+1237,mr77,Meng,Cing-Yang,Taipei,Taiwan,,1998-07-19,25,Chinese Taipei,175,70,A,0,,A
+1238,i09i,Ingarao,Alessandro,,,,1999-08-02,24,Italy,,,U,0,,A
+1239,s0s5,Shick,Braden,,,"Kyle Spencer, Cris James, Tony Mule",2003-10-24,20,United States,183,70,R,1,,A
+1240,c0ni,Chayka,Aleksander,,,,2004-10-06,19,Russia,,,U,0,,A
+1241,l0fv,Loof,Thijmen,,,Marvin Cijntje,2002-07-15,21,Netherlands,196,90,R,2,,A
+1242,n0f3,Namigandet Tenguere,Loic,,,,1998-12-09,25,France,,,U,0,,A
+1243,t0ge,Tsitsipas,Pavlos,,,,2005-07-23,18,Greece,,,U,0,,A
+1244,m0qv,Morandais,Jean-Christian,,,,2003-04-16,20,Guadeloupe,,,U,0,,A
+1245,r0ku,Razeghi,Alexander,,,,2006-05-10,17,United States,,,U,0,,A
+1246,b0qb,Basile,Alessio,,,,2004-08-07,19,Belgium,,,U,0,,A
+1247,b0me,Bouchelaghem,Cesar,,,,2004-06-28,19,France,,,,0,,A
+1248,c0hh,Caruso,Antonio,,,,1999-08-14,24,Italy,,,U,0,,A
+1249,z0c5,Zhang,Linghao,,,,2003-02-17,21,China,183,76,R,2,,A
+1250,g0en,Genier,Tanguy,,,,1998-02-04,26,Switzerland,,,U,0,,A
+1251,j468,Jecan,Alexandru,Cluj-Napoca,Romania,"Gavrila, Cruciat, Puscasu, Apostu-Efremov",1988-06-02,35,Romania,180,73,L,2,,A
+1252,c0fz,Catani,Leonardo,,,"Fabio Gorietti, Giampaolo Coppo",1999-06-25,24,Italy,191,81,R,2,,A
+1253,m0nz,Mouilleron Salvo,Manuel,,,,2003-03-31,20,Argentina,191,82,R,0,,A
+1254,m0v7,Marysko,Vincent,,,,2006-02-04,18,Germany,,,U,0,,A
+1255,r0km,Rapagnetta,Daniele,,,,2006-12-03,17,Italy,,,U,0,,A
+1256,cg85,Cayre,Paul,,,,1995-04-26,28,France,,,U,0,,A
+1257,r0d3,Rogers,Andrew,,,,1998-12-18,25,United States,132,84,R,2,,A
+1258,sj67,Suzuki,Ko,,,,1991-08-03,32,Japan,,,L,0,,A
+1259,c0aw,Cortegiani,Alessandro,Roma,Italy,Andrea Paramucchi ,1996-01-16,28,Italy,178,79,R,0,,A
+1260,rb00,Rodriguez - Pace,Ricardo,,,,1993-04-28,30,Venezuela,,,U,0,,A
+1261,a0kh,Alujas,Rodrigo,,,,2002-08-26,21,Mexico,,,U,0,,A
+1262,c0lm,Camus,Charlie,,,Olivier Camus,2006-10-16,17,France,175,65,L,2,,A
+1263,o09n,Oumaouche,Rayane,,,,1997-06-22,26,France,,,U,0,,A
+1264,w723,Wattanakul,Pol,,,,1995-08-03,28,Thailand,,,R,0,,A
+1265,s0ur,Sorensen,Luke,,,Robert Trower,2001-11-07,22,Australia,193,88,R,2,,A
+1266,a0c5,Azoides,Demetris,,,,2000-10-09,23,Greece,,,U,0,,A
+1267,b0ls,Bonnaud,Arthur,,,,1997-03-30,26,France,175,68,L,2,,A
+1268,c0e6,Charoenphon,Yuttana,,,Paradorn Srichaphan,2000-08-14,23,Thailand,178,68,R,2,,A
+1269,n824,Nejedly,Pavel,,,,1993-02-13,31,Czech Republic,178,73,R,0,,A
+1270,kd48,Kalovelonis,Markos,Marousi,Greece,Elina Neplii,1994-05-18,29,Greece,191,95,R,2,2012,A
+1271,l0af,Lumsden,Ewen,,,,2000-02-17,24,Great Britain,,,U,0,,A
+1272,z0ak,Zink,Tyler,,,,2001-01-30,23,United States,185,73,R,2,,A
+1273,a0fr,Alvarado Berrospi,Alberto Odiseo,,,,2000-06-17,23,Peru,188,81,R,2,,A
+1274,hh51,Henning,Benedikt,,,,1997-04-28,26,Germany,185,78,R,2,,A
+1275,kd14,Kekez,Duje,,,D.K,1993-03-30,30,Croatia,183,82,R,2,,A
+1276,mw37,Muamba,Nicaise,Gatineau,Canada,,2000-08-28,23,Canada,185,85,R,0,,A
+1277,l0hq,Lehmann,Nikos,,,,2005-06-16,18,Argentina,185,80,L,2,,A
+1278,t0h6,Talic,Zaharije-Zak,,,,1998-09-02,25,Australia,178,76,L,2,,A
+1279,k0jy,Kriznik,Matic,,,,2005-09-03,18,Slovenia,,,L,2,,A
+1280,r0io,Radjenovic,Vuk,,,,2005-05-12,18,Serbia,,,R,0,,A
+1281,k0j9,Kelm,Yannik,,,,2005-02-17,19,Germany,,,R,2,,A
+1282,x01c,Xilas,Ioannis,,,,2001-05-12,22,Greece,,,U,0,,A
+1283,rb49,Renard,Lucas,Stockholm,Sweden,,1992-09-30,31,Sweden,183,83,R,2,,A
+1284,s09y,Seateun,Nathan,,,Alain Barrere,1997-06-25,26,France,180,78,R,0,,A
+1285,a0hp,Aitkulov,Arslanbek,,,,2004-03-04,19,Kazakhstan,,,U,0,,A
+1286,b0dj,Beloborodko,Illya,,,Andrey Gorban ,2001-05-07,22,Ukraine,183,78,R,2,,A
+1287,s0yi,Stephens,Zach,,,,2006-05-23,17,Great Britain,,,U,0,,A
+1288,o498,Okamura,Issei,,,Eiji Takeuchi,1992-05-26,31,Japan,170,68,R,2,,A
+1289,c0fe,Caldes,Jaime,,,,2001-02-22,23,Spain,,,U,0,,A
+1290,d0hi,Duhan,Chirag,,,,2004-01-01,20,India,,,U,0,,A
+1291,i0be,Ivanov,Saveliy,,,,2004-09-22,19,Russia,,,U,0,,A
+1292,bu64,Bruna,Nicolas,,,,1999-01-19,25,Chile,188,78,R,1,,A
+1293,mi08,Marti,Javier,,,Oscar Burrieza,1992-01-11,32,Spain,,,R,0,,A
+1294,p0mi,Paardekooper,Stijn,,,,2003-08-29,20,Netherlands,,,U,0,,A
+1295,bv19,Bondarevskiy,Yan,,,,2000-03-17,23,Russia,191,71,L,2,,A
+1296,b0ay,Briand,Jurgen,,,,1999-01-11,25,France,178,70,R,2,,A
+1297,h0jl,Hara Friend,Jay Dylan,,,,2003-12-22,20,Japan,,,U,0,,A
+1298,gd91,Galarza,Juan Ignacio,Buenos Aires,Argentina,Oscar galarza,1994-03-18,29,Argentina,183,83,R,2,,A
+1299,k0dv,Kim,Geun Jun,,,,2001-07-27,22,South Korea,,,U,0,,A
+1300,s0tw,Sec,Sebastian,,,,2003-10-21,20,United States,,,U,0,,A
+1301,t0b0,Thomson,Connor,,,Josh Goffi,2001-01-16,23,Great Britain,185,85,R,1,,A
+1302,l0ka,Lee,Karl Kazuma,,,,2002-11-03,21,United States,,,U,0,,A
+1303,v0e1,Velcz,Zsombor,,,,2002-11-16,21,Hungary,183,78,L,2,,A
+1304,k966,Klizan,Martin,Bratislava,Slovakia,Martin Hromec,1989-07-11,34,Slovak Republic,191,85,L,2,2007,A
+1305,so25,Schonenberg,Tom,,,,1991-06-15,32,Germany,185,75,R,0,,A
+1306,a0k2,Aguilar Cardozo,Federico,,,,2005-04-08,18,Uruguay,,,,0,,A
+1307,cf07,Chung,Hong,,,,1993-05-16,30,South Korea,170,76,L,2,,A
+1308,k0ge,Koenig,Luc,,,,2003-08-03,20,Great Britain,185,77,R,2,,A
+1309,m0se,Mrva,Maxim,,,,2007-08-02,16,Czech Republic,,,U,0,,A
+1310,h940,Harrison,Ryan,Shreveport,LA,Davide Sanguinetti,1992-05-07,31,United States,185,84,R,2,2007,A
+1311,s0w4,Sciahbasi,Lorenzo,,,,2005-11-04,18,Italy,188,73,R,2,,A
+1312,lf40,Liutarevich,Ivan,,,,1996-02-20,28,Belarus,196,92,R,2,,A
+1313,y0b2,You,Jung Hee,,,,2005-05-06,18,Canada,183,73,R,2,,A
+1314,c0pl,Collignon,Kylian,,,,2005-04-18,18,Belgium,,,U,0,,A
+1315,b0mf,Baum,Stepan,,,,2003-07-26,20,Czech Republic,,,U,0,,A
+1316,h0di,Horak,Vitek,,,Tomáš Horák,2002-07-06,21,Czech Republic,178,165,R,1,,A
+1317,m0no,Maksimovic,Marko,,,,2006-02-12,18,Serbia,,,U,0,,A
+1318,l0jc,Lavizzari,Matteo,,,,2005-03-13,18,Switzerland,,,U,0,,A
+1319,ml48,Massara,Antonio,Catania,Italy,Paolo Cannova - Nico De Simone,1995-09-16,28,Italy,178,70,R,2,,A
+1320,p0ln,Plunger,Manuel,,,,2002-07-13,21,Italy,,,U,0,,A
+1321,w0bu,Wallin,Olle,,,,2001-10-22,22,Sweden,,,U,0,,A
+1322,i371,Iamachkine,Petr,,,Matias Caceres / Vini,1996-04-03,27,Peru,180,75,R,2,,A
+1323,v0gs,Van Zijl,Twan,,,,2002-11-16,21,Netherlands,,,U,0,,A
+1324,a0hk,Alimli,Mikail,,,Alen Avidzba,2003-07-10,20,France,183,77,R,2,,A
+1325,b0dq,Brosset,Samuel,,,,1998-01-14,26,France,,,L,0,,A
+1326,h0e7,Hallquist Lithen,John,,,,2001-12-03,22,Sweden,,,U,0,,A
+1327,k0c5,Kalender,Admir,,,,2001-01-12,23,Croatia,,,R,0,,A
+1328,z0aj,Zhang,Changli,,,,1999-02-03,25,China,,,U,0,,A
+1329,b0p7,Breazu,Vlad Cristian,,,,2003-12-24,20,Romania,,,U,0,,A
+1330,m0o0,Minighini,Daniele,,,,2004-07-15,19,Italy,,,R,0,,A
+1331,p0jk,Perfetti,Noah,,,,2001-06-15,22,Italy,,,U,0,,A
+1332,p0kp,Pini,Francisco,,,,2003-02-03,21,Argentina,188,82,R,2,,A
+1333,so41,Son,Ji Hoon,Busan,Korea,,1994-09-09,29,South Korea,180,74,R,2,,A
+1334,e0ci,Eriksson,Sebastian,,,,2005-05-01,18,Sweden,,,R,2,,A
+1335,fc50,Fomba,Luc,,,,1999-02-22,25,France,,,U,0,,A
+1336,c0hf,Cohen,Aaron,,,,2002-08-21,21,Israel,173,68,R,2,,A
+1337,j0at,Jones,Adam,,,,1998-05-08,25,Great Britain,,,U,0,,A
+1338,rd21,Ricca,Giorgio,,,,1995-02-27,28,Italy,193,80,R,0,,A
+1339,d0ji,Dhamne,Manas,Satara,India,Riccardo Piatti,2007-12-29,16,India,188,74,R,2,2023,A
+1340,f824,Farren,Connor,Redwood City,CA,Mark Farren ,1994-10-03,29,United States,183,77,R,2,,A
+1341,w0ed,Watt,James,,,Kane Newland,2000-06-09,23,New Zealand,206,103,R,2,,A
+1342,cm88,Congcar,Congsup,Bangkok,Thailand,,1996-08-21,27,Thailand,175,68,R,2,,A
+1343,y0a9,Yunis,Facundo,,,Juan Carlos Yunis,2002-07-21,21,Germany,191,85,R,2,,A
+1344,bu78,Bass,Finn,,,Dan Kiernan,1999-10-09,24,Great Britain,180,80,R,2,,A
+1345,c0gu,Cerny,Matyas,,,,2001-10-15,22,Czech Republic,,,U,0,,A
+1346,d0c3,Dong,Zhenxiong,,,,1998-11-05,25,China,193,90,L,2,,A
+1347,mw69,Mbithi,Mwendwa,,,Jackson Mbithi,1998-01-10,26,United States,200,75,R,0,,A
+1348,w719,Walters,Marcus,,,,1998-04-03,25,Great Britain,,,R,0,,A
+1349,fc25,Fassbender,Boris,,,,1998-03-20,25,France,183,64,R,2,,A
+1350,i0b1,Ianin,Nikita,,,,2001-09-07,22,Russia,,,U,0,,A
+1351,v505,Vardhan,Vishnu,Secuderabad,India,C.V. Nagraj & Sonia Vardhan,1987-07-27,36,India,188,84,R,2,2008,A
+1352,f0bj,Freire Da Silva,Adan,,,,1999-05-05,24,France,,,U,0,,A
+1353,f0fl,Fernandez,Bruno,,,Marcelo rebelo,2004-07-26,19,Brazil,185,80,R,2,,A
+1354,mn49,Makhlouf,Mohamed Nazim,,,,1996-09-12,27,Algeria,193,85,R,2,,A
+1355,c0ke,Coman,Mihai Alexandru,,,,2005-01-15,19,Romania,,,R,2,,A
+1356,d0bj,Davis,James,,,,1998-12-10,25,Great Britain,,,R,0,,A
+1357,e0dd,Engel,Justin,,,,2007-10-01,16,Germany,,,U,0,,A
+1358,k0lg,Kalina,Vit,,,,2005-07-12,18,Czech Republic,,,,0,,A
+1359,va67,Vanta,Valentin,Wurzburg,Germany,,1997-09-28,26,Romania,180,67,R,2,,A
+1360,g0ei,Gloeckler,Michael,,,,1998-09-13,25,Austria,,,U,0,,A
+1361,j0cl,Javia,Dev,,,,2002-03-16,21,India,,,U,0,,A
+1362,d0dy,Dimic,Matic,,,,2001-10-12,22,Slovenia,,,,0,,A
+1363,d0in,Dickerson,Ryan,,,,1997-05-08,26,United States,,,U,0,,A
+1364,k0fw,Kupcic,Jan,,,,2001-04-14,22,Slovenia,,,U,0,,A
+1365,r0cg,Reynolds,Finn,Hastings,New Zealand,Ella Carson,2000-01-04,24,New Zealand,185,91,L,2,,A
+1366,s0sm,Southcombe,Mattias,,,,2003-04-15,20,Great Britain,,,U,0,,A
+1367,f0af,Falabella,Lautaro Agustin,,,,1998-01-19,26,Argentina,175,70,L,2,,A
+1368,o0ap,Oliver Moratalla,Vicente,,,,1999-09-05,24,Spain,,,U,0,,A
+1369,s0m9,Stakusic,Marko,Mississauga,Canada,"Sasa Stojisavljevic, Edward Nguyen",2003-03-10,20,Canada,191,82,L,2,,A
+1370,m0r8,Markovic,Sasa,,,,2005-11-21,18,Serbia,,,U,0,,A
+1371,r0hq,Raquillet,Leo,,,,2005-10-04,18,France,,,U,0,,A
+1372,gf20,Galoppini,Davide,Livorno,Italy,/,1994-10-24,29,Italy,175,70,R,2,,A
+1373,bc76,Barrientos,Nicolas,Cali,Colombia,,1987-04-24,36,Colombia,175,75,R,2,2009,A
+1374,e928,Erler,Alexander,Innsbruck,Austria,Daniel Huber,1997-10-27,26,Austria,193,83,R,2,2015,A
+1375,kb54,Kuznetsov,Andrey,Tula,Russia,Burghard Riehemann,1991-02-22,33,Russia,183,70,R,2,2008,A
+1376,ml82,Maccari,Federico,Acquapendente,Italy,Claudio Galoppini,1994-02-07,30,Italy,185,75,R,2,,A
+1377,o0c8,Orlikowski,Aleksander,,,,2003-10-18,20,Poland,180,78,R,2,,A
+1378,p0fu,Pieczonka,Filip,,,,2004-04-09,19,Poland,,,L,0,,A
+1379,w0ez,Wang,Qiulin,,,,2002-09-06,21,China,,,,0,,A
+1380,y0bi,Yu,Zongbing,,,,1996-01-18,28,China,,,U,0,,A
+1381,z168,Zverev,Mischa,Moscow,Russia,"Alexander Zverev Sr., Arturs Kazijevs, Mikhail Ledovskikh",1987-08-22,36,Germany,191,88,L,2,2005,A
+1382,c0q2,Colne,Nicolas,,,,2003-09-01,20,France,,,U,0,,A
+1383,o527,Oh,Chan-yeong,,,Min-Kyu Han,1998-06-27,25,South Korea,180,72,R,2,,A
+1384,sx96,Sigouin,Benjamin,Vancouver,Canada,"Oded Jacob, Tripp Phillips",1999-06-03,24,Canada,191,81,R,2,,A
+1385,c0db,Colas Sanchez,Alberto,,,,2000-05-19,23,Spain,,,U,0,,A
+1386,h0is,Heng,Nicholas,,,,2003-11-11,20,United States,,,U,0,,A
+1387,c0my,Corthey,Lautaro Agustin,,,,1998-09-06,25,Argentina,,,U,0,,A
+1388,p0ie,Prat,Antonio,,,,2004-01-31,20,Spain,,,U,0,,A
+1389,r0gv,Ruland,Lambert,,,,2003-06-27,20,Germany,,,,0,,A
+1390,b0p5,Bazilevskiy,Vladimir,,,,2005-08-11,18,Israel,,,U,0,,A
+1391,d0fb,Diaz Jalil,Angel,,,,2001-10-13,22,Ecuador,,,U,0,,A
+1392,s0kh,Schifris,Jeremy,,,,2001-10-06,22,Germany,,,L,0,,A
+1393,s0ze,Smith,Colton,,,,2003-03-05,20,United States,,,U,0,,A
+1394,s0tt,Stearns,Preston,,,,2004-01-30,20,United States,,,,0,,A
+1395,s0nr,Stoupe,George,,,,2001-06-15,22,New Zealand,,,U,0,,A
+1396,b0da,Breysach,Martin,,,Tarik Benhabiles,2002-01-30,22,France,185,82,R,2,,A
+1397,k0ek,Katuch,Jakub,,,,2002-11-03,21,Slovak Republic,180,72,R,2,,A
+1398,d0dk,De La Fuente,Santiago,,,,2002-02-06,22,Argentina,175,81,R,2,,A
+1399,v426,Villacorta-Alonso,Ricardo,,,,1985-04-24,38,Spain,,,U,0,,A
+1400,k0l1,Krajci,Michal,,,,2005-01-14,19,Slovak Republic,,,R,0,,A
+1401,m0n4,Malgaroli,Leonardo,,,,2002-08-07,21,Italy,,,U,0,,A
+1402,o0bc,Okonkwo,Oliver,,,,2000-04-08,23,Great Britain,188,87,R,2,,A
+1403,s0nt,Shepp,Anton,,,,2002-10-30,21,New Zealand,,,U,0,,A
+1404,ch73,Chrysochos,Petros,Larnaca,Cyprus,Demetris Herodotou,1996-04-08,27,Cyprus,185,84,R,2,2019,A
+1405,g0k0,Giacomini,Enrico,,,,1998-12-23,25,Italy,,,U,0,,A
+1406,p0b6,Polukhin,Savva,,,,1998-11-19,25,Russia,,,U,0,,A
+1407,t0iz,Tudorica,Alvin Nicholas,,,,2002-02-13,22,Canada,,,U,0,,A
+1408,sk53,Sabanin,Yan,Nahodka,Russia,Dmitry Palenov,1990-01-31,34,Russia,191,88,R,0,,A
+1409,u09t,Urribarrens Ramirez,Iker,,,,2004-03-23,19,Spain,,,U,0,,A
+1410,d0ku,Dedura-Palomero,Mariano,,,,2005-11-22,18,Germany,,,U,0,,A
+1411,g0d4,Gagliardo,Lorenzo,,,,2000-06-27,23,Italy,175,70,R,2,,A
+1412,gj90,Goncalves Ceolin,Joao Vitor,,,Tony sifuentes Robert trogolo Natalie Djabarov Paulo Ceolin,1999-05-03,24,Brazil,180,75,R,2,,A
+1413,h0i0,Hartenstein,Jonas Pelle,,,,2001-07-27,22,Germany,,,U,0,,A
+1414,h999,Hidalgo,Gabriel Alejandro,,,,1990-08-06,33,Argentina,,,U,0,,A
+1415,j0ai,Jones,Miles,,,,2000-12-26,23,United States,,,U,0,,A
+1416,k0ha,Kobierski,Jan,,,,2004-01-15,20,Austria,183,68,R,2,,A
+1417,p0mn,Pedrico Kravtsov,Albert,,,,2005-06-12,18,Spain,,,U,0,,A
+1418,s0jk,Smiej,Yassine,,,,2000-01-07,24,Morocco,,,U,0,,A
+1419,z0d1,Zhang,Tianhui,,,,2006-02-19,18,China,,,U,0,,A
+1420,da85,Di Nicola,Gianluca,,,,1995-12-07,28,Italy,,,R,0,,A
+1421,g681,Gabashvili,Teymuraz,Tbilisi,Georgia,,1985-05-23,38,Russia,185,87,R,2,2001,A
+1422,n561,Nedelko,Ivan,St. Petersburg,Russia,"Valery Shilkov, Artem Kirillov",1986-05-12,37,Russia,185,80,R,2,2006,A
+1423,p0mo,Panaras,Adam,,,,2003-03-19,20,France,,,U,0,,A
+1424,v0fl,Viiala,Zack,,,,2005-10-10,18,Australia,185,77,R,2,,A
+1425,b0p4,Berkieta,Tomasz,,,,2006-07-21,17,Poland,,,R,2,,A
+1426,f0dz,Franco,Tobias,,,,2001-12-26,22,Argentina,178,82,R,2,,A
+1427,l0dk,Lapadat,Joshua,,,,2002-12-10,21,Canada,185,76,L,2,,A
+1428,l0dg,Lofman,Aleksi,,,,2002-02-21,22,Finland,,,U,0,,A
+1429,s0y7,Summers,Matthew,Maidstone,United Kingdom,,1998-09-25,25,Great Britain,180,78,L,0,,A
+1430,t0ei,Thanos,Aristotelis,Athens,Greece,,2001-04-07,22,Greece,,82,R,2,2019,A
+1431,va27,Veldheer,Mick,,,,1996-04-05,27,Netherlands,185,80,L,2,,A
+1432,c0h4,Carnevale Miino,Tommaso,Milan,Italy,Diego Dominguez ,2000-05-05,23,Italy,196,78,R,2,,A
+1433,c0c9,Cavrak,Ken,,,,2001-01-27,23,Australia,183,82,R,1,,A
+1434,c09y,Charlton,Joshua,,,,1999-07-29,24,Australia,,,,0,,A
+1435,d0fy,Deschamps,Thomas,,,,1998-07-19,25,France,185,73,R,2,,A
+1436,e09u,Escurra Isnardi,Hernando Jose,,,Orlando Guardatti Gomez,1997-12-13,26,Paraguay,183,80,R,1,,A
+1437,g0h1,Galimardanov,Oscar,,,,2000-04-24,23,Russia,,,U,0,,A
+1438,r0jw,Ribecai,Michele,,,,2003-02-04,21,Italy,,,U,0,,A
+1439,t0fh,Turriziani Alvarez,Alejandro,,,,2003-02-12,21,Spain,,,,0,,A
+1440,i0a5,Ilkel,Berk,,,Gavin Hopper,2001-07-28,22,Turkiye,180,78,R,2,,A
+1441,s0lv,Sharma,Atharva,,,,2000-08-22,23,India,,,U,0,,A
+1442,a0i6,Apltauer,Filip,,,,2004-03-21,19,Czech Republic,,,U,0,,A
+1443,s0s2,Salomone,Federico,,,,2001-05-16,22,Italy,191,73,R,2,,A
+1444,gc99,Goldsteiner,Peter,,,,1990-07-31,33,Austria,173,65,R,2,,A
+1445,hh23,Heger,Tim,,,Robert Flego,1999-10-26,24,Germany,185,78,R,2,,A
+1446,j0ct,Jansen,William,,,"David Feltgate, Tripp Phillips",2004-12-06,19,Great Britain,188,86,L,2,,A
+1447,lh86,Lucero,Joel Angel,,,,1996-01-12,28,Argentina,,,U,0,,A
+1448,m0hy,Murgett,Finn,,,,2001-09-17,22,Great Britain,,,U,0,,A
+1449,n0dr,Nakashima,Bryce,,,,2004-02-20,20,United States,,,U,0,,A
+1450,r0gp,Revelli,Giacomo,,,,2002-01-23,22,Great Britain,,,U,0,,A
+1451,s0um,Simundza,Josip,,,Božo Šimundža,2004-12-20,19,Croatia,196,85,L,2,,A
+1452,d0jw,Dong,Jiayang,,,Zongyuan Shuai,2004-10-01,19,Australia,178,70,R,2,,A
+1453,e0cf,Elicha Navas,Gabriel,,,,2003-03-04,20,Spain,,,U,0,,A
+1454,m0e2,Minin,Matvey,Saint-Petersburg,Russia,,2001-06-28,22,Russia,185,81,L,2,,A
+1455,n0b3,Nusdeo,Joao Marcos,,,,1994-11-30,29,Brazil,178,72,R,2,,A
+1456,r0fq,Rivera,Hudson,,,,2004-05-29,19,United States,188,75,R,2,,A
+1457,r0ir,Romano,Gino,,,,2002-03-15,21,Argentina,175,77,R,2,,A
+1458,rc53,Roveri Sidney,Gabriel,Londrina,Brazil,Luiz Peniza,1997-04-27,26,Brazil,185,81,L,2,2019,A
+1459,s0uu,Shin,Maxim,,,Shin Vladislav ,2003-06-04,20,Uzbekistan,191,75,R,2,,A
+1460,v0e0,Verbin,Pavel,,,,2001-10-18,22,Russia,,,U,0,,A
+1461,v502,Virali-Murugesan,Ranjeet,,,,1985-09-30,38,India,,,U,0,,A
+1462,va31,Vujic,Stefan,,,,1998-03-31,25,Australia,,,R,2,,A
+1463,b0pw,Bigun,Kaylan,,,,2006-05-23,17,United States,183,79,L,2,,A
+1464,d0lb,De Michele,Fabio,,,,2005-03-23,18,Italy,,,U,0,,A
+1465,d09v,Denisov,Ivan,,,,2000-06-07,23,Russia,180,73,R,0,,A
+1466,h0cp,Hans,Kabir,,,,2001-08-21,22,India,,,U,0,,A
+1467,ke42,Koaykul,Krittin,,,,1995-03-31,28,Thailand,,,R,0,,A
+1468,k0he,Kountourakis,Ioannis,,,,2002-11-16,21,Greece,,,U,0,,A
+1469,k0a5,Kunsuwan,Natthasith,,,,2000-02-23,24,Thailand,185,80,R,2,,A
+1470,l0g4,Lorusso,Lorenzo,,,Andrea Trono,2000-01-06,24,Italy,188,90,R,2,,A
+1471,m0jx,Malgiaritta,Maurus,,,,2001-07-24,22,Switzerland,,,U,0,,A
+1472,q02o,Quan,Rudy,,,,2006-02-21,18,United States,,,U,0,,A
+1473,w0de,Weintraub,Ben,,,,2003-08-11,20,Israel,,,U,0,,A
+1474,bu48,Bolla,Andrea,,,,1998-10-28,25,Italy,,,U,0,,A
+1475,p0ks,Poertner,Lasse,,,,2005-11-22,18,Germany,,,U,0,,A
+1476,m0n2,Michalik,Radovan,,,,2003-05-21,20,Slovak Republic,,,U,0,,A
+1477,n0d7,Nad,Peter,,,,2004-01-18,20,Slovak Republic,191,83,R,2,,A
+1478,a0i0,Agostini,Simone,,,Daniele Musa,1997-03-29,26,Italy,185,80,R,2,,A
+1479,c0b9,Cekirge,Kuzey,,,,2000-04-29,23,Turkiye,,,U,0,,A
+1480,c0ms,Cook,Ethan,,,,2003-02-21,21,Australia,175,73,R,2,,A
+1481,pl60,Papac,Tomislav Edward,,,,1995-06-12,28,Australia,191,75,R,2,,A
+1482,p0iz,Pena,Enrique,,,Felipe Beron,2004-03-26,19,Colombia,185,73,R,1,,A
+1483,s0n4,Salton,Dylan,,,"Earl Grainger, Ngoni Chizunza",2002-09-09,21,South Africa,178,73,L,2,,A
+1484,ag64,Aggarwal,Parth,,,,1997-12-22,26,India,170,65,R,2,,A
+1485,b0ea,Boureau,Alexis,,,,1996-04-25,27,France,,,U,0,,A
+1486,k0jc,Karlsson Wistrand,Jack,,,,2002-06-06,21,Sweden,,,U,0,,A
+1487,mw83,Maginley,Jody,,,Chris Begg,1995-06-07,28,Antigua,193,88,R,2,,A
+1488,s0u5,Sach,Tai,,,,2002-09-16,21,Australia,,,U,0,,A
+1489,a0j5,Andreescu,Stefan Adrian,,,,2001-12-24,22,Romania,,,U,0,,A
+1490,m09j,Martinez,Louroi,,,,1998-10-01,25,Switzerland,188,80,R,0,,A
+1491,p0im,Pisaric,Aleksa,,,,2005-11-04,18,Serbia,,,R,0,,A
+1492,a0lt,Aduru,Vishwa,,,,2002-10-02,21,United States,,,,0,,A
+1493,bl61,Bergevi,Filip,Kristianstad,Sweden,Fred Johnsen,1994-04-20,29,Sweden,185,82,R,2,,A
+1494,ch60,Capalbo,Franco,,,,1997-12-26,26,Argentina,,,U,0,,A
+1495,e830,Esteve Lobato,Eduard,Reus,Spain,,1994-09-18,29,Spain,188,83,R,2,,A
+1496,fc00,Fernandez Canovas,Andres,,,,1999-03-08,24,Spain,,,U,0,,A
+1497,i165,Istomin,Denis,Orenburg,Russia,Klaudiya Istomina,1986-09-07,37,Uzbekistan,185,86,R,2,2004,A
+1498,j543,Johnson,Luke,,,Calvin Betton,1994-03-18,29,Great Britain,183,83,R,2,,A
+1499,k0bd,Krainer,Lukas,,,Gilbert Schaller,2000-10-12,23,Austria,198,83,R,2,,A
+1500,l0ci,Llanes,Francisco,,,,2002-04-16,21,Uruguay,178,78,R,2,,A
+1501,m815,Matsui,Toshihide,Osaka,Japan,"Jason Yue, Laurence Tieleman",1978-04-19,45,Japan,178,76,R,1,2001,A
+1502,o411,Olivetti,Albano,Haguenau,France,,1991-11-24,32,France,203,104,R,1,2010,A
+1503,pe69,Pel,David,Amstelveen,Netherlands,"Robert Jan Luttikhuis, Marc Duncker ",1991-07-09,32,Netherlands,198,97,L,2,,A
+1504,s0rl,Safonov,Aristarkh,,,,2003-03-05,20,Russia,,,U,0,,A
+1505,sj55,Smith,John-Patrick,Townsville,Australia,Kent Martino,1989-01-24,35,Australia,188,84,L,2,2012,A
+1506,t0fw,Trouve,Nathan,,,,2006-01-03,18,France,,,,0,,A
+1507,z239,Zeballos,Federico,Santa Cruz,Bolivia,,1988-05-30,35,Bolivia,185,75,R,2,,A
+1508,f0hn,Filar,Karol,,,,1998-08-31,25,Poland,,,U,0,,A
+1509,j0cs,Jovanovic,Petar,,,,2003-07-23,20,Montenegro,,,U,0,,A
+1510,m0cj,Maia,Hugo,,,,2001-04-01,22,Portugal,,,R,2,,A
+1511,m0dq,Melnic,Vladislav,,,,1999-06-23,24,Romania,,,U,0,,A
+1512,p0m4,Petak,Denis,,,,2006-07-18,17,Czech Republic,,,U,0,,A
+1513,s0nb,Sada,Iacopo,,,,1997-10-02,26,Italy,,,U,0,,A
+1514,s0wk,Stirbu,Calin Teodor,,,,2006-03-04,17,Romania,,,U,0,,A
+1515,v0ep,Van Assendelft,Jip,,,,2002-03-09,21,Netherlands,,,U,0,,A
+1516,w660,Wendler Filho,Jefferson,,,,1995-09-15,28,Brazil,,,U,0,,A
+1517,a0ku,Aguiard,Enzo,,,,2002-08-10,21,Australia,,,U,0,,A
+1518,a0g6,Azuma,Ryuhei,,,,2001-08-21,22,Japan,,,U,0,,A
+1519,b0oq,Bowden,Louis,,,,2004-10-01,19,Great Britain,,,U,0,,A
+1520,b0s5,Brancatelli,Gabriele,,,"Christopher tattanelli, Catherine Ewing",2003-07-12,20,United States,185,82,R,2,,A
+1521,c0f7,Castelletti,Luigi,,,,2002-08-15,21,Italy,196,86,R,2,,A
+1522,e0bo,Ehrenschneider,Nino,,,,2001-03-31,22,Germany,,,U,0,,A
+1523,k0kc,Kim,Jangjun,,,,2006-12-18,17,South Korea,,,U,0,,A
+1524,m0da,Mayo,Keenan,,,,2000-05-26,23,United States,198,93,R,2,,A
+1525,m0fx,Park,Minjong,,,,2001-10-22,22,South Korea,,,U,0,,A
+1526,rh25,Raisma,Kenneth,Tartu,Estonia,Andres Kuhi,1998-04-03,25,Estonia,193,82,L,2,,A
+1527,r0da,Rodriguez,Sebastian,,,,2001-11-13,22,Peru,,,U,0,,A
+1528,v0hb,Valente,Rocco,,,Juan Martin Aranguren ,2004-07-25,19,Argentina,0,72,R,2,,A
+1529,v0gr,Vasilev,Alexander,,,,2007-05-14,16,Bulgaria,,,U,0,,A
+1530,wb03,Wakita,Shunsuke,,,,1995-07-26,28,Japan,178,67,R,2,,A
+1531,a0en,Akay,Cihan,,,,2001-12-23,22,Australia,,,U,0,,A
+1532,b0tl,Burnett,Evan,,,,2006-03-22,17,United States,191,79,R,2,,A
+1533,h0d9,Harper,Cleeve,,,,2000-12-24,23,Canada,180,82,R,2,,A
+1534,m0o6,Martinez Gomez,Pablo,,,,2006-03-10,17,Spain,,,,0,,A
+1535,m0or,Murali,Rohan,,,,2004-11-13,19,United States,,,U,0,,A
+1536,rh73,Rengifo,Frazier,,,Francier Rengifo Filigrana ,1999-01-19,25,Colombia,183,75,R,2,,A
+1537,w0az,Weststrate,Lodewijk,,,,2001-07-01,22,Netherlands,,,R,0,,A
+1538,z0c7,Zeng,Yaojie,,,"dongrun Zhang,jianhui Li",2002-01-30,22,China,185,85,R,2,,A
+1539,b0ib,Ballotta,Gianluca,,,,2004-01-01,20,Peru,,,L,2,,A
+1540,bk12,Bodmer,Adrian,,,Joachim Kretz/Francesco Ceriani,1995-03-06,28,Switzerland,180,73,R,1,,A
+1541,b0ms,Bustiman Gonzalez,Hans Christian,,,,2003-06-10,20,Chile,,,U,0,,A
+1542,f09z,Fields,Omar,,,,1997-03-06,26,Australia,173,77,L,2,,A
+1543,g0h0,Ganta,Sai Karteek Reddy,,,,2000-06-01,23,India,183,80,R,2,,A
+1544,g0dk,Gimenez,Julián,,,,2001-02-23,23,Argentina,183,82,R,2,,A
+1545,h0gl,Hornitschek,Nico,,,,2000-01-18,24,Germany,,,U,0,,A
+1546,k0ci,Kim,Dong Ju,,,,2002-04-09,21,South Korea,,,U,0,,A
+1547,l0c8,Lanz,Mischa,,,,2000-05-31,23,Switzerland,,,U,0,,A
+1548,l0b4,Lerby,Christian,,,,2001-11-07,22,Netherlands,,,R,2,,A
+1549,l0a0,Lim,Alberto,,,,1999-05-16,24,Philippines,,,,0,,A
+1550,m0uo,Mayew,Will,,,,2004-04-28,19,United States,,,U,0,,A
+1551,m0i5,Mujakic,Alen,,,,2003-07-26,20,Germany,,,U,0,,A
+1552,tc46,Terczynski,Mateusz,Wroclaw,Poland,David Zwyrtek / Arek Terczynski,1996-03-02,27,Poland,191,82,R,1,,A
+1553,t0fn,Torres,Benjamin,,,,2003-10-12,20,Chile,175,72,R,2,,A
+1554,u131,Urrea,Andres,,,Juan Mateus,1994-08-31,29,Colombia,175,78,R,2,,A
+1555,w816,Walch,Antoine,,,,1993-10-29,30,France,,,U,0,,A
+1556,z0ce,Zamora,Noah,,,,2003-03-13,20,United States,,,U,0,,A
+1557,z0cn,Zhang,Jeremy,,,,2005-07-12,18,Australia,,,U,0,,A
+1558,c0l9,Coccioli,Alessandro,,,,2002-08-05,21,Italy,,,U,0,,A
+1559,c0ll,Cosnet,Charlelie,,,,2003-02-01,21,France,,,U,0,,A
+1560,h0hz,Humpfner,Kevin,,,,1999-10-15,24,Germany,,,U,0,,A
+1561,j0dl,Jadoun,Nicolas,,,,2002-08-09,21,France,,,U,0,,A
+1562,j0c2,Jans,Jarno,,,,2000-06-07,23,Netherlands,,,U,0,,A
+1563,n0ax,Nesterov,Alexey,,,,1998-01-22,26,Russia,,,U,0,,A
+1564,b0ne,Baldovinetti,Guelfo,,,,2001-11-22,22,Italy,,,U,0,,A
+1565,bm09,Bataljin,Lawrence,Adelaide,Australia,Nick Hall,1996-05-22,27,Australia,173,68,R,2,,A
+1566,b0oi,Blaydes,Billy,,,,2003-12-09,20,Great Britain,,,U,0,,A
+1567,b0ln,Burdet,Adrien,,,,2002-03-11,21,Switzerland,,,U,0,,A
+1568,d0lj,Dedura-Palomero,Diego,,,,2008-03-12,15,Germany,,,U,0,,A
+1569,e0dp,Exsted,Maxwell,,,,2007-03-12,16,United States,,,U,0,,A
+1570,f0g5,Frusina,Alexander,,,,2005-12-17,18,United States,,,R,2,,A
+1571,f0bn,Fu,Hong-Lin,,,,2001-12-05,22,Chinese Taipei,188,80,R,2,,A
+1572,g0bh,Ginat,Roi,,,,2001-02-18,23,Israel,,,U,0,,A
+1573,g0ey,Grevelius,Erik,,,,2000-06-24,23,Sweden,,,U,0,,A
+1574,h0jb,Hongyu,Ye,,,,2004-12-05,19,China,,,U,0,,A
+1575,h0jd,Horovitz,Roy,,,,2006-10-26,17,United States,,,U,0,,A
+1576,l0cs,Lu,Pengyu,,,LuRong,2002-01-09,22,China,178,75,R,2,,A
+1577,l0bw,Lusovsky,Michal,,,,1999-03-31,24,Czech Republic,,,U,0,,A
+1578,m0rg,Milavsky,Daniel,,,,2001-09-12,22,United States,,,U,0,,A
+1579,n0ct,Nakagawa,Shunsuke,,,,2000-03-07,23,Japan,,,U,0,,A
+1580,fb18,Patael,Ben,Tel Aviv,Israel,,1997-06-02,26,Israel,188,80,R,2,,A
+1581,p0dh,Postolka,Roman,,,,1999-04-07,24,Czech Republic,,,U,0,,A
+1582,p0ku,Protic Zakelj,Jaka,,,,2003-08-08,20,Slovenia,,,U,0,,A
+1583,r0fm,Rehman,Huzaifa Abdul,,,,2002-11-28,21,Pakistan,,,U,0,,A
+1584,r0bn,Reveniau,Simon,,,,1998-04-01,25,France,,,U,0,,A
+1585,s0u0,Sarr,Jelani,,,,2004-04-11,19,United States,,,U,0,,A
+1586,s0i2,Schaer,Jonas,,,,2000-06-27,23,Switzerland,188,78,R,2,,A
+1587,s0jx,Sibille El Moumi,Imran,,,"Oscar Sainz, Miguel Ángel Fernandez",2002-02-04,22,Morocco,183,76,R,2,,A
+1588,s0to,Silva,Tiago,,,,2004-11-30,19,Portugal,,,R,0,,A
+1589,v0ht,Van Tilburg,Ronetto,,,,1999-12-13,24,Netherlands,,,U,0,,A
+1590,v0hm,Vulpitta,Gabriele,,,,2005-06-25,18,Italy,,,U,0,,A
+1591,w0ex,Werren,Paul,,,Wolfgang Thiem,2004-10-06,19,Austria,178,82,R,2,,A
+1592,w0e5,Wibowo,Tegar Abdi Satrio,,,,2003-03-03,20,Indonesia,,,U,0,,A
+1593,d0ip,De Almeida,Gustavo Ribeiro,,,,2006-04-19,17,Brazil,,,U,0,,A
+1594,j0e3,Jansson,Oskar,,,,2004-11-20,19,Sweden,,,U,0,,A
+1595,n693,Nadaf,Hamidreza,,,Omid Souri ,1992-11-19,31,Iran,183,78,R,2,,A
+1596,r0ac,Ragazzi,Alessandro,,,,1996-12-24,27,Italy,,,U,0,,A
+1597,a0f7,Arinc,Kaya,,,,1999-09-30,24,Turkiye,,,U,0,,A
+1598,b0u0,Bidan,Fadi,,,,2006-01-01,18,Lebanon,,,U,0,,A
+1599,c0pk,Chen,Xing Dao,,,,2004-01-16,20,China,183,73,R,2,,A
+1600,d0cq,De Cuyper,Julien,,,"Dupont Jean-Christophe, Jalal Fathi , Gayord Messin",1999-05-18,24,France,188,80,R,2,,A
+1601,d0ic,Desousa,Julian,,,,2003-06-12,20,Netherlands,,,U,0,,A
+1602,g0m3,Gil Garcia,Aaron,,,,2003-10-02,20,Luxembourg,,,U,0,,A
+1603,g0f9,Giotis,Rafael,,,,2000-11-25,23,Germany,175,73,R,2,,A
+1604,h0gw,Hopp,Michel,,,,1998-12-21,25,Germany,,,U,0,,A
+1605,h0ds,Horak,Ondrej,,,Petr Michnev,2002-10-14,21,Czech Republic,180,75,R,2,,A
+1606,kd70,Krstin,Pedja,Mokrin,Serbia,,1994-09-03,29,Serbia,183,80,R,2,2012,A
+1607,l0jv,Lu,Chen-Yu,,,,2004-02-18,20,Chinese Taipei,,,U,0,,A
+1608,m0js,Moret,Joris,,,,2001-07-24,22,France,,,R,0,,A
+1609,p0lq,Philibert,Nicolas,,,,2005-07-09,18,Great Britain,,,U,0,,A
+1610,p0ip,Pozzani,Nicolo,,,,2002-09-03,21,Italy,,,U,0,,A
+1611,td17,Telles,Leonardo,,,,1995-11-14,28,Brazil,,,U,0,,A
+1612,m0hq,Markovski,Obrad,,,,2000-11-01,23,North Macedonia,,,U,0,,A
+1613,a0l1,Auytayakul,Siwanat,,,,2004-08-12,19,Thailand,,,R,0,,A
+1614,b0m1,Benchakroun,Mehdi,,,,2003-12-21,20,Morocco,,,U,0,,A
+1615,c0ju,Camargo Lima,Enzo,,,,2003-09-20,20,Brazil,183,73,R,2,,A
+1616,cn07,Chikami,Shohei,,,Masami Chikami,1998-10-22,25,Japan,173,73,R,2,,A
+1617,d0hs,Dinev,Dinko,,,,2004-02-13,20,Bulgaria,,,U,0,,A
+1618,e0ca,Emersic Potocnik,Gal,,,,2003-02-11,21,Slovenia,,,R,0,,A
+1619,f0fb,Figl,Maximilian,,,,2004-03-29,19,Italy,,,U,0,,A
+1620,g0gt,Gramaticopolo,Biagio,,,,2002-04-01,21,Italy,,,U,0,,A
+1621,k0bi,Kumaran,Bharath Nishok,,,Mithun Murali,1998-03-21,25,India,173,65,R,2,,A
+1622,l0gj,Lipp,Mika,,,,2003-10-10,20,Germany,,,U,0,,A
+1623,m0n5,Mehra,Rohan,,,,2002-05-22,21,India,,,U,0,,A
+1624,m0ce,Mehrotra,Arjun,,,,1997-03-31,26,Australia,170,65,R,0,,A
+1625,m0s4,Mikovic,Nik,,,,2004-08-29,19,Slovenia,,,U,0,,A
+1626,o663,Opitz,Jannik,,,,1998-04-15,25,Germany,193,95,L,2,,A
+1627,r0jh,Rodrigues,Pedro,,,,2006-04-05,17,Brazil,178,70,R,2,,A
+1628,s0m1,Savelev,Daniil,,,,2000-12-28,23,Russia,188,86,R,0,,A
+1629,s0no,Simonit,Ezequiel,,,,2001-12-02,22,Argentina,175,73,R,2,,A
+1630,s0so,Stepanov,Timofey,,,,2003-07-28,20,Switzerland,188,75,R,2,,A
+1631,t0by,Troost,Siim,,,,1999-12-07,24,Estonia,183,75,R,2,,A
+1632,y0bb,Yazdani,Ali,,,,2003-09-09,20,Iran,,,U,0,,A
+1633,pi06,Panak,Yvo,Stuttgart,Germany,,1995-08-21,28,Czech Republic,185,78,R,2,,A
+1634,r0ev,Ravichander,Ishaan,,,,2002-01-22,22,United States,,,U,0,,A
+1635,s0i6,Sorbo,Jonathan,,,Jon Sorbo,1999-09-27,24,Canada,183,70,R,1,,A
+1636,t0e0,Tanner,Gian Luca,,,Andre Van der Merwe,2001-01-12,23,Switzerland,191,80,R,0,,A
+1637,b0py,Barbier Gazeu,Paul,,,,2005-06-01,18,France,,,R,1,,A
+1638,bk09,Britto,Luis,Araçatuba,Brazil,Nicolas Santos,1993-06-23,30,Brazil,178,75,R,2,,A
+1639,c0ng,Cabrera,Miguel Angel,,,,2000-07-08,23,Chile,168,70,R,2,,A
+1640,c0ml,Ciocanu,Aurel,,,"Isade Juneau, Matt Kuzdub",1998-08-31,25,Canada,191,83,R,2,,A
+1641,f0gs,Forger,Abel,,,,2005-07-25,18,Netherlands,,,R,2,,A
+1642,fa69,Freund,Simon,Stockholm,Sweden,,1996-09-28,27,Sweden,178,75,R,2,,A
+1643,h0ce,Hjorth,Philip,,,,1999-03-04,24,Denmark,,,U,0,,A
+1644,h0cu,Hohmann,Ronald,Oyster Bay,New York,Todd Widom,2001-08-01,22,United States,178,75,R,2,,A
+1645,j0dj,Jucha,William,,,,2004-02-19,20,France,,,U,0,,A
+1646,n0ag,Naumovski,Mason,Melbourne ,Victoria,John Naumovski ,2001-02-03,23,Australia,188,82,R,0,,A
+1647,p0d4,Perez,Brandon,Durham,NC,,2000-01-14,24,Venezuela,191,83,L,2,,A
+1648,s0y3,Saye,David,,,,2004-07-06,19,United States,,,U,0,,A
+1649,s0im,Segura,Matthew,,,,2000-09-19,23,United States,185,84,A,0,,A
+1650,v0d1,Vatteroni,Lorenzo,,,,2000-09-27,23,Italy,,,U,0,,A
+1651,wb15,Wong,Hong Kit,,,,1998-08-30,25,Hong Kong,,,U,0,,A
+1652,b0h9,Berger,Antoine,,,,1998-04-08,25,France,,,U,0,,A
+1653,g0la,Ganesh,Manish,,,,2001-08-19,22,India,,,U,0,,A
+1654,g0gk,Genov,Anthony,,,,2002-03-02,21,Bulgaria,,,U,0,,A
+1655,g0k1,Gray,Timothy,,,,1998-07-14,25,Australia,,,U,0,,A
+1656,k0ez,Kikuchi,Yuta,,,,1999-09-27,24,Japan,173,67,R,0,,A
+1657,ki10,Kissell,Chad,,,,1996-04-23,27,United States,,,U,0,,A
+1658,k0i2,Kroslak,Jakub,,,,2003-06-01,20,Slovak Republic,,,U,0,,A
+1659,l0k7,Lechno-Wasiutynski,Fryderyk,,,,2005-03-20,18,Poland,,,U,0,,A
+1660,s0mc,Sadaoui,Mehdi,,,,2003-03-19,20,France,,,U,0,,A
+1661,s0s9,Sakellaridis,Dimitris,,,Ioannis Sakellaridis,2006-04-30,17,Greece,0,70,R,2,,A
+1662,s0gm,Salazar,Daniel,,,,2001-03-21,22,Colombia,,,U,0,,A
+1663,cn64,Canter,Alexis,,,"Robin Canter, Eric Dochtermann, Ryan Storrie",1998-06-03,25,Great Britain,180,72,R,2,,A
+1664,c0h9,Chaiyarin,Credit,,,,2003-12-09,20,Thailand,,,R,0,,A
+1665,e0d4,Edengren,Kevin,,,,2005-07-01,18,Sweden,,,R,2,,A
+1666,f607,Falcao,Goncalo,,,,1988-02-22,36,Portugal,,77,R,0,,A
+1667,k0hp,Kazakov,Ivan,,,,2001-12-10,22,Russia,,,U,0,,A
+1668,o0ax,Ortenzi,Gian Marco,,,,2000-02-03,24,Italy,183,80,R,2,,A
+1669,v0eq,Villoslada,Edouard,,,,2000-01-30,24,France,180,72,R,2,,A
+1670,v0cg,Vincent,Antoine,,,,1998-06-01,25,France,,,U,0,,A
+1671,s0ny,Saritas,Gokberk,,,,2003-07-18,20,Turkiye,,,U,0,,A
+1672,c0kn,Casanova,Andrin,,,,2004-07-23,19,Switzerland,183,72,R,2,,A
+1673,d0d9,D'Agostino,Stefano,,,,2003-11-03,20,Italy,,,U,0,,A
+1674,d0a3,Duda,Filip,,,,1998-09-30,25,Czech Republic,183,78,R,2,,A
+1675,o0cj,Orlov,Alexander,,,,2004-09-28,19,Switzerland,,,U,0,,A
+1676,s0yn,Shebekin,Grigory,,,,2005-05-14,18,Russia,,,U,0,,A
+1677,td49,Turker,Mert Naci,,,,1998-08-16,25,Turkiye,,,U,0,,A
+1678,z0b7,Zusman,Richard,,,,2000-08-22,23,United States,173,65,L,2,,A
+1679,s0jf,Stuurman,Roland,,,,1999-06-06,24,Netherlands,,,U,0,,A
+1680,b0mp,Boros,Attila,,,,2003-12-22,20,Hungary,,,U,0,,A
+1681,cn80,Calzi,Raphael,,,,1997-07-16,26,Luxembourg,180,75,R,2,,A
+1682,d0k4,De Dios,Felipe,,,,2003-08-19,20,Argentina,170,63,R,0,,A
+1683,w0di,Weir,Phoenix,,,,2005-10-29,18,Great Britain,,,R,1,,A
+1684,b0p1,Bhatnagar,Shivank,,,,2000-09-18,23,India,,,U,0,,A
+1685,l0jo,Ludoski,Zoran,,,,2005-06-16,18,Serbia,,,U,0,,A
+1686,m0mw,Matas Ortega,Xavi,,,,2002-08-26,21,Spain,,,U,0,,A
+1687,a0e6,Atlangeriev,Bekkhan,,,Sergey Kozak,2001-03-12,22,Russia,185,77,R,0,,A
+1688,b0p8,Brown,Thomas,Sumter,SC,"Wayne Brown, Josh Goffi",1998-08-28,25,United States,180,70,R,2,,A
+1689,e0aq,Evans,Tom,,,,2001-03-29,22,Australia,180,70,R,2,,A
+1690,ad06,Addison,Aaron,Melbourne,Australia,Steven Savino,1995-11-12,28,Australia,193,82,R,2,,A
+1691,a0df,Amirov,Davud,,,Melik Feler,1999-02-27,24,Russia,185,75,R,2,,A
+1692,ag50,Amoros Ramos,Pol,,,,1998-02-24,26,Spain,,,R,2,,A
+1693,a0hz,Angelini,Lorenzo,,,,2006-03-04,17,Italy,,,R,0,,A
+1694,a786,Asciak,Matthew,,,,1990-05-04,33,Malta,0,0,U,0,0,A
+1695,bt64,Baltensperger,Raphael,Zürich,Switzerland,Sven Swinnen,1997-12-18,26,Switzerland,185,78,R,2,,A
+1696,b0tp,Bernet,Henry,,,,2007-01-25,17,Switzerland,,,U,0,,A
+1697,b0sw,Bieldiugin,Tymur,,,,2005-10-16,18,Ukraine,,,U,0,,A
+1698,b0t6,Boogaard,Thijs,Tiel,the Netherlands,Bjorn Graven,2008-07-05,15,Netherlands,185,85,R,2,,A
+1699,b0n1,Brady,Kai,,,,2001-08-07,22,United States,,,U,0,,A
+1700,b0tt,Breazu,Matei Florin,,,,2008-04-12,15,Romania,,,U,0,,A
+1701,bj65,Bulant,Robin,,,,1992-04-12,31,Czech Republic,,,U,0,,A
+1702,b0en,Bullard,Jacob,,,,2001-02-21,23,United States,,,U,0,,A
+1703,co11,Carr,Simon,Dublin,Ireland,,1999-11-07,24,Ireland,183,77,R,2,,A
+1704,c0b4,Cernoch,Brian,,,"Sam Paul, Tripp Phillips",1999-09-09,24,United States,180,82,L,2,,A
+1705,c0q7,Consonni,Nicolo,,,,2005-06-18,18,Italy,,,U,0,,A
+1706,c0k4,Corbinais,Sven,,,,2002-12-05,21,France,,,U,0,,A
+1707,c0lp,Cottino,Sandro,,,,2001-08-01,22,France,,,U,0,,A
+1708,d0bu,De Giorgio,Pasquale,,,,1999-04-27,24,Italy,,,U,0,,A
+1709,d0ii,De Jager,Jesse,,,,2002-04-05,21,Netherlands,,,U,0,,A
+1710,d0f0,Dong,Bohua,,,Victor Wang,2002-06-16,21,China,191,75,R,2,,A
+1711,da44,Doria,Luciano,Buenos Aires,Argentina,Martin Paroli,1993-01-27,31,Argentina,180,78,R,2,,A
+1712,e0e0,Espanol Moreno,Juan Arturo,,,,2003-07-11,20,Colombia,,,U,0,,A
+1713,f0dj,Fekete,Janos,,,,2001-02-06,23,Slovak Republic,,,U,0,,A
+1714,f0ht,Finkelstein,Alex,Raynham,MA,,2002-10-24,21,United States,188,69,R,0,,A
+1715,f0bl,Foster-Estwick,Matthew,,,,1997-08-26,26,Barbados,,,R,2,,A
+1716,g820,Gao,Xin,,,,1994-05-12,29,China,180,80,R,2,,A
+1717,g0me,Ghetu,Gabriel,,,,2007-11-07,16,Romania,,,U,0,,A
+1718,gk15,Grinderslev,Anders,,,,1993-12-16,30,Denmark,,,U,0,,A
+1719,g0mu,Guzman,Josue,,,,2005-04-06,18,Peru,,,U,0,,A
+1720,j0dk,Jordan,Phillip,,,,2000-11-07,23,United States,,,U,0,,A
+1721,k0mb,Koizumi,Noritaka,,,,2003-06-11,20,Japan,,,U,0,,A
+1722,k0f3,Konov,Samuil,,,,2002-12-07,21,Bulgaria,,,U,0,,A
+1723,k0mg,Koons,Holden,,,,2001-02-15,23,United States,,,U,0,,A
+1724,k0d2,Kovacic,Tino,,,,1998-03-12,25,Slovenia,,,U,0,,A
+1725,k0fo,Krolo,Filip,,,,2001-05-11,22,Germany,,,R,0,,A
+1726,le91,Lakat,Florian,,,,1995-08-03,28,France,196,92,R,2,,A
+1727,l0co,Longwe-Smit,Thando,,,,2001-06-17,22,South Africa,,,U,0,,A
+1728,m0hz,Major,Kevin,,,,1995-03-25,28,Bahamas,178,79,R,2,,A
+1729,m0rq,Malirz,Karol,,,,2002-10-27,21,Poland,,,U,0,,A
+1730,m0tb,Mastri,Agustin,,,,2003-04-23,20,Argentina,,,U,0,,A
+1731,m09u,Matuszewski,Piotr,,,Mariusz Fyrstenberg,1998-04-22,25,Poland,188,85,R,2,,A
+1732,m0nj,Maxted,Lui,,,,2003-12-02,20,Great Britain,,,,0,,A
+1733,m0k0,Minarik,Kristof,,,,2001-03-18,22,Slovak Republic,,,U,0,,A
+1734,m0fs,Murtaza,Muzammil,,,,1999-11-12,24,Pakistan,,,U,0,,A
+1735,n09b,Nagoudi,Adam,,,,2000-09-09,23,Tunisia,,,U,0,,A
+1736,o0dy,Ou,Shan-Yuan,,,,1999-08-22,24,Chinese Taipei,,,U,0,,A
+1737,p0nf,Pade,Charlie,,,,2005-01-24,19,Australia,,,U,0,,A
+1738,p0l3,Papagno,Stefano,,,,2003-07-16,20,Italy,,,U,0,,A
+1739,p0n4,Patil,Ritesh,,,,2004-04-06,19,United States,,,U,0,,A
+1740,pm13,Pervolarakis,Michail,Limassol,Cyprus,"Aaron Gross, M. Abid Akbar",1996-06-06,27,Greece,193,90,R,2,2018,A
+1741,p0ep,Petrovic,Andreja,Stavanger,Norway,Chris Doerr,2000-02-01,24,Norway,188,77,R,2,,A
+1742,rf12,Romero De Avila Senise,Alberto,Madrid,Spain,Luis Zapata,1997-12-03,26,Spain,173,63,R,2,,A
+1743,r0hm,Rozenberg,Teun,,,,2003-04-19,20,Netherlands,193,87,R,2,,A
+1744,r0kk,Rozin,Sasha,,,,2005-07-17,18,Canada,,,U,0,,A
+1745,sy14,Salvador Pita,Iago,,,,1999-09-04,24,Spain,,,U,0,,A
+1746,si82,Sanchez,Manuel,San Luis Potosi,Mexico,Marcela Montemayor,1991-01-05,33,Mexico,0,78,R,1,,A
+1747,su13,Sandkaulen,Tim,,,,1997-12-29,26,Germany,178,78,R,1,,A
+1748,s0c0,Sarouk,Yair,,,,2001-08-15,22,Israel,,,U,0,,A
+1749,s0e5,Schaber,Marvin,,,,2001-03-06,22,Germany,,,U,0,,A
+1750,s0zl,Schmidt,Leon,,,,2005-05-14,18,Germany,,,U,0,,A
+1751,sq86,Schott,Hugo,,,,1996-09-05,27,France,,,U,0,,A
+1752,s0tq,Searant,Rhys,,,Troy McDonald ,1999-04-27,24,Australia,185,80,L,2,,A
+1753,s0y1,Sharygin,Evan,,,,2007-07-18,16,United States,,,U,0,,A
+1754,sk97,Shyla,Yaraslav,Minsk,Belarus,Alena Shyla,1993-03-05,30,Belarus,191,98,R,2,2011,A
+1755,s0o4,Smith,Jordan,,,,1996-09-02,27,Australia,185,83,R,2,,A
+1756,s0x5,Stewart,Tyler,,,,2002-12-26,21,United States,,,U,0,,A
+1757,s0tu,Swenson,Bjorn,,,,2003-08-28,20,United States,188,82,R,0,,A
+1758,t0j3,Tallakson,Avery,,,,2005-04-03,18,United States,,,U,0,,A
+1759,t09y,Taylor,Jeremy,,,,1999-12-15,24,Australia,,,U,0,,A
+1760,tc97,Thompson,Sam,,,,1993-01-08,31,Australia,,,U,0,,A
+1761,t0gk,Tiukaev,Ruslan,,,,2005-06-08,18,Russia,,,U,0,,A
+1762,t0hn,Todoran,Matei,,,,2008-01-03,16,Romania,,,,0,,A
+1763,t0j8,Tomida,Yuta,,,,2006-10-31,17,Japan,,,U,0,,A
+1764,t0gb,Tosetto,Victor,,,,2004-07-01,19,Brazil,,,U,0,,A
+1765,u160,Ubiergo,Jordan,Abymes,Guadeloupe,,1993-07-27,30,France,193,88,R,2,,A
+1766,v0i0,Van Raemdonck,Harold,,,,2005-12-14,18,Belgium,,,U,0,,A
+1767,v0fk,Visaya,Azuma,,,,2003-08-19,20,United States,,,U,0,,A
+1768,v0gm,Vlahos,Alexander,,,,2006-01-31,18,Poland,,,U,0,,A
+1769,v0cx,Volpi,Gabriele,,,,1996-04-12,27,Italy,,,U,0,,A
+1770,y0bf,Young,Gavin,,,,2002-09-17,21,United States,,,U,0,,A
+1771,z0cg,Zhang,Yu,,,,2002-08-22,21,China,,,U,0,,A
+1772,z0ai,Zhao,Runyu,,,,2000-02-24,24,China,,,U,0,,A
+1773,a0f9,Aguilera,Emiliano,,,,2003-02-11,21,Mexico,,,,0,,A
+1774,a0g1,Alarcon,Benjamin Denis,,,Facundo Arguello,1999-12-10,24,Argentina,168,64,R,1,,A
+1775,a0hy,Amiri,Ali,,,,2001-10-16,22,United States,,,U,0,,A
+1776,a0g4,Antinheimo,Oskar,,,,2002-10-16,21,Finland,,,U,0,,A
+1777,ab70,Aramburu Contreras,Ivar Jose,Mexico City,Mexico,Raquel Contreras,1994-03-21,29,Mexico,,75,R,2,,A
+1778,ae17,Asaba,Abraham,,,,1997-05-21,26,Ghana,198,86,R,1,,A
+1779,b0pp,Baldisserri,Enrico,,,,2004-02-03,20,Italy,,,U,0,,A
+1780,b0cc,Bartakovics,Marcell,,,,1997-10-19,26,Hungary,,,U,0,,A
+1781,b0lu,Batyutenko,Max,,,,2005-07-11,18,Kazakhstan,,,R,1,,A
+1782,b0s8,Berrut,Adrien,,,,2005-06-12,18,Switzerland,,,,0,,A
+1783,b0i8,Bienkiewicz,Juliusz,,,,1999-07-13,24,Poland,,,U,0,,A
+1784,b0gz,Bini,Victor,,,,2003-04-12,20,Brazil,,,U,0,,A
+1785,b0u5,Bueno Gil,Alvaro,,,,2000-05-25,23,Spain,,,U,0,,A
+1786,b0q1,Byers,Loren Thomas,,,,2001-11-20,22,United States,,,U,0,,A
+1787,c0p2,Cairo,Alex,,,,2004-06-08,19,United States,,,U,0,,A
+1788,c0q4,Chen,Charles,,,,2007-12-20,16,China,,,U,0,,A
+1789,d0jj,Dessi,Marco,,,,2000-09-14,23,Italy,,,U,0,,A
+1790,d0bz,Dica,Nini Gabriel,,,,2001-04-29,22,Romania,,,R,2,,A
+1791,d0la,Ducariu,Dominic,,,,2005-09-20,18,Germany,,,U,0,,A
+1792,e0ce,Esquici,Lorenzo,Primavera do leste,Brazil,Martin Gando,2003-07-08,20,Brazil,183,83,R,2,,A
+1793,e0ck,Evans,Gabriel,,,,1996-06-13,27,United States,178,79,R,2,,A
+1794,f0e0,Falck,Reece,,,,2002-04-09,21,New Zealand,,,U,0,,A
+1795,f786,Fayziev,Sanjar,Tashkent,Uzbekistan,Leonidich,1994-07-29,29,Uzbekistan,188,73,R,2,,A
+1796,f0i8,Forbes,Matthew,,,,2006-04-06,17,United States,,,U,0,,A
+1797,g0m7,Gu,Jin,,,,2002-01-03,22,China,,,U,0,,A
+1798,h0hp,Hanchaikul,Patorn,,,,2002-05-22,21,Thailand,,,U,0,,A
+1799,hh42,Huang,Chih Chi,,,,2000-11-14,23,Canada,160,84,R,2,,A
+1800,j0dz,Jodar,Rafael,,,,2006-09-17,17,Spain,,,U,0,,A
+1801,j0db,Jones,Lennon Roark,,,,2005-01-15,19,Japan,,,R,2,,A
+1802,j0dd,Jurina,Patrik,,,,2005-01-18,19,Croatia,,,,0,,A
+1803,k0jn,Kahsay,Hanival,,,,2005-11-11,18,Australia,178,75,R,2,,A
+1804,k0kx,Karahan,Atakan,,,,2006-04-24,17,Turkiye,,,R,2,,A
+1805,k0mp,Kastsiukevich,Ruslan,,,,2007-05-25,16,Belarus,,,U,0,,A
+1806,k907,Katayama,Sho,,,,1989-05-12,34,Japan,,,U,0,,A
+1807,k0lp,Klaassen,Stian,,,,2003-04-19,20,Netherlands,,,U,0,,A
+1808,k0fi,Korsgaard,Henrik Heise,,,,1996-07-22,27,Denmark,,,U,0,,A
+1809,k0lx,Kotzen,Nicolas Ian,,,,2003-03-22,20,United States,,,U,0,,A
+1810,k0dl,Krapivin,Maxim,,,,1999-12-12,24,Russia,,,U,0,,A
+1811,l0e0,Lage Castelan,Lance Amaury,,,,2001-10-24,22,Mexico,,,U,0,,A
+1812,l0ei,Lara Salmeron,Daniel,,,,2001-06-21,22,Spain,,,U,0,,A
+1813,l0hn,Lemaitre,Luca,,,,2005-02-18,19,Mexico,,,,0,,A
+1814,l0k2,Li,Wenfu,,,,2004-09-26,19,China,180,80,R,1,,A
+1815,m0rf,Markov,Viktor,,,,2005-04-21,18,Bulgaria,,,U,0,,A
+1816,m0vl,Marques,Goncalo,,,,2006-01-07,18,Portugal,,,U,0,,A
+1817,m0rc,Matsuoka,Shu,,,,2003-09-11,20,Japan,,,U,0,,A
+1818,m0ux,Michna,Brayden,,,,2004-08-06,19,United States,,,U,0,,A
+1819,mi33,Michnev,Petr,Ostrava,Czech Republic,Radim Slezak,1989-08-03,34,Czech Republic,188,82,R,2,2007,A
+1820,mo03,Milushev,Plamen,,,,1994-08-06,29,Bulgaria,185,82,R,2,,A
+1821,m0cy,Montsi,Siphosothando,,,,1999-11-09,24,South Africa,,,R,2,,A
+1822,m0p3,Munoz,Enmanuel,,,,2005-01-22,19,Dominican Republic,,,U,0,,A
+1823,n653,Na,Jung-Woong,,,,1992-10-31,31,South Korea,,,U,0,,A
+1824,n786,Nakamura,Ren,,,,1995-01-31,29,Japan,170,63,R,2,,A
+1825,n0fb,Nasridinov,Amirkhamza,,,,2005-08-28,18,Russia,,,U,0,,A
+1826,n0co,Nithithananont,Natthayut,,,,2001-09-22,22,Thailand,,,R,0,,A
+1827,n0au,Novak,Jakub,,,,,,Czech Republic,,,,0,,A
+1828,o0bg,Overmyer,Kyle,,,,2004-02-19,20,United States,,,U,0,,A
+1829,p0la,Patton,Thomas,,,,2003-07-14,20,Australia,,,U,0,,A
+1830,p0eh,Patzanovsky,Christopher,,,,1997-12-24,26,Germany,,,U,0,,A
+1831,p0e6,Pecak,Stepan,,,,2000-06-21,23,Czech Republic,183,80,R,0,,A
+1832,p0kw,Pinheiro,Nuno,,,,2004-04-01,19,Portugal,,,U,0,,A
+1833,p0lu,Pires,Tiago,,,,2005-10-11,18,France,,,U,0,,A
+1834,p0e2,Plans,Jorge,,,,2002-01-28,22,Spain,,,U,0,,A
+1835,p0cf,Pleva,Jan,,,,2001-08-23,22,Czech Republic,,,R,2,,A
+1836,p0mv,Poupinel,Leo,,,,2004-01-13,20,France,,,U,0,,A
+1837,r0k4,Rahmani,Kasra,,,,2006-09-07,17,Iran,,,U,0,,A
+1838,r0ew,Rivera,Leyton,Kristianstad,Sweden,Claudio Rivera,2001-10-28,22,Norway,183,72,R,2,2019,A
+1839,r0ct,Rocens,Martins,Riga,Latvia,,2000-04-09,23,Latvia,185,85,R,2,,A
+1840,s0ky,Salazar,Amador,,,Ricardo Urzua,2001-02-15,23,Chile,173,72,L,2,,A
+1841,s0f4,Salvestre,Damien,,,,2002-02-05,22,France,,,U,0,,A
+1842,s0e4,Schlageter,Justin,,,,2001-03-09,22,Germany,,,U,0,,A
+1843,s0vg,Sharma,Aman,Mineola,New York,,2003-10-15,20,United States,175,70,R,2,,A
+1844,s0v9,Shyovitz,Eyal,,,,2004-07-13,19,Israel,,,U,0,,A
+1845,s0sq,Stanke,Cedric,,,,1998-10-02,25,Germany,,,U,0,,A
+1846,s0yr,Steveker,Piet,,,,2004-10-18,19,Germany,,,U,0,,A
+1847,t0e9,Terziev,Simeon,,,,2002-10-06,21,Bulgaria,,,U,0,,A
+1848,t0cn,Torres,Tiago,,,,2002-07-08,21,Portugal,,,U,0,,A
+1849,t0j1,Trkulja,Sasha,,,,2002-12-16,21,Canada,,,U,0,,A
+1850,v0g3,Verdes,Eric David,,,,2004-04-01,19,Romania,,,U,0,,A
+1851,v0hl,Vuglar,Luka,,,,2004-08-02,19,Australia,,,U,0,,A
+1852,w0ey,Wang,Kai-I,,,,2004-07-24,19,Chinese Taipei,,,U,0,,A
+1853,w0dp,Weekes,Jaden,,,,2004-08-29,19,Canada,183,77,L,2,,A
+1854,y211,Yu,Ching-Mou,Taipei,Taiwan,,1995-04-02,28,Chinese Taipei,188,73,R,2,,A
+1855,a0g9,Ahti,Vesa,,,,1999-05-31,24,Finland,,,U,0,,A
+1856,a0gb,Ajavon,Liova,,,,1999-06-17,24,Togo,,,U,0,,A
+1857,a0av,Aleshchev,Alexey,Moscow,Russia,,1998-12-28,25,Russia,,,R,2,,A
+1858,a0jl,Alvarez Sarmiento,Mateo Luis,,,,2005-02-23,19,Spain,,,U,0,,A
+1859,a0i9,Ambarzumjan,Edison,,,,1996-07-31,27,Germany,,,U,0,,A
+1860,a0jr,Arsic,Niksa,,,,2004-09-26,19,Serbia,,,U,0,,A
+1861,bm08,Baldoni,Stefano,,,,1997-08-26,26,Italy,,,U,0,,A
+1862,b0lt,Bancalari,Alejandro,,,,2004-01-12,20,Chile,,,R,2,,A
+1863,b0is,Bancila,Alex,,,,2000-03-08,23,United States,,,U,0,,A
+1864,b0ph,Bilardo,Jacopo,,,,2004-11-04,19,Italy,183,66,R,0,,A
+1865,bk43,Bogo,Enrique,,,,1995-07-24,28,Brazil,185,75,R,2,,A
+1866,b0qw,Boika,Leanid,,,Ilya Drozdov,2004-12-02,19,United States,188,82,R,2,,A
+1867,b0sq,Bolin,Markus,,,,2001-07-06,22,Sweden,,,U,0,,A
+1868,b0ei,Bramajo,Santiago,,,,2000-11-07,23,Argentina,,,U,0,,A
+1869,b0i7,Bruce,Connor,,,,2001-09-27,22,United States,,,U,0,,A
+1870,b0lo,Bueres,Matheus,,,,2003-05-30,20,Brazil,,,,0,,A
+1871,ce15,Cavero,Jorge,,,,1992-04-01,31,Peru,,,U,0,,A
+1872,c0fj,Ciric,Aleksa,,,,2000-06-21,23,Serbia,,,U,0,,A
+1873,c0mv,Cizek,Jiri,,,,2005-08-21,18,Czech Republic,,,U,0,,A
+1874,c0nr,Costanzi De Brito,Henrique,,,,2005-05-21,18,Brazil,,,U,0,,A
+1875,c0b8,Cucka,Konstantin,,,Boris Cucka,2002-06-03,21,Germany,188,70,R,2,,A
+1876,c0nc,Czaplinski,Tommy,,,,2004-09-18,19,United States,,,U,0,,A
+1877,d0cf,Danilov,Savriyan,,,Alexander Kuznetsov,2000-06-03,23,Russia,188,82,R,2,,A
+1878,e757,Ehara,Hiroyasu,,,,1991-06-18,32,Japan,,,U,0,,A
+1879,g0mi,Ganesan,Adhithya,,,,2005-10-24,18,United States,,,U,0,,A
+1880,g0lw,Ghavam,Amirali,,,,2006-04-07,17,Iran,,,U,0,,A
+1881,g0n4,Giorgadze,Giorgi,,,,2003-02-21,21,Georgia,,,U,0,,A
+1882,g0j7,Gonzalez Fitzmaurice,Eugenio,,,,2003-04-06,20,United States,,,U,0,,A
+1883,h0dq,Hernandez,Carles,,,Francisco Jose Penalva,2001-04-25,22,Spain,175,72,R,2,,A
+1884,h0dk,Herrero,Nicolas,,,,2002-08-31,21,Spain,,,,0,,A
+1885,h0gz,Hodzic,Alen Moritz,,,,2002-06-06,21,Germany,,,U,0,,A
+1886,h0hr,Huens,Harold,,,,2002-05-03,21,Belgium,,,U,0,,A
+1887,j417,Jauregui Sainz de Rozas,Rodolfo,,,,1993-10-02,30,Mexico,,,U,0,,A
+1888,j0dh,Ji,Zhengqing,,,,2005-08-05,18,China,,,U,0,,A
+1889,kc89,Kim,Jae Hwan,,,,1994-09-23,29,South Korea,183,85,L,2,,A
+1890,l0kj,Laborde,Arthur,,,,2004-06-03,19,Switzerland,,,U,0,,A
+1891,l0cd,Lagaev,Nick,,,Eddie Miron,2001-04-23,22,Canada,185,75,R,2,,A
+1892,m0r4,Martin Manzano,Juan Cruz,,,,2004-12-15,19,Italy,,,L,0,,A
+1893,m0qt,Massacri,Benito,,,,2003-06-27,20,Italy,,,R,0,,A
+1894,m0uq,Mazzola,Filippo,,,,2005-05-02,18,Italy,,,U,0,,A
+1895,mw03,Menichella,Stefan,,,,1994-11-21,29,United States,193,95,R,2,,A
+1896,m0nk,Mikovic,Milos,,,,2005-05-24,18,Serbia,,,U,0,,A
+1897,m0t6,Moreno,Alejandro,,,,2002-09-24,21,United States,,,U,0,,A
+1898,n0dh,Novakovic,Novak,,,,2001-02-10,23,Serbia,,,U,0,,A
+1899,p0c9,Pang,Renlong,,,,2000-07-12,23,China,,,,0,,A
+1900,p0ka,Pankin,Semen,,,,1999-09-04,24,Russia,,,U,0,,A
+1901,p0f0,Papa,Christopher,,,,2001-04-24,22,United States,,,U,0,,A
+1902,p0kg,Pavlenko,Philipp,,,,2001-10-14,22,Germany,,,U,0,,A
+1903,p0ld,Peiro Serrano,Alvaro,,,,2004-03-16,19,Spain,,,R,0,,A
+1904,p0hs,Petrovic,Luka,,,,2002-11-26,21,Great Britain,,,U,0,,A
+1905,p0dl,Poritzky,Elijah,,,Sam Jalloh,2003-08-12,20,United States,185,81,L,2,,A
+1906,p0c4,Pourroy,Loris,,,,2001-01-01,23,France,,,U,0,,A
+1907,ph19,Prabodh,Suraj R,Bangalore,India,M. Renukananda Prabodh,1995-01-08,29,India,188,79,R,1,,A
+1908,r0he,Regas Luis,Nil,,,,2000-06-25,23,Spain,,,U,0,,A
+1909,r0b3,Rispoli,Nicola,,,,1997-07-31,26,Italy,,,U,0,,A
+1910,r862,Rungkat,Christopher,Jakarta,Indonesia,Robert Davis,1990-01-14,34,Indonesia,175,68,R,2,2007,A
+1911,s09b,Scaglia,Mathieu,,,Alexandre Rueda,1998-11-23,25,France,180,80,R,2,,A
+1912,s0se,Schinteie,Gheorghe Claudiu,,,,2002-03-13,21,Romania,,,U,0,,A
+1913,sz29,Sibanda,Mehluli Don Ayanda,Bulawayo,Zimbabwe,,1999-11-06,24,Zimbabwe,173,70,R,2,,A
+1914,s0vw,Sobbe,Luca Matteo,,,,2001-10-28,22,Germany,,,U,0,,A
+1915,t0hd,Tapiro,Itamar,,,,2004-12-15,19,Israel,,,U,0,,A
+1916,te58,Thompkins,Jared,,,,1996-05-06,27,United States,193,76,L,0,,A
+1917,t0if,Thompson,William Chase,,,,2004-05-06,19,United States,,,U,0,,A
+1918,v0fd,Vaitiekunas,Pijus,,,,2003-02-27,20,Lithuania,,,U,0,,A
+1919,v0b5,Vojinovic,Lazar,,,,1999-03-15,24,Serbia,,,U,0,,A
+1920,v0dr,Vu,Ha Minh Duc,,,,2003-05-13,20,Vietnam,,,U,0,,A
+1921,x01d,Xu,Kuang Qing,,,,2006-06-18,17,Canada,,,U,0,,A
+1922,y09d,Yadav,Yash,,,,1999-08-05,24,India,,,R,2,,A
+1923,z0cm,Zeitune,Gonzalo,,,,2005-05-23,18,Argentina,,,U,0,,A
+1924,z09n,Zeljenka,Martin,,,,1998-02-12,26,Hungary,,,U,0,,A
+1925,a0ix,Andrejic,Marko,,,,2003-01-26,21,Austria,,,U,0,,A
+1926,b09p,Badi,Amir Hossein,,,,1998-12-09,25,Iran,,,U,0,,A
+1927,b0al,Benaim,Max,,,,1998-05-14,25,Great Britain,,,U,0,,A
+1928,b0oy,Berti,Marco,,,,2005-02-10,19,Italy,,,U,0,,A
+1929,b0mw,Bhangdia,Jake,,,,1997-11-11,26,United States,183,77,R,0,,A
+1930,b0of,Bill,Alen,,,,2003-05-03,20,Croatia,,,U,0,,A
+1931,b0a1,Borisiouk,Martin,,,,2000-07-04,23,Belarus,191,82,R,2,,A
+1932,b0g9,Bronzetti,Alberto,,,,1998-05-05,25,Italy,,,U,0,,A
+1933,c0o4,Cavallo,Fernando,,,,2005-12-13,18,Argentina,,,U,0,,A
+1934,c0nb,Cina,Federico,,,,2007-03-30,16,Italy,,,R,2,,A
+1935,d0l8,Derepasko,Timofei,,,,2007-01-07,17,Russia,,,U,0,,A
+1936,da67,Donati,Matteo,Alessandria,Italy,Massimo Puci,1995-02-28,28,Italy,185,74,R,2,2013,A
+1937,d0hn,Dudun,Igor,,,,1998-12-17,25,Ukraine,,,U,0,,A
+1938,e0ay,Elamin,Ammar,,,Mohamed Elamin,2002-06-19,21,Ireland,185,80,R,2,,A
+1939,f0dw,Ferri,Lorenzo,,,,2004-01-28,20,Italy,,,,0,,A
+1940,f0hr,Forcano,Ignasi,,,,1999-10-26,24,Spain,,,U,0,,A
+1941,g0fh,Garcia Mestre,Jordi,,,Jose Maria Arenas,2002-10-22,21,Spain,178,75,R,1,,A
+1942,g0mq,Gaxherri,Syl,,,Herbert Rosenkranz,2004-10-22,19,Austria,185,80,R,2,,A
+1943,g0l1,Goity Zapico,Segundo,,,,2005-08-12,18,Argentina,,,U,0,,A
+1944,g0j6,Goldberg Alviani,Nicolas Rafael,,,,2002-10-10,21,Spain,180,76,R,2,,A
+1945,g0mb,Grzegorzewski,Oskar,,,,2005-02-14,19,Poland,,,,0,,A
+1946,h0hl,Hartig,Ruben,,,,2002-09-02,21,Germany,,,U,0,,A
+1947,h0bk,Horvat,Roko,,,Alan Mari,2001-03-30,22,Croatia,191,80,R,2,,A
+1948,i0as,Ibragimov,Daniel,,,Kesarev A.O,2002-07-03,21,Russia,180,83,R,2,,A
+1949,k0fz,Karakachian,Gonzalo Ariel,,,,2000-12-03,23,Argentina,173,80,R,2,,A
+1950,lh92,Loccisano,Benjamin,,,,1997-03-08,26,Germany,,,U,0,,A
+1951,m0kz,Marquiselli,Victorio,,,,2002-09-11,21,Argentina,,,U,0,,A
+1952,ml59,Martinez,Mateo Nicolas,,,,1994-03-05,29,Argentina,,,R,0,,A
+1953,m0qq,Martinez,Tomas,,,,2003-08-24,20,Argentina,,,,0,,A
+1954,m0s2,Meszaros,Patrik,,,,2005-09-20,18,Hungary,,,U,0,,A
+1955,m0qs,Mischker,Felix,,,,2003-06-27,20,Great Britain,183,80,R,0,,A
+1956,n0dd,Nadal,Joan,,,,2004-04-28,19,Spain,,,,0,,A
+1957,n0aj,Ng,Ki Lung,,,,2001-08-01,22,Hong Kong,,,R,2,,A
+1958,o636,Ortiz,Oscar Gabriel,,,,1997-09-24,26,Argentina,,,U,0,,A
+1959,p0k5,Papamalamis,Theo,,,Alexis PAPAMALAMIS ,2006-01-09,18,France,183,82,R,2,,A
+1960,p0i5,Parisca Romera,Ignacio,,,,2005-08-20,18,Venezuela,,,,0,,A
+1961,p0iv,Ponchet,Matt,,,,2004-06-22,19,France,196,78,L,1,,A
+1962,r0ay,Ramskogler,Gregor,,,,1998-12-05,25,Austria,,,U,0,,A
+1963,r0bf,Ribero,Franco,,,javier vittar,1999-09-09,24,Argentina,188,82,R,2,,A
+1964,r0dp,Ryan Ziegann,Sam,,,,1998-07-25,25,Australia,191,78,R,2,,A
+1965,s0e0,Sanghera,Tiran,,,,1998-12-28,25,Great Britain,183,81,R,2,,A
+1966,s0o5,Simoes,Martim,,,,2003-12-02,20,Portugal,,,U,0,,A
+1967,s0h1,Staeheli,Luca,,,,2000-03-08,23,Switzerland,180,86,R,2,,A
+1968,v0gh,Videhult,Linus,,,Daniel Berta,2003-03-13,20,Sweden,183,77,R,2,,A
+1969,y166,Yazdi,Hesam,,,,1993-02-21,31,Iran,,,U,0,,A
+1970,z0az,Zheng,Yanjie,,,,2000-06-21,23,China,,,U,0,,A
+1971,a0kf,Alkotop,Mohammad,,,,2005-03-16,18,Jordan,,,R,2,,A
+1972,b0fp,Baiant,Razvan,,,,2000-09-17,23,Canada,,,U,0,,A
+1973,b0lp,Barr,Elbert,,,,2002-05-27,21,Great Britain,191,77,R,0,,A
+1974,b0tj,Baumgartner,Sam Kydd,,,,2004-06-18,19,Switzerland,,,U,0,,A
+1975,b0jf,Bojarski,Alan,,,Pawel Bojarski,2003-07-22,20,Poland,185,75,R,2,,A
+1976,c0g2,Chaurasia,Yash,,,Ratan Prakash Sharma,2001-12-09,22,India,175,70,R,2,,A
+1977,c0dv,Chiu,Jordan,,,,2000-12-15,23,United States,,,U,0,,A
+1978,d0eg,Darras,Mayeul,,,,1999-02-01,25,France,,,R,0,,A
+1979,dc99,De Rueda De Genover,Ignasi,Barcelona,Spain,,1998-02-11,26,Spain,183,75,R,2,,A
+1980,d0j9,Deflandre,Leo,,,,2002-02-12,22,France,,,U,0,,A
+1981,d0l9,Degabriele,Alex,,,,2004-10-02,19,Malta,,,U,0,,A
+1982,e0d3,Elyasi,Samyar,,,,2004-11-18,19,Iran,,,U,0,,A
+1983,e0bg,Emesz,Benedikt,,,,2001-12-05,22,Austria,,,U,0,,A
+1984,f0f9,Fumagalli,Filiberto,,,,2002-06-28,21,Italy,,,R,0,,A
+1985,g0ev,Galfinger,Rostislav,,,,2002-11-12,21,Kazakhstan,,,U,0,,A
+1986,g0b7,Gschwendtner,Jeremy,,,,1998-08-21,25,Great Britain,,,U,0,,A
+1987,i0b6,Inchauspe,Paul,,,,2004-02-25,20,France,,,R,2,,A
+1988,j0cn,Jurajda,Adam,,,,2003-05-17,20,Czech Republic,,,U,0,,A
+1989,k0i7,Kamrowski,Marcel,,,,2003-03-28,20,Poland,,,R,0,,A
+1990,l0cu,Luis,Tomas,,,,2002-03-13,21,Portugal,,,U,0,,A
+1991,m0d8,Maulenov,Timur,,,,2000-05-30,23,Kazakhstan,,,U,0,,A
+1992,m0u1,Milushev,Amir,,,,2005-06-18,18,Uzbekistan,,,R,0,,A
+1993,m0qy,Mruzek,Stepan,,,,2004-11-18,19,Czech Republic,,,U,0,,A
+1994,p0gd,Piatti,Rocco,,,,2004-08-02,19,Monaco,,,U,0,,A
+1995,q02d,Quayle,David,,,,2000-06-04,23,Great Britain,,,U,0,,A
+1996,s0ki,Simon,Sahar,,,,2001-02-13,23,Israel,,,U,0,,A
+1997,s0gg,Suresh,Darrshan,,,,2001-02-07,23,Malaysia,,,U,0,,A
+1998,t0i0,Timini,Andreas,,,,2006-06-26,17,Cyprus,,,U,0,,A
+1999,t0en,Trismuwantara,Gunawan,,,,2003-01-09,21,Indonesia,,,U,0,,A
+2000,v0et,Vasiliauskas,Matas,,,,2002-03-29,21,Lithuania,,,U,0,,A
+2001,wa96,Wojcik,Jakub,,,,1997-10-12,26,United States,,,U,0,,A
+2002,y09e,Yu,Bingyu,,,,1999-02-18,25,China,,,U,0,,A
+2003,a714,Alvarado,Patricio,,,,1989-10-06,34,Ecuador,175,73,R,2,0,A
+2004,b0m5,Bajrovic,Tarik,,,,2004-12-25,19,Bosnia-Herzegovina,,,U,0,,A
+2005,b0mv,Baron,Jonathan,,,,2002-09-21,21,Israel,,,U,0,,A
+2006,bk69,Bruna,Esteban,Iquique,Chile,Juan Pablo Brzezicki,1995-01-19,29,Chile,183,80,L,2,,A
+2007,i0ar,Inoue,Geni,,,,2003-04-15,20,Japan,173,68,R,2,,A
+2008,k0cv,Khamis,Yusuf,,,,2000-02-27,23,Egypt,,,U,0,,A
+2009,k0k4,Khosla,Rushil,,,,2006-04-11,17,India,,,U,0,,A
+2010,l0fx,Labbene,Youssef,,,,2004-09-12,19,Tunisia,,,U,0,,A
+2011,l0je,Lacides,Oscar,,,,2004-10-24,19,Guadeloupe,,,U,0,,A
+2012,l0ev,Lapalu,Valentin,,,,2002-03-13,21,France,,,R,0,,A
+2013,lc58,Lipovsek Puches,Tomas,,,,1993-04-17,30,Argentina,183,75,R,2,,A
+2014,rh48,Respaut,Cyril,,,,1999-07-09,24,France,178,72,R,0,,A
+2015,sq27,Schinas,Stephanos,,,,1997-05-13,26,Greece,,,U,0,,A
+2016,sy73,Shanmugam,Abhinav Sanjeev,Chennai,India,Uday Kumar Reddy ,1998-11-15,25,India,178,69,R,2,,A
+2017,s0f2,Singh,Jagmeet,,,,1996-02-26,27,India,,,L,2,,A
+2018,x01e,Xu,Weitao,,,,2005-06-25,18,China,,,U,0,,A
+2019,a0ip,Avcibasi,Toprak,,,,2004-05-09,19,Turkiye,,,U,0,,A
+2020,dc25,De Rossi,Marco,,,,1997-06-27,26,San Marino,,,R,0,,A
+2021,ea34,El Sallaly,Akram,,,,1997-11-13,26,Egypt,175,73,R,2,,A
+2022,f0dd,Furlanetto,Marco,,,,2001-03-02,22,Italy,,,U,0,,A
+2023,i0b3,Ibrahim,Karim,,,,2003-08-07,20,Egypt,,,U,0,,A
+2024,k0ab,Kalyanpur,Adil,Bangalore,India,Vishal Uppal,2000-01-26,24,India,188,81,R,2,,A
+2025,l0ig,Leal,Vitor,,,"Martin Gando, Duda Matos",1999-08-23,24,Brazil,193,90,R,2,,A
+2026,l0k1,Liu,Shaoyun,,,,2002-01-27,22,China,,,U,0,,A
+2027,m0j6,Mishkin,Kirill,,,,2002-10-23,21,Russia,,,U,0,,A
+2028,m0um,Mokrov,Aleksei,,,Andrey Mokrov,2005-02-18,19,Russia,191,82,R,2,,A
+2029,o0ca,Onofrei,Matei Cristian,,,,2005-11-25,18,Romania,,,R,0,,A
+2030,s0r7,Sebesta,Jan,,,,2003-03-05,20,Switzerland,180,82,R,2,,A
+2031,v948,Van Orderlain,Drew,,,,1994-06-30,29,United States,173,66,R,2,,A
+2032,v09o,Van Rensburg,Sean,,,,2000-10-05,23,Australia,,,,0,,A
+2033,ac39,Zayid,Mubarak Shannan,,,,1995-04-14,28,Qatar,,,R,2,,A
+2034,k0c9,Kiger,Mac,,,"Randy Bloemendaal, Tripp Phillips",1998-12-19,25,United States,185,79,R,2,,A
+2035,q025,Qamar,Faisal,,,,1999-07-27,24,India,,,U,0,,A
+2036,w0br,Waldner,Niklas,,,,2001-09-20,22,Austria,,,U,0,,A
+2037,c0bq,Cubelic,Karlo,,,Ante Cubelic,1998-01-13,26,Germany,188,77,L,2,,A
+2038,d0b1,Dell'Elba,Vito,,,,1999-02-06,25,Italy,,,U,0,,A
+2039,m0e9,Marchetti,Federico,,,,2000-11-24,23,Italy,0,83,R,0,,A
+2040,rh87,Reddy,Rishi,,,Jorge Pinilla,1998-04-06,25,India,188,75,R,2,,A
+2041,sk03,Susanto,David Agung,,,,1991-07-21,32,Indonesia,,,U,0,,A
+2042,z0cv,Zheng,Zhan,,,,2003-03-10,20,China,,,U,0,,A
+2043,b0qd,Barki,Nathan Anthony,,,Michael Baroch,2004-11-11,19,Indonesia,178,70,R,2,,A
+2044,kg28,Khomich,Aleksei,Minsk,Belarus,Petrenko Alexey,1997-01-10,27,Belarus,191,80,R,2,,A
+2045,m0nf,Martinez,Mikel,,,,2000-10-16,23,Spain,,,U,0,,A
+2046,bm45,Biljesko,Domagoj,,,Tomo Bilješko ,1997-06-28,26,Croatia,191,82,R,2,,A
+2047,g0k8,Gandolfi,Giammarco,,,,2004-01-24,20,Italy,178,66,R,2,,A
+2048,p0mf,Park,Seungmin,,,,2005-11-02,18,South Korea,,,U,0,,A
+2049,r0jo,Radojicic,Andrej,,,,2004-11-25,19,Serbia,,,U,0,,A
+2050,tf57,Tresca,Giuseppe,,,Corrado Favale ,1998-06-17,25,Italy,178,75,R,2,,A
+2051,f0c2,Fiorentini,Andrea,,,,2001-02-02,23,Italy,,,U,0,,A
