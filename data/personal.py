@@ -1,21 +1,14 @@
-from bs4 import BeautifulSoup
-import pandas as pd
 import requests as rq
-from tqdm import tqdm
+import pandas as pd
 
-df = pd.read_csv('C:/Users/kilan/OneDrive/Documents/Sources/BaselineData/data/connection_details.csv')
 BASE_URL = 'https://www.atptour.com/en/-/www/players/hero/'
-player_data = pd.DataFrame(columns = ['pid','lname','fname','birthcity','birthcountry',
-'coach','birthdate','age',
-'nationality','height','weight',
-'playhand','backhand','proyear','active'])
 
-for index,row in tqdm(df.iterrows()):
-    URL = BASE_URL + row['pid'] + '?v=1'
+def get_player_data(pid):
+    URL = BASE_URL + pid + '?v=1'
     response = rq.get(URL)
     if response.status_code == 200:
         data = response.json()
-        player = {'pid':row['pid'],'lname' : data['LastName'] ,'fname' : data['FirstName'],
+        player = {'puid':pid,'lname' : data['LastName'] ,'fname' : data['FirstName'],
         'coach' : data['Coach'],'age' : data['Age'],
         'nationality' : data['Nationality'],'height' : data['HeightCm'],'weight' : data['WeightKg'],
         'playhand' : data['PlayHand']['Id'],'backhand' : data['BackHand']['Id'],'proyear' : data['ProYear'],'active': data['Active']['Id']}
@@ -29,8 +22,6 @@ for index,row in tqdm(df.iterrows()):
         else:
             player['birthcity'] = None
             player['birthcountry'] = None
-        player = pd.Series(player)
-        player_data = player_data._append(player,ignore_index =True)
+        return player,response.status_code
     else:
-        print(response.status_code)
-    player_data.to_csv('player_information.csv')
+        return None,response.status_code

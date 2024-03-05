@@ -1,27 +1,31 @@
-import requests as rq
-from bs4 import BeautifulSoup
+import mysql.connector as sql
 import pandas as pd
+import time
+import personal
 from tqdm import tqdm
-html = rq.get('https://www.atptour.com/en/rankings/singles?RankRange=0-5000&Region=all&DateWeek=Current%20Week').text
-soup = BeautifulSoup(html,'html.parser')
-tables = soup.find_all('tables')
-table = soup.find('table',class_= 'desktop-table')
+def request_connection(DB_NAME):
+    conn = sql.connect(host = 'baselinedata.c9kakcq8gcyz.us-east-1.rds.amazonaws.com', user = 'admin', password = '12345678', database = DB_NAME)
+    time.sleep(3)
+    return conn
 
-data = pd.DataFrame(columns = ['pid','rank','name','link','points','points_moved','tourneys_played','points_losing','points_gaining'])
-for row in tqdm(table.tbody.find_all('tr')):
-    columns = row.find_all('td')
 
-    if columns !=[] and len(columns) == 8:
-        rank = columns[0].text.strip()
-        name = columns[1].find('li',class_ = 'name center').text.strip()
-        link = columns[1].find('a')['href']
-        points = columns[3].text.strip()
-        pid = link.split('/')[4]
-        points_moved = columns[4].text.strip()
-        tourneys_played = columns[5].text.strip()
-        points_losing = columns[6].text.strip()
-        points_gaining = columns[7].text.strip()
-    row = {'pid':pid,'rank':rank,'name':name,'link':link,'points':points,'points_moved':points_moved,'tourneys_played':tourneys_played,'points_losing':points_losing,'points_gaining':points_gaining}
-    row = pd.Series(row)
-    data = data._append(row,ignore_index = True)
-    data.to_csv('data/updated_players.csv',index = False)
+
+def update_players(data):
+    conn = request_connection('BASELINE')
+    cursor = conn.cursor()
+    cursor.execute('SELECT puid FROM PLAYER_PERSONAL_DETAILS')
+    pids = cursor.fetchall()
+    pids = [i[0] for i in pids]
+    for _,row in tqdm(data.iterrows()):
+        if row['pid'] not in pids:
+            pd,code = personal.get_player_data(row['pid'])
+            if code == 200:
+                cursor.execute(
+                    'INSERT INTO PLAYER_PERSONAL_DETAILS (puid,lname,fname,birthcity,birthcountry,coach,birthdate,age,nationality,height,weight,playhand,backhand,proyear,active) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)',
+                    (pd['puid'],pd['lname'],pd['fname'],pd['birthcity'],pd['birthcountry'],pd['coach'],pd['birthdate'],pd['age'],pd['nationality'],pd['height'],pd['weight'],pd['playhand'],pd['backhand'],pd['proyear'],pd['active']))
+            conn.commit()
+    cursor.close()
+    conn.close()
+    return 'Players updated'
+
+
