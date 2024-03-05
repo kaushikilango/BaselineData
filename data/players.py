@@ -37,7 +37,5 @@ def get_player_data():
         row = {'pid':pid,'rank':rank,'name':name,'link':link,'points':points,'points_moved':points_moved,'tourneys_played':tourneys_played,'points_losing':points_losing,'points_gaining':points_gaining}
         row = pd.Series(row)
         data = data._append(row,ignore_index = True)
+        data.drop_duplicates(subset = 'pid',keep = 'first',inplace = True)
     return data
-
-data = get_player_data()
-print(up.update_players(data))

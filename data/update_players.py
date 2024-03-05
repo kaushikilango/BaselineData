@@ -8,12 +8,10 @@ def request_connection(DB_NAME):
     time.sleep(3)
     return conn
 
-
-
 def update_players(data):
-    conn = request_connection('BASELINE')
+    conn = request_connection('baseline_main')
     cursor = conn.cursor()
-    cursor.execute('SELECT puid FROM PLAYER_PERSONAL_DETAILS')
+    cursor.execute('SELECT puid FROM player_details')
     pids = cursor.fetchall()
     pids = [i[0] for i in pids]
     for _,row in tqdm(data.iterrows()):
@@ -21,11 +19,11 @@ def update_players(data):
             pd,code = personal.get_player_data(row['pid'])
             if code == 200:
                 cursor.execute(
-                    'INSERT INTO PLAYER_PERSONAL_DETAILS (puid,lname,fname,birthcity,birthcountry,coach,birthdate,age,nationality,height,weight,playhand,backhand,proyear,active) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)',
+                    'INSERT INTO player_details (puid,lname,fname,birthcity,birthcountry,coach,birthdate,age,nationality,height,weight,playhand,backhand,proyear,active) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)',
                     (pd['puid'],pd['lname'],pd['fname'],pd['birthcity'],pd['birthcountry'],pd['coach'],pd['birthdate'],pd['age'],pd['nationality'],pd['height'],pd['weight'],pd['playhand'],pd['backhand'],pd['proyear'],pd['active']))
             conn.commit()
     cursor.close()
     conn.close()
-    return 'Players updated'
+    return 'Players updated',200
 
 
