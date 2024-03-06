@@ -3,10 +3,7 @@ import pandas as pd
 import time
 import personal
 from tqdm import tqdm
-def request_connection(DB_NAME):
-    conn = sql.connect(host = 'baselinedata.c9kakcq8gcyz.us-east-1.rds.amazonaws.com', user = 'admin', password = '12345678', database = DB_NAME)
-    time.sleep(3)
-    return conn
+from connector import request_connection as request_connection
 
 def update_players(data):
     conn = request_connection('baseline_main')
@@ -25,5 +22,3 @@ def update_players(data):
     cursor.close()
     conn.close()
     return 'Players updated',200
-
-

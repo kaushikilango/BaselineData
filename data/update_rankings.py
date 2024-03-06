@@ -3,11 +3,11 @@ import mysql.connector as sql
 import pandas as pd
 import players
 from tqdm import tqdm
+from dotenv import load_dotenv
+import os
+from connector import request_connection as request_connection
 
-def request_connection(DB_NAME):
-    conn = sql.connect(host = 'baselinedata.c9kakcq8gcyz.us-east-1.rds.amazonaws.com', user = 'admin', password = '12345678', database = DB_NAME)
-    time.sleep(3)
-    return conn
+load_dotenv()
 
 def max_date(day):
     x = day.split('-')
@@ -17,7 +17,7 @@ def max_date(day):
 def sgl_mens_rankings():
     current_date = time.strftime('%Y-%m-%d')
     data = players.get_player_data()
-    conn = request_connection('baseline_main')
+    conn = request_connection('AWS_BASEDB')
     cursor = conn.cursor()
     cursor.execute('SELECT max(rank_date) from sgl_mens_rankings')
     max_date = cursor.fetchall()
@@ -56,3 +56,6 @@ def sgl_mens_rankings():
         return 'Rankings updated'
     else:
         return 100
+    
+
+request_connection('AWS_BASEDB')
