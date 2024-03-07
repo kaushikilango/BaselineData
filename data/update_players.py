@@ -1,13 +1,16 @@
-import mysql.connector as sql
-import pandas as pd
-import time
-import personal
+import personal,players
 from tqdm import tqdm
 from connector import request_connection as request_connection
 
-def update_players(data):
-    conn = request_connection('baseline_main')
+def update_players():
+    data = players.get_players()
+    print('Trying connection')
+    conn,status = request_connection('AWS_BASELINE_DB')
+    if status != 200:
+        return 'Connection failed',status
+    print('Connection established')
     cursor = conn.cursor()
+
     cursor.execute('SELECT puid FROM player_details')
     pids = cursor.fetchall()
     pids = [i[0] for i in pids]
