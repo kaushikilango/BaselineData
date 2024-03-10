@@ -12,15 +12,19 @@ def get_month_tourneys(month = None,year = None):
     data = rq.get(URL).json()
     if month == None and year == None:
         current = calendar.month_name[datetime.now().month] + ', ' + str(datetime.now().year)
+        year = str(datetime.now().year)
+
     else:
         current = month + ', ' + year
-
-    data = pd.DataFrame(columns = ['tid','tourney_name','location','scores_url','draws_url','type','surface','total_prize_money','environment','sgl_draw_size','dbl_draw_size','live','completed'])
+    df = pd.DataFrame(columns = ['tid','tourney_name','location','scores_url','draws_url','type','surface','total_prize_money','environment','sgl_draw_size','dbl_draw_size','live','completed'])
     for i in data['TournamentDates']:
         if i['DisplayDate'] == current:
             for kilo in i['Tournaments']:
+                dates  = deformat_date(kilo['FormattedDate'])
+                fdate = dates[0]
+                tdate = dates[1]    
 
-                row = {'tid':kilo['Id'],'tourney_name': kilo['Name'],'location':kilo['Location'],
+                row = {'tid':kilo['Id'],'tourney_name': kilo['Name'],'location':kilo['Location'],'fdate':fdate,'tdate':tdate,'season': year,
                     'scores_url':kilo['ScoresUrl'],'draws_url':kilo['DrawsUrl'],'type':kilo['Type'],'surface':kilo['Surface'],
                     'total_prize_money':kilo['TotalFinancialCommitment'],'environment':kilo['IndoorOutdoor']
                     ,'sgl_draw_size':kilo['SglDrawSize'],'dbl_draw_size':kilo['DblDrawSize']}
@@ -34,7 +38,36 @@ def get_month_tourneys(month = None,year = None):
                 else:
                     row['completed'] = '0'
                 row = pd.Series(row)
-                data = data.append(row,ignore_index = True)
-    return data
+                df = df._append(row,ignore_index = True)
+    return df
     
-            
+def deformat_date(date):
+    ## 3 - 5 July, 2020
+    from_date = ''
+    to_date = ''
+    dates = []
+    x = date.split('-')
+    if len(x) != 2:
+        return None
+    else:
+        from_day,from_month,from_year = decode_date(x[0].strip())
+        to_day,to_month,to_year = decode_date(x[1].strip())
+        if from_month == None:
+            from_month = to_month
+        if from_year == None:
+            from_year = to_year
+    dates.append(from_day + ' ' + from_month + ', ' + from_year)
+    dates.append(to_day + ' ' + to_month + ', ' + to_year)    
+    return dates
+
+def decode_date(date):
+    date = date.split(' ')
+    if len(date) == 1:
+        return date[-1],None,None
+    elif len(date) == 2:
+        return date[0],date[1],None
+    else:
+        day = date[0]
+        month = date[1].strip(',')
+        year = date[2].strip(',')
+        return day,month,year

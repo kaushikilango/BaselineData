@@ -1,7 +1,8 @@
 import os
 import mysql.connector as sql
-import dotenv
+from dotenv import load_dotenv
 
+load_dotenv()
 
 def request_connection(DB_IDENTIFIER):
     conn = sql.connect(host=os.getenv('AWS_ENDPOINT'), user=os.getenv('AWS_USER'), password=os.getenv('AWS_PASSWORD'),
