@@ -1,9 +1,7 @@
-import mysql.connector
 import pandas as pd
 import requests as rq
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-import update_players as up
 
 BASE_URL = 'https://www.atptour.com/'
 SGL_RANKINGS_ALL = 'en/rankings/singles/?rankRange=0-5000&Region=all&DateWeek=Current%20Week'
@@ -16,10 +14,6 @@ def get_soup(url):
 def get_players():
     soup = get_soup(BASE_URL + SGL_RANKINGS_ALL)
     players = soup.find('table',class_= 'desktop-table')
-    return players
-
-def get_player_data():
-    players = get_players()
     data = pd.DataFrame(columns = ['pid','rank','name','link','points','points_moved','tourneys_played','points_losing','points_gaining'])
     for row in tqdm(players.tbody.find_all('tr')):
         columns = row.find_all('td')

@@ -56,6 +56,3 @@ def sgl_mens_rankings():
         return 'Rankings updated'
     else:
         return 100
-    
-
-request_connection('AWS_BASEDB')
