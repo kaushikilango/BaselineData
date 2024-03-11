@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def request_connection(DB_IDENTIFIER):
-    load_dotenv()
     conn = sql.connect(host=os.getenv('AWS_ENDPOINT'), user=os.getenv('AWS_USER'), password=os.getenv('AWS_PASSWORD'),
                        database=os.getenv(DB_IDENTIFIER), port=os.getenv('AWS_PORT'))
     if conn.is_connected():
