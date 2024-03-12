@@ -1,6 +1,6 @@
 import requests as rq
 BASE_URL = 'https://www.atptour.com/-/Hawkeye/MatchStats/Complete/'
-
+import pandas as pd
 
 def get_match_data(tourney_id,season,id):
     url = BASE_URL + str(season) + '/' + str(tourney_id) + '/' + str(id)
@@ -82,7 +82,25 @@ def get_matches(tourneyid,year,matchid):
             'p2_bpsaved':p2_stats['bpsaved'],
             'duration':duration
             }
-    
-    return row
+        return row
 
 
+def get_all_matches(tourney_id,year):
+    non_exist_count = 0
+    df = pd.DataFrame(columns = ['match_id','tourney_id','tourney_name','round','tourney_level','player1','player2','p1_id','p2_id','set1','set2','set3','set4','set5','year','p1_ace','p2_ace','p1_df','p2_df','p1_svpt','p2_svpt','p1_fsin','p2_fsin','p1_fsw','p2_fsw','p1_bpsaved','p2_bpsaved'])
+    for i in range(1,128):
+        if i < 10:
+            match_id = 'MS00' + str(i)
+        elif i < 100:
+            match_id = 'MS0' + str(i)
+        else:
+            match_id = 'MS' + str(i)
+        row = get_matches(tourney_id,year,match_id)
+        if row != None:
+            df = df._append(row,ignore_index=True)
+        else:
+            non_exist_count += 1
+            if non_exist_count > 10:
+                break
+    return df
+        
