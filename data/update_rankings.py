@@ -16,17 +16,19 @@ def max_date(day):
 
 def sgl_mens_rankings():
     current_date = time.strftime('%Y-%m-%d')
-    data = players.get_player_data()
-    conn = request_connection('AWS_BASEDB')
+    data = players.get_players()
+    conn,status = request_connection('AWS_BASEDB')
+    if status != 200:
+        return status
     cursor = conn.cursor()
-    cursor.execute('SELECT max(rank_date) from sgl_mens_rankings')
+    cursor.execute('SELECT date_add(max(rank_date), INTERVAL 7 DAY) from sgl_mens_rankings')
     max_date = cursor.fetchall()
     max_date = max_date[0][0]
+    print(max_date)
     if max_date == None:
         max_date = '1900-01-01'
     else:
         max_date = max_date.strftime('%Y-%m-%d')
-    data.to_csv('data.csv')
     if max_date < current_date:
         for _,row in tqdm(data.iterrows()):
             if row['points_moved'] != '-':
@@ -56,3 +58,6 @@ def sgl_mens_rankings():
         return 'Rankings updated'
     else:
         return 100
+
+if __name__ == '__main__':
+    sgl_mens_rankings()
