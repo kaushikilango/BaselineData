@@ -1,12 +1,16 @@
 import requests as rq
-import pandas as pd
-
+from baselinedata.utils import logger as lg
 BASE_URL = 'https://www.atptour.com/en/-/www/players/hero/'
 
 def get_player_data(pid):
+    lg.LOG_INFO(f"Requesting player data for pid: {pid}", "personal.py", "get_player_data")
     URL = BASE_URL + pid + '?v=1'
     response = rq.get(URL)
+    if response.status_code != 200:
+        lg.LOG_ERROR(f"STATUS {response.status_code} Player data for pid: {pid} not found", "personal.py", "get_player_data")
+    
     if response.status_code == 200:
+        lg.LOG_INFO(f"STATUS 200 Player data for pid: {pid} received", "personal.py", "get_player_data")
         data = response.json()
         player = {'puid':pid,'lname' : data['LastName'] ,'fname' : data['FirstName'],
         'coach' : data['Coach'],'age' : data['Age'],
