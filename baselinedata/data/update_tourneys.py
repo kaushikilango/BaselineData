@@ -1,13 +1,13 @@
 import connector
 import pandas as pd
 from dotenv import load_dotenv
-import os
 import tourneys,datetime
-
+from baselinedata.utils import logger as lg
 # Load the environment variables
 load_dotenv()
 # Connect to the database
-
+lg.LOG_INFO(f"Running update_tourneys.py", "update_tourneys.py", "main")
+lg.LOG_INFO(f"Requesting connection", "update_tourneys.py", "main")
 conn, status = connector.request_connection('AWS_BASEDB')
 
 # Get the current month's tournaments
