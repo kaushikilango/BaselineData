@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+requests
+tqdm
+mysql-connector-python
+beautifulsoup4
+python-dotenv
+-e.
