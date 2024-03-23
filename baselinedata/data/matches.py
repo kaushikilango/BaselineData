@@ -61,38 +61,38 @@ def get_matches(tourneyid,year,matchid):
         sets = []
         for i,j in zip(p1_stats['sets'],p2_stats['sets']):
             sets.append(i + '-' + j)
-            while len(sets) < 5:
-                sets.append('0-0')
-            row = {'match_id':str(data['Tournament']['EventYear']) + str(data['Tournament']['EventId']) + str(data['Match']['MatchId']), 
-            'tourney_id':data['Tournament']['EventId']
-            ,'tourney_name':data['Tournament']['TournamentName'],
-            'round':data['Match']['Round']['ShortName'],
-            'tourney_level': data['Tournament']['EventType'],
-            'player1': data['Match']['PlayerTeam1']['PlayerFirstNameFull'] + ' ' + data['Match']['PlayerTeam1']['PlayerLastName'],
-            'player2': data['Match']['PlayerTeam2']['PlayerFirstNameFull'] + ' ' + data['Match']['PlayerTeam2']['PlayerLastName'],
-            'p1_id':data['Match']['PlayerTeam1']['PlayerId'],
-            'p2_id':data['Match']['PlayerTeam2']['PlayerId'],
-            'winner':data['Match']['Winner'],
-            'set1':sets[0],
-            'set2':sets[1],
-            'set3':sets[2],
-            'set4':sets[3],
-            'set5':sets[4],
-            'year':data['Tournament']['EventYear'],
-            'p1_ace':p1_stats['aces'],
-            'p2_ace':p2_stats['aces'],
-            'p1_df':p1_stats['dfs'],
-            'p2_df':p2_stats['dfs'],
-            'p1_svpt':p1_stats['svpt'],
-            'p2_svpt':p2_stats['svpt'],
-            'p1_fsin':p1_stats['fsin'],
-            'p2_fsin':p2_stats['fsin'],
-            'p1_fsw':p1_stats['fsw'],
-            'p2_fsw':p2_stats['fsw'],
-            'p1_bpsaved':p1_stats['bpsaved'],
-            'p2_bpsaved':p2_stats['bpsaved'],
-            'duration':duration
-            }
+        while len(sets) < 5:
+            sets.append('0-0')
+        row = {'match_id':str(data['Tournament']['EventYear']) + str(data['Tournament']['EventId']) + str(data['Match']['MatchId']), 
+        'tourney_id':data['Tournament']['EventId']
+        ,'tourney_name':data['Tournament']['TournamentName'],
+        'round':data['Match']['Round']['ShortName'],
+        'tourney_level': data['Tournament']['EventType'],
+        'player1': data['Match']['PlayerTeam1']['PlayerFirstNameFull'] + ' ' + data['Match']['PlayerTeam1']['PlayerLastName'],
+        'player2': data['Match']['PlayerTeam2']['PlayerFirstNameFull'] + ' ' + data['Match']['PlayerTeam2']['PlayerLastName'],
+        'p1_id':data['Match']['PlayerTeam1']['PlayerId'],
+        'p2_id':data['Match']['PlayerTeam2']['PlayerId'],
+        'winner':data['Match']['Winner'],
+        'set1':sets[0],
+        'set2':sets[1],
+        'set3':sets[2],
+        'set4':sets[3],
+        'set5':sets[4],
+        'year':data['Tournament']['EventYear'],
+        'p1_ace':p1_stats['aces'],
+        'p2_ace':p2_stats['aces'],
+        'p1_df':p1_stats['dfs'],
+        'p2_df':p2_stats['dfs'],
+        'p1_svpt':p1_stats['svpt'],
+        'p2_svpt':p2_stats['svpt'],
+        'p1_fsin':p1_stats['fsin'],
+        'p2_fsin':p2_stats['fsin'],
+        'p1_fsw':p1_stats['fsw'],
+        'p2_fsw':p2_stats['fsw'],
+        'p1_bpsaved':p1_stats['bpsaved'],
+        'p2_bpsaved':p2_stats['bpsaved'],
+        'duration':duration
+        }
         lg.LOG_INFO(f"Matches for tourneyid: {tourneyid}, year: {year} and matchid: {matchid} received", "matches.py", "get_matches")
         return row
 
@@ -116,4 +116,3 @@ def get_all_matches(tourney_id,year):
                 lg.LOG_INFO(f"Matches for tourney_id: {tourney_id} and year: {year} not found --  Maybe exceeded limit", "matches.py", "get_all_matches")
                 break
     return df
-        

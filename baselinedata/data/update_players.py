@@ -1,13 +1,13 @@
-import personal,players
+from baselinedata.data import players,personal
 from tqdm import tqdm
-from connector import request_connection as request_connection
+from baselinedata.data.connector import request_connection as request_connection
 from baselinedata.utils import logger as lg
 def update_players():
     lg.LOG_INFO(f"Updating players", "update_players.py", "update_players")
     data = players.get_players()
     lg.LOG_INFO(f"Players received", "update_players.py", "update_players")
     lg.LOG_INFO(f"Requesting connection", "update_players.py", "update_players")
-    conn,status = request_connection('AWS_BASELINE_DB')
+    conn,status = request_connection('AWS_BASEDB')
     if status != 200:
         lg.LOG_ERROR(f"STATUS {status} Connection failed", "update_players.py", "update_players")
         return 'Connection failed',status
