@@ -16,10 +16,12 @@ def get_match_data(tourney_id,season,id):
     
 def get_setdata(p1_sets,p2_sets):
     p1_scores,p2_scores = {'sets' : []},{'sets':[]}
-
+    duration = 0
     for k in p2_sets:
         try:
             if k['SetNumber'] == 0:
+                if k['Stats'] == None:
+                    return ('IC','IC',0)
                 if k['Stats']['ServiceStats']['FirstServePointsWon']['Divisor'] + k['Stats']['ServiceStats']['SecondServePointsWon']['Divisor'] == 0:
                     p2_scores['svpt'] = 0
                 else:
@@ -36,6 +38,8 @@ def get_setdata(p1_sets,p2_sets):
     for k in p1_sets:
         if k['SetNumber'] == 0:
             try:
+                if k['Stats'] == None:
+                    return ('IC','IC',0)
                 timer = k['Stats']['Time'].split(':')
                 duration = int(timer[0]) * 60 + int(timer[1])
                 if k['Stats']['ServiceStats']['FirstServePointsWon']['Divisor'] + k['Stats']['ServiceStats']['SecondServePointsWon']['Divisor'] == 0:
@@ -58,6 +62,9 @@ def get_matches(tourneyid,year,matchid):
     data,status = get_match_data(tourneyid,year,matchid)
     if status == 200:
         p1_stats,p2_stats,duration = get_setdata(data['Match']['PlayerTeam']['SetScores'],data['Match']['OpponentTeam']['SetScores'])
+        if p1_stats == 'IC' or p2_stats == 'IC':
+            lg.LOG_ERROR(f"Source data incomplete: {tourneyid}, year: {year} and matchid: {matchid}", "matches.py", "get_matches")
+            return None,101
         sets = []
         for i,j in zip(p1_stats['sets'],p2_stats['sets']):
             sets.append(i + '-' + j)
@@ -94,7 +101,10 @@ def get_matches(tourneyid,year,matchid):
         'duration':duration
         }
         lg.LOG_INFO(f"Matches for tourneyid: {tourneyid}, year: {year} and matchid: {matchid} received", "matches.py", "get_matches")
-        return row
+        return row,200
+    else:
+        lg.LOG_ERROR(f"Matches for tourneyid: {tourneyid}, year: {year} and matchid: {matchid} not found", "matches.py", "get_matches")
+        return None,102
 
 
 def get_all_matches(tourney_id,year):
@@ -107,8 +117,10 @@ def get_all_matches(tourney_id,year):
             match_id = 'MS0' + str(i)
         else:
             match_id = 'MS' + str(i)
-        row = get_matches(tourney_id,year,match_id)
-        if row != None:
+        row,status = get_matches(tourney_id,year,match_id)
+        if status == 101:
+            return None
+        if row != None and status == 200:
             df = df._append(row,ignore_index=True)
         else:
             non_exist_count += 1

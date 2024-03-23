@@ -27,12 +27,13 @@ def get_matches_count(tourney_id,year):
     try:
         cur =  conn.cursor()
         cur.execute(query)
+        count = cur.fetchall()[0][0]
     except Exception as e:
         lg.LOG_ERROR(f"Error in fetching matches count. {str(e)}", "insert_matches.py", "get_matches_count")
-    if cur.rowcount == 0:
+    if count == 0:
         lg.LOG_INFO(f"No matches found for tourney_id: {tourney_id} and year: {year}", "insert_matches.py", "get_matches_count")
         return 0
-    return cur.fetchall()[-1][0]
+    return count
 
 def insert_matches(tourney_id,year=datetime.datetime.now().year):
     lg.LOG_INFO(f"Inserting matches for tourney_id: {tourney_id} and year: {year}", "insert_matches.py", "insert_matches")
@@ -40,8 +41,12 @@ def insert_matches(tourney_id,year=datetime.datetime.now().year):
     if count > 0:
         lg.LOG_INFO(f'Already exists {count} matches for tourney_id: {tourney_id} and year: {year}', "insert_matches.py", "insert_matches")
         lg.LOG_INFO(f"Matches for tourney_id: {tourney_id} and year: {year} already inserted", "insert_matches.py", "insert_matches")
+        return 100
     else:
         data = get_all_matches(tourney_id,year)
+        if data is None:
+            lg.LOG_INFO("No matches found", "insert_matches.py", "insert_matches")
+            return
         conn, status = request_connection('AWS_BASEDB')
         lg.LOG_INFO(f"Inserting {len(data)} matches for tourney_id: {tourney_id} and year: {year}", "insert_matches.py", "insert_matches")
         for _,row in tqdm(data.iterrows()):
@@ -52,10 +57,10 @@ def insert_matches(tourney_id,year=datetime.datetime.now().year):
                 cur = conn.cursor(buffered=True)
                 cur.execute(query,params)
                 conn.commit()
-    return
+    return 200
+
+
 
 tids = get_completed_tourneys().iloc[:,0].values.tolist()
-
 for tid in tids:
     insert_matches(tid)
-
