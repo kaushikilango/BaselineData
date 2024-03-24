@@ -75,17 +75,43 @@ if __name__ == "__main__":
     current_hour = datetime.now().hour
     current_min = datetime.now().minute
     current_week = datetime.now().isocalendar()[1]
-    status = player_updater()
-    print(status)
     
-    '''
-    if current_day == 6 and current_hour == 6 and current_min < 11: # Tuesday 00:00
-        if current_week % 2 == 0:
-            ## run tourney updater and match updater
-            ## run player updater
-            pass
+    ## Player updater runs everyday at 00:00
+    if current_hour == 0 and current_min < 11:
+        status = player_updater()
+        if status == 200:
+            lg.LOG_INFO("Player Updater Completed", "Player Updater", "updater.py")
         else:
-            pass
-    else:
-        lg.LOG_INFO("Player Updater not authorized due to restricted timings", "Player Updater", "updater.py")
-    '''
+            lg.LOG_ERROR("Player Updater Failed", "Player Updater", "updater.py")
+    
+    ### Tournament Updater runs weekly twice. Monday and Tuesday
+    
+    if current_day == 0 and current_hour == 0 and current_min < 11:
+        status = tournaments_updater()
+        if status == 200:
+            lg.LOG_INFO("Tournament Updater Completed", "Tournament Updater", "updater.py")
+        else:
+            lg.LOG_ERROR("Tournament Updater Failed", "Tournament Updater", "updater.py")
+        status = match_inserter()
+        if status == 200:
+            lg.LOG_INFO("Match Updater Completed", "Match Updater", "updater.py")
+        else:
+            lg.LOG_ERROR("Match Updater Failed", "Match Updater", "updater.py")
+    if current_day == 1  and current_hour == 0 and current_min < 11:
+        ##rankings updater
+        status = rankings_updater()
+        if status == 200:
+            lg.LOG_INFO("Rankings Updater Completed", "Rankings Updater", "updater.py")
+        else:
+            lg.LOG_ERROR("Rankings Updater Failed", "Rankings Updater", "updater.py")
+        status = tournaments_updater()
+        if status == 200:
+            lg.LOG_INFO("Tournament Updater Completed", "Tournament Updater", "updater.py")
+        else:
+            lg.LOG_ERROR("Tournament Updater Failed", "Tournament Updater", "updater.py")
+        status = match_inserter()
+        if status == 200:
+            lg.LOG_INFO("Match Updater Completed", "Match Updater", "updater.py")
+        else:
+            lg.LOG_ERROR("Match Updater Failed", "Match Updater", "updater.py")
+    
