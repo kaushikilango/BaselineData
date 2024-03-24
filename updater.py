@@ -75,7 +75,11 @@ if __name__ == "__main__":
     current_hour = datetime.now().hour
     current_min = datetime.now().minute
     current_week = datetime.now().isocalendar()[1]
-    if current_day == 1 and current_hour == 0 and current_min < 11: # Tuesday 00:00
+    status = player_updater()
+    print(status)
+    
+    '''
+    if current_day == 6 and current_hour == 6 and current_min < 11: # Tuesday 00:00
         if current_week % 2 == 0:
             ## run tourney updater and match updater
             ## run player updater
@@ -84,4 +88,4 @@ if __name__ == "__main__":
             pass
     else:
         lg.LOG_INFO("Player Updater not authorized due to restricted timings", "Player Updater", "updater.py")
-        
+    '''
