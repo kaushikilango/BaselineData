@@ -58,9 +58,3 @@ def insert_matches(tourney_id,year=datetime.datetime.now().year):
                 cur.execute(query,params)
                 conn.commit()
     return 200
-
-
-
-tids = get_completed_tourneys().iloc[:,0].values.tolist()
-for tid in tids:
-    insert_matches(tid)

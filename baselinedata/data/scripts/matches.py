@@ -25,6 +25,7 @@ def get_tourney_ids():
 
 def get_match_data(tourney_id,season,id):
     url = BASE_URL + str(season) + '/' + str(tourney_id) + '/' + str(id)
+    print(url)
     data = rq.get(url).json()
     if data!=None:
         return data,200
@@ -68,13 +69,13 @@ def get_setdata(p1_sets,p2_sets):
 
 def create_database():
     df = pd.DataFrame(columns = ['match_id','tourney_id','tourney_name','round','tourney_level','player1','player2','p1_id','p2_id','set1','set2','set3','set4','set5','year','p1_ace','p2_ace','p1_df','p2_df','p1_svpt','p2_svpt','p1_fsin','p2_fsin','p1_fsw','p2_fsw','p1_bpsaved','p2_bpsaved'])
-    ids = get_tourney_ids()
+    ids = ['560']
     print(ids)
     cont_loss = 0
     count = 0
-    season = 2000
+    season = 2023
     for mid in tqdm(ids):
-        for i in range(1,128):
+        for i in range(128,1,-1):
             if i < 10:
                 id = 'ms' + '00' + str(i)
             elif i < 100:
@@ -125,7 +126,7 @@ def create_database():
                 cont_loss = 0
             else:
                 cont_loss += 1
-                if cont_loss > 5:
+                if cont_loss > 500:
                     break
         df = df.drop(df[df.isna().any(axis=1)].index)
         df.to_csv('matches_2000.csv',index = False)
@@ -142,7 +143,7 @@ def insert_data(df):
             conn.commit()
         cursor.close()
 
-df = create_database()
+#df = create_database()
 insert_data(pd.read_csv('matches_2000.csv'))
 os.remove('matches_2000.csv')
 

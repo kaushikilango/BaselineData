@@ -70,4 +70,18 @@ def match_inserter():
     
 if __name__ == "__main__":
     
-    pass
+    ## Player Updater runs weekly
+    current_day = datetime.now().weekday()
+    current_hour = datetime.now().hour
+    current_min = datetime.now().minute
+    current_week = datetime.now().isocalendar()[1]
+    if current_day == 1 and current_hour == 0 and current_min < 11: # Tuesday 00:00
+        if current_week % 2 == 0:
+            ## run tourney updater and match updater
+            ## run player updater
+            pass
+        else:
+            ## run player updater
+            pass
+
+        

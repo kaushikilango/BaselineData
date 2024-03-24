@@ -6,20 +6,17 @@ from baselinedata.data import connector
 # 2. Info
 # 3. Error
 conn, status = connector.request_connection('AWS_BASEDB')
-def log_insert(message,source,status):
-    print('running insert log')
-    cursor = conn.cursor()
-    time = datetime.datetime.now()
-    print(time)
-    print(message)
-    print(source)
-    print(status)
-    cursor.execute('INSERT INTO logs_main (log_time,log_message,log_source,status_code) VALUES (%s,%s,%s,%s)',(time,message,source,status))
-    conn.commit()
-    cursor.close()
 getcwd = os.getcwd()
 parent = os.path.dirname(getcwd)
 target = os.path.join(parent, "BaselineData\\baselinedata\logs")
+
+def log_insert(message,source,status):
+    cursor = conn.cursor()
+    time = datetime.datetime.now()
+    cursor.execute('INSERT INTO logs_main (log_time,log_message,log_source,status_code) VALUES (%s,%s,%s,%s)',(time,message,source,status))
+    conn.commit()
+    cursor.close()
+    return
 
 def LOG_INFO(message,process_name,file_name):
     source = process_name + ':' + file_name
