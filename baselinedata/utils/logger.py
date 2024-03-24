@@ -8,7 +8,7 @@ from baselinedata.data import connector
 conn, status = connector.request_connection('AWS_BASEDB')
 getcwd = os.getcwd()
 parent = os.path.dirname(getcwd)
-target = os.path.join(parent, "BaselineData\\baselinedata\logs")
+target = os.path.join(parent, "BaselineData/baselinedata/logs")
 
 def log_insert(message,source,status):
     cursor = conn.cursor()

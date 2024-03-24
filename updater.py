@@ -81,7 +81,7 @@ if __name__ == "__main__":
             ## run player updater
             pass
         else:
-            ## run player updater
             pass
-
+    else:
+        lg.LOG_INFO("Player Updater not authorized due to restricted timings", "Player Updater", "updater.py")
         
