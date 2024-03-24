@@ -83,7 +83,8 @@ if __name__ == "__main__":
             lg.LOG_INFO("Player Updater Completed", "Player Updater", "updater.py")
         else:
             lg.LOG_ERROR("Player Updater Failed", "Player Updater", "updater.py")
-    
+    else:
+        lg.LOG_INFO(f"Player Updater Skipped - Current Day: {current_day}, Current Hour: {current_hour}, Current Min: {current_min}", "Player Updater", "updater.py")
     ### Tournament Updater runs weekly twice. Monday and Tuesday
     
     if current_day == 0 and current_hour == 0 and current_min < 11:
