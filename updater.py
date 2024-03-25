@@ -75,7 +75,7 @@ if __name__ == "__main__":
     current_hour = datetime.now().hour
     current_min = datetime.now().minute
     current_week = datetime.now().isocalendar()[1]
-    
+    status = player_updater()
     ## Player updater runs everyday at 00:00
     if current_hour == 0 and current_min < 11:
         status = player_updater()
