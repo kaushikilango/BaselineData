@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 from baselinedata.utils import logger as lg
 BASE_URL = 'https://www.atptour.com/'
-SGL_RANKINGS_ALL = 'en/rankings/singles/?rankRange=0-5000&Region=all&DateWeek=1974-03-02'
+SGL_RANKINGS_ALL = 'en/rankings/singles/?rankRange=0-5000&Region=all&DateWeek='
 DB_NAME = 'Baseline'
 
 def get_soup(url):
@@ -17,9 +17,9 @@ def get_soup(url):
         lg.LOG_ERROR(f"Error in getting soup. {str(e)}", "players.py", "get_soup")
     return BeautifulSoup(response.text, 'html.parser')
 
-def get_players():
+def get_players(URL,dor):
     lg.LOG_INFO(f"Requesting players", "players.py", "get_players")
-    soup = get_soup(BASE_URL + SGL_RANKINGS_ALL)
+    soup = get_soup(URL)
     players = soup.find('table',class_= 'desktop-table')
     data = pd.DataFrame(columns = ['pid','rank','name','link','points','points_moved','tourneys_played','points_losing','points_gaining'])
     for row in tqdm(players.tbody.find_all('tr')):
@@ -35,23 +35,40 @@ def get_players():
             tourneys_played = columns[5].text.strip()
             points_losing = columns[6].text.strip()
             points_gaining = columns[7].text.strip()
-        row = {'pid':pid,'rank':rank,'name':name,'link':link,'points':points,'points_moved':points_moved,'tourneys_played':tourneys_played,'points_losing':points_losing,'points_gaining':points_gaining}
+        row = {'pid':pid,'rank':rank,'name':name,'link':link,'points':points,'points_moved':points_moved,'tourneys_played':tourneys_played,'points_losing':points_losing,'points_gaining':points_gaining,'date_of_ranking':dor}
         row = pd.Series(row)
         data = data._append(row,ignore_index = True)
         data.drop_duplicates(subset = 'pid',keep = 'first',inplace = True)
     return data
 
+
+
 import datetime
+# Start date
+start_date = datetime.date(1986, 10, 14)
 
-today = datetime.date.today()
-# Get the day of the week (0 for Monday, 6 for Sunday)
-day_of_week = today.weekday()
+# End date (current date)
+end_date = datetime.date.today()
 
-# If today is not Monday, subtract the number of days until Monday
-if day_of_week != 0:
-    monday = today - datetime.timedelta(days=day_of_week)
-else:
-    monday = today
+# Iterate through dates
+current_date = start_date
+weekdays = []
+while current_date <= end_date:
+    # Check if the current date is a Monday
+    if current_date.weekday() == 0:
+        weekdays.append(str(current_date))
+    
+    # Move to the next day
+    current_date += datetime.timedelta(days=1)
 
-# Print the Monday date
-print(monday)
+df = pd.DataFrame(columns = ['pid','rank','name','link','points','points_moved','tourneys_played','points_losing','points_gaining','date_of_ranking'])
+for i in tqdm(weekdays):
+    url = BASE_URL + SGL_RANKINGS_ALL + i
+    try:
+        df = get_players(url,i)
+        if not df.empty:
+            df.to_csv(f'baselinedata\dumps\weekend_rankings_{i}.csv',index = False)
+    except Exception as e:
+        lg.LOG_ERROR(f"Error in getting players. {str(e)}", "players.py", "get_players")
+        continue
+    
